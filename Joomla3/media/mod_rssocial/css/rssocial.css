@@ -1,0 +1,366 @@
+/* General styling */
+.rssocial-inline > ul > li {
+	display: inline-block;
+}
+.rssocial-left {
+	margin: 1em;
+	text-align: left;
+}
+.rssocial-center {
+	margin: 1em;
+	text-align: center;
+}
+.rssocial-right {
+	margin: 1em;
+	text-align: right;
+}
+[class*="rssocial-floating-"] {
+	-webkit-transition: margin .3s ease-in-out;
+	-moz-transition: margin .3s ease-in-out;
+	-o-transition: margin .3s ease-in-out;
+	transition: margin .3s ease-in-out;
+}
+[class*="rssocial-floating-"] .rssocial-slide-button > a:focus {
+	outline: none;
+}
+[class*="rssocial-floating-"] .rssocial-sharing {
+	background-color: #ffffff;
+	margin-top: 1rem;
+	padding: 1rem;
+	position: relative;
+	-webkit-box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, .25);
+	-moz-box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, .25);
+	box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, .25);
+	-webkit-transition: margin .3s ease-in-out;
+	-moz-transition: margin .3s ease-in-out;
+	-o-transition: margin .3s ease-in-out;
+	transition: margin .3s ease-in-out;
+}
+[class*="rssocial-floating-"] .rssocial-sharing .rssocial-slide-button {
+	margin: 0 !important;
+}
+[class*="rssocial-floating-"] .rssocial-sharing .rssocial-slide-button > a {
+	background-color: #17568c;
+	color: #ffffff;
+	display: block;
+	font-size: 1.25rem;
+	padding: .5rem;
+	-webkit-box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, .25);
+	-moz-box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, .25);
+	box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, .25);
+}
+[class*="rssocial-floating-"] .rssocial-slide-button > a > span {
+	display: inline-block;
+}
+[class*="rssocial-floating-"] .rssocial-slide-button > a > span:before {
+	-webkit-transition: transform .3s ease-in-out;
+	-moz-transition: transform .3s ease-in-out;
+	-o-transition: transform .3s ease-in-out;
+	transition: transform .3s ease-in-out;
+}
+[class*="rssocial-floating-"].open .rssocial-slide-button > a > span:before {
+	-webkit-transform: rotate(45deg);
+	-moz-transform: rotate(45deg);
+	-o-transform: rotate(45deg);
+	transform: rotate(45deg);
+}
+
+/* Popup */
+.rssocial-popup > ul {
+	margin: 0;
+}
+.rssocial-popup > ul, .rssocial-popup > ul > li {
+	display: none;
+	opacity: 0;
+	visibility: hidden;
+}
+.rssocial-popup.visible > ul {
+	display: block;
+	margin-top: 5px;
+	opacity: 1;
+	visibility: visible;
+}
+.rssocial-popup.visible > ul > li {
+	display: block;
+	visibility: visible;
+}
+.rssocial-popup.rssocial-inline.visible > ul > li {
+	display: inline-block;
+}
+.rssocial-popup > ul > li.popup {
+	-webkit-animation: popup .3s ease-in;
+	-moz-animation: popup .3s ease-in;
+	-o-animation: popup .3s ease-in;
+	animation: popup .3s ease-in;
+	opacity: 1;
+}
+.rssocial-popup-button {
+	color: #5f5f5f;
+	display: inline-block;
+	margin: .1em;
+	padding: .5em;
+	text-align: center;
+	-webkit-transition: .2s linear;
+	-moz-transition: .2s linear;
+	-o-transition: .2s linear;
+	transition: .2s linear;
+	text-decoration: none;
+}
+.rssocial-popup-button:hover {
+	color: #000000;
+}
+.rssocial-popup-button:focus {
+	outline: none;
+}
+.rssocial-popup-button.full-width {
+	display: block;
+}
+.rssocial-popup-button.rssocial-popup-bg {
+	background-color: #cccccc;
+}
+.rssocial-popup-button.rssocial-popup-bg:hover {
+	background-color: #7f7f7f;
+}
+.rssocial-popup-button.rssocial-popup-round {
+	border-radius: 50%;
+}
+
+@keyframes popup {
+    0% {
+		-webkit-transform: translateY(20px) scale(0.5);
+		-moz-transform: translateY(20px) scale(0.5);
+		-o-transform: translateY(20px) scale(0.5);
+		transform: translateY(20px) scale(0.5);
+	}
+    100% {
+		-webkit-transform: translateY(0) scale(1);
+		-moz-transform: translateY(0) scale(1);
+		-o-transform: translateY(0) scale(1);
+		transform: translateY(0) scale(1);
+	}
+}
+/* End popup */
+
+/* Floating left */
+.rssocial-floating-left {
+	left: 0;
+	top: 10px;
+}
+.rssocial-floating-left .rssocial-sharing > li {
+	margin: 0 0 1rem 0 !important;
+}
+.rssocial-floating-left.rssocial-popup .rssocial-sharing > li:last-of-type,
+.rssocial-floating-left:not(.rssocial-popup) .rssocial-sharing > li:nth-last-of-type(2) {
+	margin: 0 !important;
+}
+.rssocial-floating-left .rssocial-slide-button {
+	position: absolute;
+	left: 100%;
+	top: 0;
+}
+.rssocial-floating-left.open {
+	margin-left: 0 !important;
+}
+/* End floating left */
+
+/* Floating right */
+.rssocial-floating-right {
+	right: 0;
+	top: 10px;
+}
+.rssocial-floating-right .rssocial-sharing > li {
+	margin: 0 0 1rem 0 !important;
+}
+.rssocial-floating-right.rssocial-popup .rssocial-sharing > li:last-of-type,
+.rssocial-floating-right:not(.rssocial-popup) .rssocial-sharing > li:nth-last-of-type(2) {
+	margin: 0 !important;
+}
+.rssocial-floating-right .rssocial-slide-button {
+	position: absolute;
+	right: 100%;
+	top: 0;
+}
+.rssocial-floating-right.open {
+	margin-right: 0 !important;
+}
+/* End floating right */
+
+/* Floating top */
+.rssocial-floating-top {
+	left: 50%;
+	top: 0;
+	text-align: center;
+	-webkit-transform: translate(-50%, 0);
+	-moz-transform: translate(-50%, 0);
+	-o-transform: translate(-50%, 0);
+	transform: translate(-50%, 0);
+}
+.rssocial-floating-top .rssocial-sharing {
+	margin-top: 0;
+}
+.rssocial-floating-top .rssocial-sharing > li {
+	margin: .5rem !important;
+}
+.rssocial-floating-top .rssocial-slide-button {
+	position: absolute;
+	right: 0;
+	top: 100%;
+}
+.rssocial-floating-top.open {
+	margin-top: 0 !important;
+}
+/* End floating top */
+
+/* Floating bottom */
+.rssocial-floating-bottom {
+	bottom: 0;
+	left: 50%;
+	text-align: center;
+	-webkit-transform: translate(-50%, 0);
+	-moz-transform: translate(-50%, 0);
+	-o-transform: translate(-50%, 0);
+	transform: translate(-50%, 0);
+}
+.rssocial-floating-bottom .rssocial-sharing {
+	margin-top: 0;
+}
+.rssocial-floating-bottom .rssocial-sharing > li {
+	margin: .5rem !important;
+}
+.rssocial-floating-bottom .rssocial-slide-button {
+	position: absolute;
+	right: 0;
+	bottom: 100%;
+}
+.rssocial-floating-bottom.open {
+	margin-bottom: 0 !important;
+}
+/* End floating bottom */
+
+.rssocial-fixed {
+	position: fixed;
+}
+.rssocial-absolute {
+	position: absolute;
+}
+.rssocial-clear {
+	clear: both;
+}
+
+@-webkit-keyframes fade {
+	0% {
+		opacity: 0;
+	}
+	
+	100% {
+		opacity: 1;
+	}
+}
+
+@keyframes fade {
+	
+}
+/* End general styling */
+
+/* Icons styling */
+.rssocial-icons, .rssocial-icons-sharing {
+	font-size: 0;
+	list-style: none;
+	margin: 0;
+}
+.rssocial-icons > li, .rssocial-icons-sharing > li {
+	margin: .1em;
+}
+.rssocial-icons .rssocial-icons-nobg > li > a:hover,
+.rssocial-icons .rssocial-icons-nobg > li > a:active,
+.rssocial-icons .rssocial-icons-nobg > li > a:focus,
+.rssocial-icons-sharing .rssocial-icons-nobg > li > a:active,
+.rssocial-icons-sharing .rssocial-icons-nobg > li > a:hover,
+.rssocial-icons-sharing .rssocial-icons-nobg > li > a:focus {
+	background-color: none;
+}
+.rssocial-icons-nobg-button-left, .rssocial-icons-bg-button-left, .rssocial-icons-round-button-left {
+	float: left;
+	margin-left: 10px !important;
+}
+.rssocial-icons-nobg-button-right, .rssocial-icons-bg-button-right, .rssocial-icons-round-button-right {
+	float: right;
+	margin-right: 10px !important;
+}
+.rssocial-icons-nobg-button-top, .rssocial-icons-bg-button-top, .rssocial-icons-round-button-top,
+.rssocial-icons-nobg-button-bottom, .rssocial-icons-bg-button-bottom, .rssocial-icons-round-button-bottom {
+	float: right;
+}
+
+/* Icons effects fixes */
+.rssocial-icons-rounded .shadow-radial:before, .rssocial-icons-rounded .shadow-radial:after {
+	left: 50%;
+	-webkit-transform: translate(-50%, 0);
+	-moz-transform: translate(-50%, 0);
+	-o-transform: translate(-50%, 0);
+	transform: translate(-50%, 0);
+}
+.rssocial-icons-round .trim:before {
+	border-radius: 50%;
+}
+.rssocial-icons-round .outline-outward:before {
+	border-radius: 50%;
+}
+.rssocial-icons-round .outline-inward:before {
+	border-radius: 50%;
+}
+.rssocial-icons-round .shadow-radial:before {
+	background: none;
+	background-color: transparent;
+	border-radius: 50%;
+	left: 0;
+	top: 0;
+	height: 100%;
+	width: 100%;
+	-webkit-box-shadow: 0px -3px 5px 0px rgba(0, 0, 0, 0.3);
+	-moz-box-shadow: 0px -3px 5px 0px rgba(0, 0, 0, 0.3);
+	box-shadow: 0px -3px 5px 0px rgba(0, 0, 0, 0.3);
+}
+.rssocial-icons-round .shadow-radial:after {
+	background: none;
+	background-color: transparent;
+	border-radius: 50%;
+	left: 0;
+	top: 0;
+	height: 100%;
+	width: 100%;
+	-webkit-box-shadow: 0px 3px 5px 0px rgba(0, 0, 0, 0.3);
+	-moz-box-shadow: 0px 3px 5px 0px rgba(0, 0, 0, 0.3);
+	box-shadow: 0px 3px 5px 0px rgba(0, 0, 0, 0.3);
+}
+/* End icons effects fixes */
+/* End icons styling */
+
+/* Sharing styling */
+.rssocial-sharing {
+	font-size: 0;
+	list-style-type: none;
+	margin: 0;
+}
+.rssocial-sharing > li {
+	font-size: 1rem;
+	line-height: 1;
+	margin-bottom: 10px;
+	vertical-align: middle;
+}
+.rssocial-sharing > li.small {
+	height: 20px;
+}
+.rssocial-sharing > li .skypeShare {
+	border-radius: 2px;
+	display: inline-block;
+	float: none;
+	vertical-align: top;
+}
+.rssocial-inline > ul.rssocial-sharing > li {
+	margin-right: 10px;
+}
+.rssocial-inline > ul.rssocial-sharing > li:last-of-type {
+	margin-right: 0;
+}
+/* End sharing styling */

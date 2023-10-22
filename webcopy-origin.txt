@@ -1,0 +1,2384 @@
+Uri: https://assets.pinterest.com/images/pidgets/pinit_fg_en_rect_red_20.png
+File Name: C:\Downloaded Web Sites\www.beneinst.it\images\pidgets\pinit_fg_en_rect_red_20.png
+Content Type: image/png
+
+Uri: https://cdn.iubenda.com/cs/ccpa/stub.js
+File Name: C:\Downloaded Web Sites\www.beneinst.it\cs\ccpa\stub.js
+Content Type: application/javascript
+
+Uri: https://cdn.iubenda.com/cs/iubenda_cs.js
+File Name: C:\Downloaded Web Sites\www.beneinst.it\cs\iubenda_cs.js
+Content Type: application/javascript
+
+Uri: https://counter4.optistats.ovh/private/contatoreaccessi.php?c=kcr66ansm8fg5tyjst24a2qt66kn6n7j
+File Name: C:\Downloaded Web Sites\www.beneinst.it\private\contatoreaccessi.php
+Content Type: image/png
+
+Uri: https://fonts.googleapis.com/css?family=Lato:300
+File Name: C:\Downloaded Web Sites\www.beneinst.it\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Lato:400
+File Name: C:\Downloaded Web Sites\www.beneinst.it\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Lato:700
+File Name: C:\Downloaded Web Sites\www.beneinst.it\css-3
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:400
+File Name: C:\Downloaded Web Sites\www.beneinst.it\css-5
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:500
+File Name: C:\Downloaded Web Sites\www.beneinst.it\css-6
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:600
+File Name: C:\Downloaded Web Sites\www.beneinst.it\css-4
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:400
+File Name: C:\Downloaded Web Sites\www.beneinst.it\css-2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh6UVSwiPHA.ttf
+File Name: C:\Downloaded Web Sites\www.beneinst.it\s\lato\v24\S6u9w4BMUTPHh6UVSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh7USSwiPHA.ttf
+File Name: C:\Downloaded Web Sites\www.beneinst.it\s\lato\v24\S6u9w4BMUTPHh7USSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjx4wWw.ttf
+File Name: C:\Downloaded Web Sites\www.beneinst.it\s\lato\v24\S6uyw4BMUTPHjx4wWw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v36/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\www.beneinst.it\s\opensans\v36\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v36/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjr0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\www.beneinst.it\s\opensans\v36\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjr0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v36/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\www.beneinst.it\s\opensans\v36\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\www.beneinst.it\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\www.beneinst.it\font-awesome\4.7.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\www.beneinst.it\font-awesome\4.7.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.beneinst.it\font-awesome\4.7.0\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.beneinst.it\font-awesome\4.7.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.beneinst.it\font-awesome\4.7.0\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.beneinst.it\font-awesome\4.7.0\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.beneinst.it\font-awesome\4.7.0\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://static.copyrighted.com/badges/125x25/04_1.png
+File Name: C:\Downloaded Web Sites\www.beneinst.it\badges\125x25\04_1.png
+Content Type: image/png
+
+Uri: https://static.copyrighted.com/badges/125x25/04_1_2x.png
+File Name: C:\Downloaded Web Sites\www.beneinst.it\badges\125x25\04_1_2x.png
+Content Type: image/png
+
+Uri: https://static.copyrighted.com/badges/125x75/04.png
+File Name: C:\Downloaded Web Sites\www.beneinst.it\badges\125x75\04.png
+Content Type: image/png
+
+Uri: https://static.copyrighted.com/badges/125x75/04_2x.png
+File Name: C:\Downloaded Web Sites\www.beneinst.it\badges\125x75\04_2x.png
+Content Type: image/png
+
+Uri: https://use.fontawesome.com/releases/v5.1.0/css/all.css
+File Name: C:\Downloaded Web Sites\www.beneinst.it\releases\v5.1.0\css\all.css
+Content Type: text/css
+
+Uri: https://use.fontawesome.com/releases/v5.1.0/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\www.beneinst.it\releases\v5.1.0\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.1.0/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\www.beneinst.it\releases\v5.1.0\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.1.0/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\www.beneinst.it\releases\v5.1.0\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.1.0/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\www.beneinst.it\releases\v5.1.0\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.1.0/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\www.beneinst.it\releases\v5.1.0\webfonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://use.fontawesome.com/releases/v5.1.0/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\www.beneinst.it\releases\v5.1.0\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.1.0/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\www.beneinst.it\releases\v5.1.0\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.1.0/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\www.beneinst.it\releases\v5.1.0\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.1.0/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\www.beneinst.it\releases\v5.1.0\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.1.0/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\www.beneinst.it\releases\v5.1.0\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.1.0/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\www.beneinst.it\releases\v5.1.0\webfonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: https://use.fontawesome.com/releases/v5.1.0/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\www.beneinst.it\releases\v5.1.0\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.1.0/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\www.beneinst.it\releases\v5.1.0\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.1.0/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\www.beneinst.it\releases\v5.1.0\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.1.0/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\www.beneinst.it\releases\v5.1.0\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.1.0/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\www.beneinst.it\releases\v5.1.0\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.1.0/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\www.beneinst.it\releases\v5.1.0\webfonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://use.fontawesome.com/releases/v5.1.0/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\www.beneinst.it\releases\v5.1.0\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://www.beneinst.it/Joomla3/
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\index.htm
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/?format=feed&type=atom
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\index-2.htm
+Content Type: application/atom+xml
+
+Uri: https://www.beneinst.it/Joomla3/?format=feed&type=rss
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\index-1.htm
+Content Type: application/rss+xml
+
+Uri: https://www.beneinst.it/Joomla3/audiolibri
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\audiolibri.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/audiolibri.html
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\audiolibri-1.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/awz3-mobi
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\awz3-mobi.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/awz3-mobi.feed?type=atom
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\awz3-mobi-1.feed
+Content Type: application/atom+xml
+
+Uri: https://www.beneinst.it/Joomla3/awz3-mobi.feed?type=rss
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\awz3-mobi.feed
+Content Type: application/rss+xml
+
+Uri: https://www.beneinst.it/Joomla3/awz3-mobi.html
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\awz3-mobi-1.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/awz3-mobi.html?start=2
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\awz3-mobi-2.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/chi-sono
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\chi-sono.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/chi-sono.html
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\chi-sono-1.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/chisono/cookie-privacy-policy
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\chisono\cookie-privacy-policy-1.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/chisono/cookie-privacy-policy.html
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\chisono\cookie-privacy-policy.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/condiscendenza-umana
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\condiscendenza-umana.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/condiscendenza-umana.html
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\condiscendenza-umana-1.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/contatti
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\contatti.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/contatti.html
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\contatti-1.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/di-anna-maria-tarantino
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-anna-maria-tarantino.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/di-anna-maria-tarantino.feed?type=atom
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-anna-maria-tarantino-1.feed
+Content Type: application/atom+xml
+
+Uri: https://www.beneinst.it/Joomla3/di-anna-maria-tarantino.feed?type=rss
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-anna-maria-tarantino.feed
+Content Type: application/rss+xml
+
+Uri: https://www.beneinst.it/Joomla3/di-anna-maria-tarantino.html
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-anna-maria-tarantino-1.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/di-arturo-pistocchi
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-arturo-pistocchi.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/di-arturo-pistocchi-2
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-arturo-pistocchi-2.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/di-arturo-pistocchi-2.feed?type=atom
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-arturo-pistocchi-2-1.feed
+Content Type: application/atom+xml
+
+Uri: https://www.beneinst.it/Joomla3/di-arturo-pistocchi-2.feed?type=rss
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-arturo-pistocchi-2.feed
+Content Type: application/rss+xml
+
+Uri: https://www.beneinst.it/Joomla3/di-arturo-pistocchi-2.html
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-arturo-pistocchi-2-1.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/di-arturo-pistocchi.feed?type=atom
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-arturo-pistocchi-1.feed
+Content Type: application/atom+xml
+
+Uri: https://www.beneinst.it/Joomla3/di-arturo-pistocchi.feed?type=rss
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-arturo-pistocchi.feed
+Content Type: application/rss+xml
+
+Uri: https://www.beneinst.it/Joomla3/di-arturo-pistocchi.html
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-arturo-pistocchi-1.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/di-arturo-pistocchi.html?start=1
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-arturo-pistocchi-3.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/di-arturo-pistocchi.html?start=2
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-arturo-pistocchi-4.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/di-begonia-curto
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-begonia-curto.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/di-begonia-curto.html
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-begonia-curto-1.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/di-chiara-g-schiavini
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-chiara-g-schiavini.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/di-chiara-g-schiavini.feed?type=atom
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-chiara-g-schiavini-1.feed
+Content Type: application/atom+xml
+
+Uri: https://www.beneinst.it/Joomla3/di-chiara-g-schiavini.feed?type=rss
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-chiara-g-schiavini.feed
+Content Type: application/rss+xml
+
+Uri: https://www.beneinst.it/Joomla3/di-chiara-g-schiavini.html
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-chiara-g-schiavini-1.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/di-felice-gualtieri
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-felice-gualtieri.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/di-felice-gualtieri.html
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-felice-gualtieri-1.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/di-francesco-magli
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-francesco-magli.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/di-francesco-magli.html
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-francesco-magli-1.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/di-franco-bazzarelli
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-franco-bazzarelli.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/di-franco-bazzarelli.feed?type=atom
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-franco-bazzarelli-1.feed
+Content Type: application/atom+xml
+
+Uri: https://www.beneinst.it/Joomla3/di-franco-bazzarelli.feed?type=rss
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-franco-bazzarelli.feed
+Content Type: application/rss+xml
+
+Uri: https://www.beneinst.it/Joomla3/di-franco-bazzarelli.html
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-franco-bazzarelli-1.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/di-franco-farina
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-franco-farina.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/di-franco-farina.feed?type=atom
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-franco-farina-1.feed
+Content Type: application/atom+xml
+
+Uri: https://www.beneinst.it/Joomla3/di-franco-farina.feed?type=rss
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-franco-farina.feed
+Content Type: application/rss+xml
+
+Uri: https://www.beneinst.it/Joomla3/di-franco-farina.html
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-franco-farina-3.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/di-franco-farina.html?start=1
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-franco-farina-1.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/di-franco-farina.html?start=2
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-franco-farina-2.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/di-g-ambrosecchia
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-g-ambrosecchia.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/di-g-ambrosecchia.feed?type=atom
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-g-ambrosecchia-1.feed
+Content Type: application/atom+xml
+
+Uri: https://www.beneinst.it/Joomla3/di-g-ambrosecchia.feed?type=rss
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-g-ambrosecchia.feed
+Content Type: application/rss+xml
+
+Uri: https://www.beneinst.it/Joomla3/di-g-ambrosecchia.html
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-g-ambrosecchia-4.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/di-g-ambrosecchia.html?start=2
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-g-ambrosecchia-1.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/di-g-ambrosecchia.html?start=4
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-g-ambrosecchia-2.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/di-g-ambrosecchia.html?start=6
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-g-ambrosecchia-3.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/di-katia-ferri
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-katia-ferri.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/di-katia-ferri.html
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-katia-ferri-1.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/di-luigi-cardarelli
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-luigi-cardarelli.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/di-luigi-cardarelli.feed?type=atom
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-luigi-cardarelli-1.feed
+Content Type: application/atom+xml
+
+Uri: https://www.beneinst.it/Joomla3/di-luigi-cardarelli.feed?type=rss
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-luigi-cardarelli.feed
+Content Type: application/rss+xml
+
+Uri: https://www.beneinst.it/Joomla3/di-luigi-cardarelli.html
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-luigi-cardarelli-1.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/di-luigi-cardarelli.html?start=1
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-luigi-cardarelli-2.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/di-luigi-cardarelli.html?start=2
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-luigi-cardarelli-3.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/di-luigi-cardarelli.html?start=3
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-luigi-cardarelli-4.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/di-marco-piluso
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-marco-piluso.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/di-marco-piluso.html
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-marco-piluso-1.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/di-maria-teresa-azzoni
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-maria-teresa-azzoni.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/di-maria-teresa-azzoni.feed?type=atom
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-maria-teresa-azzoni-1.feed
+Content Type: application/atom+xml
+
+Uri: https://www.beneinst.it/Joomla3/di-maria-teresa-azzoni.feed?type=rss
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-maria-teresa-azzoni.feed
+Content Type: application/rss+xml
+
+Uri: https://www.beneinst.it/Joomla3/di-maria-teresa-azzoni.html
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-maria-teresa-azzoni-1.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/di-maria-teresa-azzoni.html?start=1
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-maria-teresa-azzoni-2.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/di-marino-recupero
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-marino-recupero.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/di-marino-recupero.html
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-marino-recupero-1.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/di-massimo-vaj
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-massimo-vaj.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/di-massimo-vaj.feed?type=atom
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-massimo-vaj-1.feed
+Content Type: application/atom+xml
+
+Uri: https://www.beneinst.it/Joomla3/di-massimo-vaj.feed?type=rss
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-massimo-vaj.feed
+Content Type: application/rss+xml
+
+Uri: https://www.beneinst.it/Joomla3/di-massimo-vaj.html
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-massimo-vaj-1.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/di-massimo-vaj.html?start=1
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-massimo-vaj-2.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/di-massimo-vaj.html?start=2
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-massimo-vaj-3.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/di-rita-matrella
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-rita-matrella.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/di-rita-matrella.html
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-rita-matrella-1.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/di-rocco-veltri
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-rocco-veltri.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/di-rocco-veltri.feed?type=atom
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-rocco-veltri-1.feed
+Content Type: application/atom+xml
+
+Uri: https://www.beneinst.it/Joomla3/di-rocco-veltri.feed?type=rss
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-rocco-veltri.feed
+Content Type: application/rss+xml
+
+Uri: https://www.beneinst.it/Joomla3/di-rocco-veltri.html
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-rocco-veltri-3.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/di-rocco-veltri.html?start=2
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-rocco-veltri-4.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/di-rocco-veltri.html?start=4
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-rocco-veltri-1.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/di-rocco-veltri?start=2
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-rocco-veltri-2.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/di-rosachiara-bentivenga
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-rosachiara-bentivenga.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/di-rosachiara-bentivenga.html
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-rosachiara-bentivenga-1.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/di-rosario-furgiuele
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-rosario-furgiuele.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/di-rosario-furgiuele.html
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-rosario-furgiuele-1.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/di-salvatore-esposito
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-salvatore-esposito.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/di-salvatore-esposito.feed?type=atom
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-salvatore-esposito-1.feed
+Content Type: application/atom+xml
+
+Uri: https://www.beneinst.it/Joomla3/di-salvatore-esposito.feed?type=rss
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-salvatore-esposito.feed
+Content Type: application/rss+xml
+
+Uri: https://www.beneinst.it/Joomla3/di-salvatore-esposito.html
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-salvatore-esposito-1.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/di-salvatore-messina-2
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-salvatore-messina-2.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/di-salvatore-messina-2.feed?type=atom
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-salvatore-messina-2-1.feed
+Content Type: application/atom+xml
+
+Uri: https://www.beneinst.it/Joomla3/di-salvatore-messina-2.feed?type=rss
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-salvatore-messina-2.feed
+Content Type: application/rss+xml
+
+Uri: https://www.beneinst.it/Joomla3/di-salvatore-messina-2.html
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-salvatore-messina-2-1.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/di-valerio-pazzi
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-valerio-pazzi.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/di-valerio-pazzi.html
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\di-valerio-pazzi-1.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/diari-menu
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\diari-menu.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/epub
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\epub.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/epub.feed?type=atom
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\epub-1.feed
+Content Type: application/atom+xml
+
+Uri: https://www.beneinst.it/Joomla3/epub.feed?type=rss
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\epub.feed
+Content Type: application/rss+xml
+
+Uri: https://www.beneinst.it/Joomla3/epub.html
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\epub-1.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/epub.html?start=2
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\epub-2.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/i-sogni-il-tempo
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\i-sogni-il-tempo.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/i-sogni-il-tempo.html
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\i-sogni-il-tempo-1.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/images/13j.png
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\13j.png
+Content Type: image/png
+
+Uri: https://www.beneinst.it/Joomla3/images/aubookIc2.png
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\aubookIc2.png
+Content Type: image/png
+
+Uri: https://www.beneinst.it/Joomla3/images/aubookS.png
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\aubookS.png
+Content Type: image/png
+
+Uri: https://www.beneinst.it/Joomla3/images/Audio/18_1_Es
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Audio\18_1_Es
+Content Type: audio/mpeg
+
+Uri: https://www.beneinst.it/Joomla3/images/Audio/20_Le_jeu_de_dames_et_dchecs
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Audio\20_Le_jeu_de_dames_et_dchecs
+Content Type: audio/mpeg
+
+Uri: https://www.beneinst.it/Joomla3/images/Audio/ab_1982_5_10511
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Audio\ab_1982_5_10511
+Content Type: audio/mpeg
+
+Uri: https://www.beneinst.it/Joomla3/images/Audio/ab_1983_1_8574
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Audio\ab_1983_1_8574
+Content Type: audio/mpeg
+
+Uri: https://www.beneinst.it/Joomla3/images/Audio/ab_1983_1_8575
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Audio\ab_1983_1_8575
+Content Type: audio/mpeg
+
+Uri: https://www.beneinst.it/Joomla3/images/Audio/ab_1983_1_8576
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Audio\ab_1983_1_8576
+Content Type: audio/mpeg
+
+Uri: https://www.beneinst.it/Joomla3/images/Audio/ab_1983_1_8577
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Audio\ab_1983_1_8577
+Content Type: audio/mpeg
+
+Uri: https://www.beneinst.it/Joomla3/images/Audio/ab_1983_2_18856
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Audio\ab_1983_2_18856
+Content Type: audio/mpeg
+
+Uri: https://www.beneinst.it/Joomla3/images/Audio/dttsab_1985_5_12333
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Audio\dttsab_1985_5_12333
+Content Type: audio/mpeg
+
+Uri: https://www.beneinst.it/Joomla3/images/Audio/sdcab_1983_5_11259
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Audio\sdcab_1983_5_11259
+Content Type: audio/mpeg
+
+Uri: https://www.beneinst.it/Joomla3/images/Audio/sgntdmab_1984_5_12272
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Audio\sgntdmab_1984_5_12272
+Content Type: audio/mpeg
+
+Uri: https://www.beneinst.it/Joomla3/images/bg4K/7x.jpg
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\bg4K\7x.jpg
+Content Type: image/jpeg
+
+Uri: https://www.beneinst.it/Joomla3/images/book2.gif
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\book2.gif
+Content Type: image/gif
+
+Uri: https://www.beneinst.it/Joomla3/images/bookiw.png
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\bookiw.png
+Content Type: image/png
+
+Uri: https://www.beneinst.it/Joomla3/images/Contwe.png
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Contwe.png
+Content Type: image/png
+
+Uri: https://www.beneinst.it/Joomla3/images/Copertine/ilprimo2.jpg
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Copertine\ilprimo2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.beneinst.it/Joomla3/images/Copertine/Miniature/image001.png
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Copertine\Miniature\image001.png
+Content Type: image/png
+
+Uri: https://www.beneinst.it/Joomla3/images/Copertine/Miniature/image0010.png
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Copertine\Miniature\image0010.png
+Content Type: image/png
+
+Uri: https://www.beneinst.it/Joomla3/images/Copertine/Miniature/image0010A
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Copertine\Miniature\image0010A
+Content Type: image/webp
+
+Uri: https://www.beneinst.it/Joomla3/images/Copertine/Miniature/image0010A.png
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Copertine\Miniature\image0010A.png
+Content Type: image/png
+
+Uri: https://www.beneinst.it/Joomla3/images/Copertine/Miniature/image001A
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Copertine\Miniature\image001A
+Content Type: image/png
+
+Uri: https://www.beneinst.it/Joomla3/images/Copertine/Miniature/image002.png
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Copertine\Miniature\image002.png
+Content Type: image/png
+
+Uri: https://www.beneinst.it/Joomla3/images/Copertine/Miniature/image002A
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Copertine\Miniature\image002A
+Content Type: image/webp
+
+Uri: https://www.beneinst.it/Joomla3/images/Copertine/Miniature/image002A.png
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Copertine\Miniature\image002A.png
+Content Type: image/png
+
+Uri: https://www.beneinst.it/Joomla3/images/Copertine/Miniature/image003.png
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Copertine\Miniature\image003.png
+Content Type: image/png
+
+Uri: https://www.beneinst.it/Joomla3/images/Copertine/Miniature/image004.png
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Copertine\Miniature\image004.png
+Content Type: image/png
+
+Uri: https://www.beneinst.it/Joomla3/images/Copertine/Miniature/image005.png
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Copertine\Miniature\image005.png
+Content Type: image/png
+
+Uri: https://www.beneinst.it/Joomla3/images/Copertine/Miniature/image006.png
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Copertine\Miniature\image006.png
+Content Type: image/png
+
+Uri: https://www.beneinst.it/Joomla3/images/Copertine/Miniature/image008.png
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Copertine\Miniature\image008.png
+Content Type: image/png
+
+Uri: https://www.beneinst.it/Joomla3/images/Copertine/Miniature/image008A
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Copertine\Miniature\image008A
+Content Type: image/webp
+
+Uri: https://www.beneinst.it/Joomla3/images/Copertine/Miniature/image008A.png
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Copertine\Miniature\image008A.png
+Content Type: image/png
+
+Uri: https://www.beneinst.it/Joomla3/images/Copertine/Miniature/image009.png
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Copertine\Miniature\image009.png
+Content Type: image/png
+
+Uri: https://www.beneinst.it/Joomla3/images/Copertine/Miniature/soffIngle.png
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Copertine\Miniature\soffIngle.png
+Content Type: image/png
+
+Uri: https://www.beneinst.it/Joomla3/images/Copertine/Miniature/soffSpgn.png
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Copertine\Miniature\soffSpgn.png
+Content Type: image/png
+
+Uri: https://www.beneinst.it/Joomla3/images/Copertine/quarto2.jpg
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Copertine\quarto2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.beneinst.it/Joomla3/images/Copertine/secondo2.jpg
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Copertine\secondo2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.beneinst.it/Joomla3/images/Copertine/terzo2.jpg
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Copertine\terzo2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.beneinst.it/Joomla3/images/Copertine/Title/1en.png
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Copertine\Title\1en.png
+Content Type: image/png
+
+Uri: https://www.beneinst.it/Joomla3/images/Copertine/Title/1es.png
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Copertine\Title\1es.png
+Content Type: image/png
+
+Uri: https://www.beneinst.it/Joomla3/images/Copertine/Title/1fr.png
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Copertine\Title\1fr.png
+Content Type: image/png
+
+Uri: https://www.beneinst.it/Joomla3/images/Copertine/Title/1it2.png
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Copertine\Title\1it2.png
+Content Type: image/png
+
+Uri: https://www.beneinst.it/Joomla3/images/Copertine/Title/2en.png
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Copertine\Title\2en.png
+Content Type: image/png
+
+Uri: https://www.beneinst.it/Joomla3/images/Copertine/Title/2es.png
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Copertine\Title\2es.png
+Content Type: image/png
+
+Uri: https://www.beneinst.it/Joomla3/images/Copertine/Title/2fr.png
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Copertine\Title\2fr.png
+Content Type: image/png
+
+Uri: https://www.beneinst.it/Joomla3/images/Copertine/Title/2it2.png
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Copertine\Title\2it2.png
+Content Type: image/png
+
+Uri: https://www.beneinst.it/Joomla3/images/Copertine/Title/3en.png
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Copertine\Title\3en.png
+Content Type: image/png
+
+Uri: https://www.beneinst.it/Joomla3/images/Copertine/Title/3fr.png
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Copertine\Title\3fr.png
+Content Type: image/png
+
+Uri: https://www.beneinst.it/Joomla3/images/Copertine/Title/3it.png
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Copertine\Title\3it.png
+Content Type: image/png
+
+Uri: https://www.beneinst.it/Joomla3/images/Copertine/Title/4en.png
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Copertine\Title\4en.png
+Content Type: image/png
+
+Uri: https://www.beneinst.it/Joomla3/images/Copertine/Title/4es.png
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Copertine\Title\4es.png
+Content Type: image/png
+
+Uri: https://www.beneinst.it/Joomla3/images/Copertine/Title/4fr.png
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Copertine\Title\4fr.png
+Content Type: image/png
+
+Uri: https://www.beneinst.it/Joomla3/images/Copertine/Title/4it.png
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Copertine\Title\4it.png
+Content Type: image/png
+
+Uri: https://www.beneinst.it/Joomla3/images/Disegni/FrancescoMagli/1.jpg
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Disegni\FrancescoMagli\1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.beneinst.it/Joomla3/images/Disegni/FrancescoMagli/2.jpg
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Disegni\FrancescoMagli\2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.beneinst.it/Joomla3/images/Disegni/FrancescoMagli/3.jpg
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Disegni\FrancescoMagli\3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.beneinst.it/Joomla3/images/Disegni/FrancescoMagli/4.jpg
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Disegni\FrancescoMagli\4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.beneinst.it/Joomla3/images/Disegni/FrancescoMagli/5.jpg
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Disegni\FrancescoMagli\5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.beneinst.it/Joomla3/images/Disegni/FrancescoMagli/6.jpg
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Disegni\FrancescoMagli\6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.beneinst.it/Joomla3/images/Disegni/FrancescoMagli/7.jpg
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Disegni\FrancescoMagli\7.jpg
+Content Type: image/jpeg
+
+Uri: https://www.beneinst.it/Joomla3/images/Disegni/FrancescoMagli/8.jpg
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Disegni\FrancescoMagli\8.jpg
+Content Type: image/jpeg
+
+Uri: https://www.beneinst.it/Joomla3/images/Disegni/GualtieriFelice/1c.jpg
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Disegni\GualtieriFelice\1c.jpg
+Content Type: image/jpeg
+
+Uri: https://www.beneinst.it/Joomla3/images/Disegni/GualtieriFelice/3c.JPG
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Disegni\GualtieriFelice\3c.JPG
+Content Type: image/jpeg
+
+Uri: https://www.beneinst.it/Joomla3/images/Disegni/RFurgiuele/1.jpg
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Disegni\RFurgiuele\1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.beneinst.it/Joomla3/images/Disegni/RFurgiuele/2.jpg
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Disegni\RFurgiuele\2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.beneinst.it/Joomla3/images/Disegni/RFurgiuele/3.jpg
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Disegni\RFurgiuele\3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.beneinst.it/Joomla3/images/Disegni/RFurgiuele/4.jpg
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Disegni\RFurgiuele\4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.beneinst.it/Joomla3/images/Disegni/RFurgiuele/5.jpg
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Disegni\RFurgiuele\5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.beneinst.it/Joomla3/images/Disegni/RFurgiuele/6.jpg
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Disegni\RFurgiuele\6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.beneinst.it/Joomla3/images/Disegni/RFurgiuele/7.jpg
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Disegni\RFurgiuele\7.jpg
+Content Type: image/jpeg
+
+Uri: https://www.beneinst.it/Joomla3/images/Disegni/RFurgiuele/8.jpg
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Disegni\RFurgiuele\8.jpg
+Content Type: image/jpeg
+
+Uri: https://www.beneinst.it/Joomla3/images/Disegni/RFurgiuele/9.jpg
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Disegni\RFurgiuele\9.jpg
+Content Type: image/jpeg
+
+Uri: https://www.beneinst.it/Joomla3/images/Disegni/RitaMatrella/1.jpg
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Disegni\RitaMatrella\1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.beneinst.it/Joomla3/images/Disegni/RitaMatrella/10.jpg
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Disegni\RitaMatrella\10.jpg
+Content Type: image/jpeg
+
+Uri: https://www.beneinst.it/Joomla3/images/Disegni/RitaMatrella/2.jpg
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Disegni\RitaMatrella\2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.beneinst.it/Joomla3/images/Disegni/RitaMatrella/3.jpg
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Disegni\RitaMatrella\3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.beneinst.it/Joomla3/images/Disegni/RitaMatrella/5.jpg
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Disegni\RitaMatrella\5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.beneinst.it/Joomla3/images/Disegni/RitaMatrella/6.jpg
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Disegni\RitaMatrella\6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.beneinst.it/Joomla3/images/Disegni/RitaMatrella/7.jpg
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Disegni\RitaMatrella\7.jpg
+Content Type: image/jpeg
+
+Uri: https://www.beneinst.it/Joomla3/images/Disegni/RitaMatrella/8.jpg
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Disegni\RitaMatrella\8.jpg
+Content Type: image/jpeg
+
+Uri: https://www.beneinst.it/Joomla3/images/Disegni/RitaMatrella/9.jpg
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Disegni\RitaMatrella\9.jpg
+Content Type: image/jpeg
+
+Uri: https://www.beneinst.it/Joomla3/images/Disegni/Rosachiara/1.jpg
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Disegni\Rosachiara\1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.beneinst.it/Joomla3/images/Disegni/Rosachiara/2a.jpg
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Disegni\Rosachiara\2a.jpg
+Content Type: image/jpeg
+
+Uri: https://www.beneinst.it/Joomla3/images/Disegni/Rosachiara/3a.jpg
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Disegni\Rosachiara\3a.jpg
+Content Type: image/jpeg
+
+Uri: https://www.beneinst.it/Joomla3/images/Disegni/Rosachiara/4.jpg
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Disegni\Rosachiara\4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.beneinst.it/Joomla3/images/Disegni/Rosachiara/5.jpg
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Disegni\Rosachiara\5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.beneinst.it/Joomla3/images/Disegni/Rosachiara/6.jpg
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Disegni\Rosachiara\6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.beneinst.it/Joomla3/images/Disegni/TonnaraSal/1b.jpg
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Disegni\TonnaraSal\1b.jpg
+Content Type: image/jpeg
+
+Uri: https://www.beneinst.it/Joomla3/images/Disegni/TonnaraSal/2b.jpg
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Disegni\TonnaraSal\2b.jpg
+Content Type: image/jpeg
+
+Uri: https://www.beneinst.it/Joomla3/images/Disegni/TonnaraSal/3b.jpg
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Disegni\TonnaraSal\3b.jpg
+Content Type: image/jpeg
+
+Uri: https://www.beneinst.it/Joomla3/images/Disegni/TonnaraSal/4b.jpg
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Disegni\TonnaraSal\4b.jpg
+Content Type: image/jpeg
+
+Uri: https://www.beneinst.it/Joomla3/images/Disegni/TonnaraSal/5b.jpg
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Disegni\TonnaraSal\5b.jpg
+Content Type: image/jpeg
+
+Uri: https://www.beneinst.it/Joomla3/images/Disegni/TonnaraSal/6b.jpg
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Disegni\TonnaraSal\6b.jpg
+Content Type: image/jpeg
+
+Uri: https://www.beneinst.it/Joomla3/images/Disegni/ValerioPazzi/1.jpg
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Disegni\ValerioPazzi\1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.beneinst.it/Joomla3/images/Disegni/ValerioPazzi/2.jpg
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Disegni\ValerioPazzi\2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.beneinst.it/Joomla3/images/Disegni/ValerioPazzi/3.jpg
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Disegni\ValerioPazzi\3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.beneinst.it/Joomla3/images/Disegni/ValerioPazzi/4.jpg
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Disegni\ValerioPazzi\4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.beneinst.it/Joomla3/images/Disegni/ValerioPazzi/5.jpg
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Disegni\ValerioPazzi\5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.beneinst.it/Joomla3/images/Down33b.png
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Down33b.png
+Content Type: image/png
+
+Uri: https://www.beneinst.it/Joomla3/images/E-Epub.png
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\E-Epub.png
+Content Type: image/png
+
+Uri: https://www.beneinst.it/Joomla3/images/E-Mobi.png
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\E-Mobi.png
+Content Type: image/png
+
+Uri: https://www.beneinst.it/Joomla3/images/E-Pdf.png
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\E-Pdf.png
+Content Type: image/png
+
+Uri: https://www.beneinst.it/Joomla3/images/facen1e.png
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\facen1e.png
+Content Type: image/png
+
+Uri: https://www.beneinst.it/Joomla3/images/Gerardo-DOrrico5.jpg
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Gerardo-DOrrico5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.beneinst.it/Joomla3/images/gmail.png
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\gmail.png
+Content Type: image/png
+
+Uri: https://www.beneinst.it/Joomla3/images/Invio.png
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Invio.png
+Content Type: image/png
+
+Uri: https://www.beneinst.it/Joomla3/images/Logo23_d7.png
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\Logo23_d7.png
+Content Type: image/png
+
+Uri: https://www.beneinst.it/Joomla3/images/prima4.png
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\prima4.png
+Content Type: image/png
+
+Uri: https://www.beneinst.it/Joomla3/images/SfondiCanva/image006.png
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\SfondiCanva\image006.png
+Content Type: image/png
+
+Uri: https://www.beneinst.it/Joomla3/images/SfondiCanva/image01.png
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\SfondiCanva\image01.png
+Content Type: image/png
+
+Uri: https://www.beneinst.it/Joomla3/images/SfondiCanva/image02.png
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\SfondiCanva\image02.png
+Content Type: image/png
+
+Uri: https://www.beneinst.it/Joomla3/images/SfondiCanva/image03.png
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\SfondiCanva\image03.png
+Content Type: image/png
+
+Uri: https://www.beneinst.it/Joomla3/images/SfondiCanva/image06e.png
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\images\SfondiCanva\image06e.png
+Content Type: image/png
+
+Uri: https://www.beneinst.it/Joomla3/index.php
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\index.php-1.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/index.php/
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\index.php\index.htm
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/index.php/audiolibri
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\index.php\audiolibri.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/index.php/awz3-mobi
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\index.php\awz3-mobi.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/index.php/chi-sono
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\index.php\chi-sono.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/index.php/chisono/cookie-privacy-policy
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\index.php\chisono\cookie-privacy-policy.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/index.php/condiscendenza-umana
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\index.php\condiscendenza-umana.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/index.php/contatti
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\index.php\contatti.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/index.php/di-anna-maria-tarantino
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\index.php\di-anna-maria-tarantino.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/index.php/di-arturo-pistocchi
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\index.php\di-arturo-pistocchi.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/index.php/di-arturo-pistocchi-2
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\index.php\di-arturo-pistocchi-2.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/index.php/di-begonia-curto
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\index.php\di-begonia-curto.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/index.php/di-chiara-g-schiavini
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\index.php\di-chiara-g-schiavini.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/index.php/di-felice-gualtieri
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\index.php\di-felice-gualtieri.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/index.php/di-francesco-magli
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\index.php\di-francesco-magli.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/index.php/di-franco-bazzarelli
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\index.php\di-franco-bazzarelli.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/index.php/di-franco-farina
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\index.php\di-franco-farina.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/index.php/di-g-ambrosecchia
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\index.php\di-g-ambrosecchia.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/index.php/di-katia-ferri
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\index.php\di-katia-ferri.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/index.php/di-luigi-cardarelli
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\index.php\di-luigi-cardarelli.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/index.php/di-marco-piluso
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\index.php\di-marco-piluso.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/index.php/di-maria-teresa-azzoni
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\index.php\di-maria-teresa-azzoni.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/index.php/di-marino-recupero
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\index.php\di-marino-recupero.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/index.php/di-massimo-vaj
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\index.php\di-massimo-vaj.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/index.php/di-rita-matrella
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\index.php\di-rita-matrella.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/index.php/di-rocco-veltri
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\index.php\di-rocco-veltri.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/index.php/di-rosachiara-bentivenga
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\index.php\di-rosachiara-bentivenga.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/index.php/di-rosario-furgiuele
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\index.php\di-rosario-furgiuele.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/index.php/di-salvatore-esposito
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\index.php\di-salvatore-esposito.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/index.php/di-salvatore-messina-2
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\index.php\di-salvatore-messina-2.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/index.php/di-valerio-pazzi
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\index.php\di-valerio-pazzi.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/index.php/diari-menu
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\index.php\diari-menu.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/index.php/epub
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\index.php\epub.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/index.php/i-sogni-il-tempo
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\index.php\i-sogni-il-tempo.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/index.php/io-ho-molte-credenze
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\index.php\io-ho-molte-credenze.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/index.php/le-parole-che-non-si-possono-usare
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\index.php\le-parole-che-non-si-possono-usare.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/index.php/lettera-alla-nipote
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\index.php\lettera-alla-nipote.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/index.php/lettereroccovel
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\index.php\lettereroccovel.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/index.php/lettereroccovel?start=1
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\index.php\lettereroccovel-1.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/index.php/mappa-beneinst
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\index.php\mappa-beneinst.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/index.php/mercurio-io-e-tu
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\index.php\mercurio-io-e-tu.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/index.php/per-ch-e-sempre
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\index.php\per-ch-e-sempre.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/index.php/pubblicazion/en-espanol/dilo-tu-mismo-a.html
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\index.php\pubblicazion\en-espanol\dilo-tu-mismo-a.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/index.php/pubblicazion/en-espanol/el-bien-y-el-mal-memorias
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\index.php\pubblicazion\en-espanol\el-bien-y-el-mal-memorias.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/index.php/pubblicazion/en-espanol/un-techo-de-cenizas-b
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\index.php\pubblicazion\en-espanol\un-techo-de-cenizas-b.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/index.php/pubblicazion/in-english/an-ash-ceiling
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\index.php\pubblicazion\in-english\an-ash-ceiling.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/index.php/pubblicazion/in-english/good-and-evil-memories
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\index.php\pubblicazion\in-english\good-and-evil-memories.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/index.php/pubblicazion/in-english/it-s-already-us-in-ten-minutes
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\index.php\pubblicazion\in-english\it-s-already-us-in-ten-minutes.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/index.php/pubblicazion/in-english/say-it-yourself
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\index.php\pubblicazion\in-english\say-it-yourself.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/index.php/pubblicazion/in-italiano/dillo-tu-te-stesso
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\index.php\pubblicazion\in-italiano\dillo-tu-te-stesso.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/index.php/pubblicazion/in-italiano/il-bene-e-il-male-memorie-b
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\index.php\pubblicazion\in-italiano\il-bene-e-il-male-memorie-b.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/index.php/pubblicazion/in-italiano/siamo-gia-noi-tra-dieci-minuti
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\index.php\pubblicazion\in-italiano\siamo-gia-noi-tra-dieci-minuti.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/index.php/pubblicazion/in-italiano/un-soffitto-di-cenere
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\index.php\pubblicazion\in-italiano\un-soffitto-di-cenere.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/index.php/salvatoretonnara
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\index.php\salvatoretonnara.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/index.php/sed-etiam-menu
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\index.php\sed-etiam-menu.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/index.php/sino-polis
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\index.php\sino-polis.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/index.php/te-lo-colorerei
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\index.php\te-lo-colorerei.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/index.php?option=com_content&view=article&id=3
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\index.php.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/invio-sed-etiam.html
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\invio-sed-etiam.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/io-ho-molte-credenze
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\io-ho-molte-credenze.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/io-ho-molte-credenze.html
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\io-ho-molte-credenze-1.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/le-parole-che-non-si-possono-usare
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\le-parole-che-non-si-possono-usare.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/le-parole-che-non-si-possono-usare.html
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\le-parole-che-non-si-possono-usare-1.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/lettera-alla-nipote
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\lettera-alla-nipote.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/lettera-alla-nipote.html
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\lettera-alla-nipote-1.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/lettereroccovel
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\lettereroccovel.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/lettereroccovel.feed?type=atom
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\lettereroccovel-1.feed
+Content Type: application/atom+xml
+
+Uri: https://www.beneinst.it/Joomla3/lettereroccovel.feed?type=rss
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\lettereroccovel.feed
+Content Type: application/rss+xml
+
+Uri: https://www.beneinst.it/Joomla3/lettereroccovel.html
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\lettereroccovel-1.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/lettereroccovel.html?start=1
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\lettereroccovel-2.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/lettereroccovel.html?start=2
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\lettereroccovel-3.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/lettereroccovel.html?start=3
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\lettereroccovel-4.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/lettereroccovel.html?start=4
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\lettereroccovel-5.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/lettereroccovel.html?start=5
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\lettereroccovel-6.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/lettereroccovel.html?start=6
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\lettereroccovel-7.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/mappa-beneinst
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\mappa-beneinst.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/mappa-beneinst.feed?type=atom
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\mappa-beneinst-1.feed
+Content Type: application/atom+xml
+
+Uri: https://www.beneinst.it/Joomla3/mappa-beneinst.feed?type=rss
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\mappa-beneinst.feed
+Content Type: application/rss+xml
+
+Uri: https://www.beneinst.it/Joomla3/mappa-beneinst.html
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\mappa-beneinst-1.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/media/jui/css/bootstrap-responsive.css
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\jui\css\bootstrap-responsive.css
+Content Type: text/css
+
+Uri: https://www.beneinst.it/Joomla3/media/jui/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\jui\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://www.beneinst.it/Joomla3/media/jui/img/glyphicons-halflings-white.png
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\jui\img\glyphicons-halflings-white.png
+Content Type: image/png
+
+Uri: https://www.beneinst.it/Joomla3/media/jui/img/glyphicons-halflings.png
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\jui\img\glyphicons-halflings.png
+Content Type: image/png
+
+Uri: https://www.beneinst.it/Joomla3/media/jui/js/bootstrap.min.js?299c20f605a45d5671983767a9fcc5a6
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\jui\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/Joomla3/media/jui/js/jquery-migrate.min.js?299c20f605a45d5671983767a9fcc5a6
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\jui\js\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/Joomla3/media/jui/js/jquery-noconflict.js?299c20f605a45d5671983767a9fcc5a6
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\jui\js\jquery-noconflict.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/Joomla3/media/jui/js/jquery.min.js?299c20f605a45d5671983767a9fcc5a6
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\jui\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/epub/Aristotele - Metafisica - standard.epub
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\epub\Aristotele - Metafisica - standard.epub
+Content Type: application/epub+zip
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/epub/balzac_eugenia_grandet.epub
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\epub\balzac_eugenia_grandet.epub
+Content Type: application/epub+zip
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/epub/boccaccio_decameron.epub
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\epub\boccaccio_decameron.epub
+Content Type: application/epub+zip
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/epub/capuana_il_drago.epub
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\epub\capuana_il_drago.epub
+Content Type: application/epub+zip
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/epub/Carducci - Levia Gravia - st.epub
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\epub\Carducci - Levia Gravia - st.epub
+Content Type: application/epub+zip
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/epub/deledda_canne_al_vento.epub
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\epub\deledda_canne_al_vento.epub
+Content Type: application/epub+zip
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/epub/descartes_discorso_sul_metodo.epub
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\epub\descartes_discorso_sul_metodo.epub
+Content Type: application/epub+zip
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/epub/d_annunzio_il_piacere.epub
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\epub\d_annunzio_il_piacere.epub
+Content Type: application/epub+zip
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/epub/galilei_dialogo_sopra_i_due_massimi_sistemi.epub
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\epub\galilei_dialogo_sopra_i_due_massimi_sistemi.epub
+Content Type: application/epub+zip
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/epub/galilei_trattato_di_fortificazioni.epub
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\epub\galilei_trattato_di_fortificazioni.epub
+Content Type: application/epub+zip
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/epub/Garibaldi - I Mille - st.epub
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\epub\Garibaldi - I Mille - st.epub
+Content Type: application/epub+zip
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/epub/Giovanni+Verga+-+Mastro+Don+Gesualdo.epub
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\epub\Giovanni Verga - Mastro Don Gesualdo.epub
+Content Type: application/epub+zip
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/epub/goethe_i_dolori_del_giovane_werther.epub
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\epub\goethe_i_dolori_del_giovane_werther.epub
+Content Type: application/epub+zip
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/epub/goldoni_l_adulatore.epub
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\epub\goldoni_l_adulatore.epub
+Content Type: application/epub+zip
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/epub/Guicciardini - Storie Fiorentine - standard.epub
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\epub\Guicciardini - Storie Fiorentine - standard.epub
+Content Type: application/epub+zip
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/epub/ilcanticodellecreature - Gerardo D' Orrico.epub
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\epub\ilcanticodellecreature - Gerardo D' Orrico.epub
+Content Type: application/epub+zip
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/epub/leonardo_aforismi_novelle_e_profezie.epub
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\epub\leonardo_aforismi_novelle_e_profezie.epub
+Content Type: application/epub+zip
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/epub/leonardo_trattato_della_pittura.epub
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\epub\leonardo_trattato_della_pittura.epub
+Content Type: application/epub+zip
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/epub/leopardi_operette_morali.epub
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\epub\leopardi_operette_morali.epub
+Content Type: application/epub+zip
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/epub/machiavelli_il_principe.epub
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\epub\machiavelli_il_principe.epub
+Content Type: application/epub+zip
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/epub/Manzoni - Il Cinque Maggio e Il Conte di C - st.epub
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\epub\Manzoni - Il Cinque Maggio e Il Conte di C - st.epub
+Content Type: application/epub+zip
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/epub/Non si odono i suoi passi - epub.epub
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\epub\Non si odono i suoi passi - epub.epub
+Content Type: application/epub+zip
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/epub/Omero - Iliade - Standard.epub
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\epub\Omero - Iliade - Standard.epub
+Content Type: application/epub+zip
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/epub/Pascoli - Primi poemetti - standard.epub
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\epub\Pascoli - Primi poemetti - standard.epub
+Content Type: application/epub+zip
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/epub/petrarca - trionfi - standard.epub
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\epub\petrarca - trionfi - standard.epub
+Content Type: application/epub+zip
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/epub/Pirandello - Sei personaggi in cerca d'autore - st.epub
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\epub\Pirandello - Sei personaggi in cerca d'autore - st.epub
+Content Type: application/epub+zip
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/epub/pirandello_cosi_e_se_vi_pare_1925.epub
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\epub\pirandello_cosi_e_se_vi_pare_1925.epub
+Content Type: application/epub+zip
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/epub/Sant'Agostino - Il libero arbitrio - standard.epub
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\epub\Sant'Agostino - Il libero arbitrio - standard.epub
+Content Type: application/epub+zip
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/epub/shakespeare_amleto.epub
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\epub\shakespeare_amleto.epub
+Content Type: application/epub+zip
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/epub/shakespeare_macbeth.epub
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\epub\shakespeare_macbeth.epub
+Content Type: application/epub+zip
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/epub/shakespeare_romeo_e_giulietta.epub
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\epub\shakespeare_romeo_e_giulietta.epub
+Content Type: application/epub+zip
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/epub/svevo_la_coscienza_di_zeno.epub
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\epub\svevo_la_coscienza_di_zeno.epub
+Content Type: application/epub+zip
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/epub/tolstoj_anna_karenina.epub
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\epub\tolstoj_anna_karenina.epub
+Content Type: application/epub+zip
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/epub/tolstoj_denaro_falso.epub
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\epub\tolstoj_denaro_falso.epub
+Content Type: application/epub+zip
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/epub/tolstoj_la_morte_di_ivan_ilijc.epub
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\epub\tolstoj_la_morte_di_ivan_ilijc.epub
+Content Type: application/epub+zip
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/epub/Viaggio al termine della notte - Louis Ferdinand Celine.epub
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\epub\Viaggio al termine della notte - Louis Ferdinand Celine.epub
+Content Type: application/epub+zip
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/epub/voltaire_candido_o_l_ottimismo.epub
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\epub\voltaire_candido_o_l_ottimismo.epub
+Content Type: application/epub+zip
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/gd/Condiscendenza umana.pdf
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\gd\Condiscendenza umana.pdf
+Content Type: application/pdf
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/gd/CondiscendenzaUmana.epub
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\gd\CondiscendenzaUmana.epub
+Content Type: application/epub+zip
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/gd/CondiscendenzaUmana.mobi
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\gd\CondiscendenzaUmana.mobi
+Content Type: application/x-mobipocket-ebook
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/gd/I sogni, il tempo.pdf
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\gd\I sogni, il tempo.pdf
+Content Type: application/pdf
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/gd/Io ho molte credenze.pdf
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\gd\Io ho molte credenze.pdf
+Content Type: application/pdf
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/gd/IoHoMolteCredenze.epub
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\gd\IoHoMolteCredenze.epub
+Content Type: application/epub+zip
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/gd/IoHoMolteCredenze.mobi
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\gd\IoHoMolteCredenze.mobi
+Content Type: application/x-mobipocket-ebook
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/gd/ISogniIlTempo.epub
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\gd\ISogniIlTempo.epub
+Content Type: application/epub+zip
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/gd/ISogniIlTempo.mobi
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\gd\ISogniIlTempo.mobi
+Content Type: application/x-mobipocket-ebook
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/gd/Le parole che non si possono usare.pdf
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\gd\Le parole che non si possono usare.pdf
+Content Type: application/pdf
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/gd/LeParoleCheNonSiPossonoUsare.epub
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\gd\LeParoleCheNonSiPossonoUsare.epub
+Content Type: application/epub+zip
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/gd/LeParoleCheNonSiPossonoUsare.mobi
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\gd\LeParoleCheNonSiPossonoUsare.mobi
+Content Type: application/x-mobipocket-ebook
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/gd/Mercurio, io e tu.pdf
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\gd\Mercurio, io e tu.pdf
+Content Type: application/pdf
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/gd/MercurioIoETu.epub
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\gd\MercurioIoETu.epub
+Content Type: application/epub+zip
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/gd/MercurioIoETu.mobi
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\gd\MercurioIoETu.mobi
+Content Type: application/x-mobipocket-ebook
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/gd/Per che sempre.pdf
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\gd\Per che sempre.pdf
+Content Type: application/pdf
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/gd/PerCheSempre.epub
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\gd\PerCheSempre.epub
+Content Type: application/epub+zip
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/gd/PerCheSempre.mobi
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\gd\PerCheSempre.mobi
+Content Type: application/x-mobipocket-ebook
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/gd/Sino Polis.pdf
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\gd\Sino Polis.pdf
+Content Type: application/pdf
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/gd/SinoPolis.epub
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\gd\SinoPolis.epub
+Content Type: application/epub+zip
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/gd/SinoPolis.mobi
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\gd\SinoPolis.mobi
+Content Type: application/x-mobipocket-ebook
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/gd/Te lo colorerei.pdf
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\gd\Te lo colorerei.pdf
+Content Type: application/pdf
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/gd/TeLoColorerei.epub
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\gd\TeLoColorerei.epub
+Content Type: application/epub+zip
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/gd/TeLoColorerei.mobi
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\gd\TeLoColorerei.mobi
+Content Type: application/x-mobipocket-ebook
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/mobi/Amorosa visione - Boccaccio.mobi
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\mobi\Amorosa visione - Boccaccio.mobi
+Content Type: application/x-mobipocket-ebook
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/mobi/apologia di socrate - platone.azw3
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\mobi\apologia di socrate - platone.azw3
+Content Type: 
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/mobi/Chanson de Roland - anonimo.mobi
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\mobi\Chanson de Roland - anonimo.mobi
+Content Type: application/x-mobipocket-ebook
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/mobi/critone - platone.azw3
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\mobi\critone - platone.azw3
+Content Type: 
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/mobi/Divina Commedia v. unico - Alighieri, Dante.mobi
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\mobi\Divina Commedia v. unico - Alighieri, Dante.mobi
+Content Type: application/x-mobipocket-ebook
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/mobi/I Canti di Castelvecchio - Giovanni Pascoli.azw3
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\mobi\I Canti di Castelvecchio - Giovanni Pascoli.azw3
+Content Type: 
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/mobi/I dolori del giovane Werther - J. W. Goethe.azw3
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\mobi\I dolori del giovane Werther - J. W. Goethe.azw3
+Content Type: 
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/mobi/Il corvo - Edgar Allan Poe.azw3
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\mobi\Il corvo - Edgar Allan Poe.azw3
+Content Type: 
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/mobi/Il fanciullino - Giovanni Pascoli.azw3
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\mobi\Il fanciullino - Giovanni Pascoli.azw3
+Content Type: 
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/mobi/Il ferro - D'Annunzio.mobi
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\mobi\Il ferro - D'Annunzio.mobi
+Content Type: application/x-mobipocket-ebook
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/mobi/Il giorno - Giuseppe Parini.azw3
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\mobi\Il giorno - Giuseppe Parini.azw3
+Content Type: 
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/mobi/Il giorno della civetta - Leonardo Sciascia.azw3
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\mobi\Il giorno della civetta - Leonardo Sciascia.azw3
+Content Type: 
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/mobi/Il lupo della steppa - Hermann Hesse.azw
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\mobi\Il lupo della steppa - Hermann Hesse.azw
+Content Type: application/vnd.amazon.ebook
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/mobi/Il pedante gabbato - Cyrano.mobi
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\mobi\Il pedante gabbato - Cyrano.mobi
+Content Type: application/x-mobipocket-ebook
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/mobi/ilcanticodellecreature.azw3
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\mobi\ilcanticodellecreature.azw3
+Content Type: 
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/mobi/Jacques e il suo padrone, omagg.azw3
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\mobi\Jacques e il suo padrone, omagg.azw3
+Content Type: 
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/mobi/L'anticristo - Nietzsche.azw3
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\mobi\L'anticristo - Nietzsche.azw3
+Content Type: 
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/mobi/L'arte del trattar le donne.azw3
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\mobi\L'arte del trattar le donne.azw3
+Content Type: 
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/mobi/L'idiota - Fedor Dostoevskij.azw3
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\mobi\L'idiota - Fedor Dostoevskij.azw3
+Content Type: 
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/mobi/L'uomo medievale - Jacques Le Goff.azw3
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\mobi\L'uomo medievale - Jacques Le Goff.azw3
+Content Type: 
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/mobi/La cultura contro il fascismo.azw3
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\mobi\La cultura contro il fascismo.azw3
+Content Type: 
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/mobi/Le affinita elettive - Wolfgang Goethe.azw3
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\mobi\Le affinita elettive - Wolfgang Goethe.azw3
+Content Type: 
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/mobi/Libro delle Tre Scritture - Bonvesin de la Riva.mobi
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\mobi\Libro delle Tre Scritture - Bonvesin de la Riva.mobi
+Content Type: application/x-mobipocket-ebook
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/mobi/Metafisica - Aristotele.mobi
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\mobi\Metafisica - Aristotele.mobi
+Content Type: application/x-mobipocket-ebook
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/mobi/Monarchia - Dante Alighieri.azw3
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\mobi\Monarchia - Dante Alighieri.azw3
+Content Type: 
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/mobi/Paradisi artificiali.mobi
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\mobi\Paradisi artificiali.mobi
+Content Type: application/x-mobipocket-ebook
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/mobi/pg37776-images.mobi
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\mobi\pg37776-images.mobi
+Content Type: application/x-mobipocket-ebook
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/mobi/Poema Paradisiaco - D'Annunzio.mobi
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\mobi\Poema Paradisiaco - D'Annunzio.mobi
+Content Type: application/x-mobipocket-ebook
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/mobi/Poesie - Francois Villon.azw3
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\mobi\Poesie - Francois Villon.azw3
+Content Type: 
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/mobi/Rime - Dante.mobi
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\mobi\Rime - Dante.mobi
+Content Type: application/x-mobipocket-ebook
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/mobi/Siddharta - Hermann Hesse.azw3
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\mobi\Siddharta - Hermann Hesse.azw3
+Content Type: 
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/mobi/Simposio - Platone.azw3
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\mobi\Simposio - Platone.azw3
+Content Type: 
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/mobi/Tutte le poesie - Campanella.mobi
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\mobi\Tutte le poesie - Campanella.mobi
+Content Type: application/x-mobipocket-ebook
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/mobi/Viaggio al termine della notte - Louis Ferdinand Celine.mobi
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\mobi\Viaggio al termine della notte - Louis Ferdinand Celine.mobi
+Content Type: application/x-mobipocket-ebook
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/mobi/Vita di Demostene e Cicerone - Plutarco.azw3
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\mobi\Vita di Demostene e Cicerone - Plutarco.azw3
+Content Type: 
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/pdf/[Ebook -ITA] Hermann Hesse - Siddharta.pdf
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\pdf\[Ebook -ITA] Hermann Hesse - Siddharta.pdf
+Content Type: application/pdf
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/pdf/Alessandra Erici - Il prezzo del silenzio.pdf
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\pdf\Alessandra Erici - Il prezzo del silenzio.pdf
+Content Type: application/pdf
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/pdf/Antonin Artaud - Per gli analfabeti.pdf
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\pdf\Antonin Artaud - Per gli analfabeti.pdf
+Content Type: application/pdf
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/pdf/ApologiadiSocrate.pdf
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\pdf\ApologiadiSocrate.pdf
+Content Type: application/pdf
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/pdf/Bonvesin dela Riva - Libro delle Tre Scritture - st.pdf
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\pdf\Bonvesin dela Riva - Libro delle Tre Scritture - st.pdf
+Content Type: application/pdf
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/pdf/bruno_de_la_causa_principio_et_uno.pdf
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\pdf\bruno_de_la_causa_principio_et_uno.pdf
+Content Type: application/pdf
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/pdf/capuana_nuove_paesane.pdf
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\pdf\capuana_nuove_paesane.pdf
+Content Type: application/pdf
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/pdf/Charles Baudelaire - I fiori del male.pdf
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\pdf\Charles Baudelaire - I fiori del male.pdf
+Content Type: application/pdf
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/pdf/collodi_pinocchio.pdf
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\pdf\collodi_pinocchio.pdf
+Content Type: application/pdf
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/pdf/dauli_cabala_bianca.pdf
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\pdf\dauli_cabala_bianca.pdf
+Content Type: application/pdf
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/pdf/dauli_ricostruire_la_vita.pdf
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\pdf\dauli_ricostruire_la_vita.pdf
+Content Type: application/pdf
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/pdf/Dialogo sopra la nobilta - Giuseppe Parini.pdf
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\pdf\Dialogo sopra la nobilta - Giuseppe Parini.pdf
+Content Type: application/pdf
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/pdf/donna__p.pdf
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\pdf\donna__p.pdf
+Content Type: application/pdf
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/pdf/erasmus_roterodamus_elogio_della_follia.pdf
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\pdf\erasmus_roterodamus_elogio_della_follia.pdf
+Content Type: application/pdf
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/pdf/Euripide.pdf
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\pdf\Euripide.pdf
+Content Type: application/pdf
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/pdf/Fedro - Favole.pdf
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\pdf\Fedro - Favole.pdf
+Content Type: application/pdf
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/pdf/Friedrich Nietzsche - L'anticristo.pdf
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\pdf\Friedrich Nietzsche - L'anticristo.pdf
+Content Type: application/pdf
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/pdf/G. Leopardi - Storia di un'anima, memorie.pdf
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\pdf\G. Leopardi - Storia di un'anima, memorie.pdf
+Content Type: application/pdf
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/pdf/giardino dei ciliegi, Il - Anton Pavlovič Čechov.pdf
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\pdf\giardino dei ciliegi, Il - Anton Pavlovič Čechov.pdf
+Content Type: application/pdf
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/pdf/goethe_elegie_romane.pdf
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\pdf\goethe_elegie_romane.pdf
+Content Type: application/pdf
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/pdf/goethe_i_dolori_del_giovane_werther.pdf
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\pdf\goethe_i_dolori_del_giovane_werther.pdf
+Content Type: application/pdf
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/pdf/goethe_le_affinita_elettive.pdf
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\pdf\goethe_le_affinita_elettive.pdf
+Content Type: application/pdf
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/pdf/goethe_torquato_tasso.pdf
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\pdf\goethe_torquato_tasso.pdf
+Content Type: application/pdf
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/pdf/gramsci_gli_intellettuali.pdf
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\pdf\gramsci_gli_intellettuali.pdf
+Content Type: application/pdf
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/pdf/Il Principe - N Macchiavelli.pdf
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\pdf\Il Principe - N Macchiavelli.pdf
+Content Type: application/pdf
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/pdf/ilcanticodellecreature - Gerardo D' Orrico.pdf
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\pdf\ilcanticodellecreature - Gerardo D' Orrico.pdf
+Content Type: application/pdf
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/pdf/J. W. Goethe - Faust.pdf
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\pdf\J. W. Goethe - Faust.pdf
+Content Type: application/pdf
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/pdf/Jack Kerouac Diane Di Prima - Beat City Blues.pdf
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\pdf\Jack Kerouac Diane Di Prima - Beat City Blues.pdf
+Content Type: application/pdf
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/pdf/joyce_esuli.pdf
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\pdf\joyce_esuli.pdf
+Content Type: application/pdf
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/pdf/joyce_stefano_eroe.pdf
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\pdf\joyce_stefano_eroe.pdf
+Content Type: application/pdf
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/pdf/L’arte di trattar le donne - Arthur Schopenhauer.pdf
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\pdf\L’arte di trattar le donne - Arthur Schopenhauer.pdf
+Content Type: application/pdf
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/pdf/La canzone dei Nibelunghi - standard.pdf
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\pdf\La canzone dei Nibelunghi - standard.pdf
+Content Type: application/pdf
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/pdf/la_com_p.pdf
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\pdf\la_com_p.pdf
+Content Type: application/pdf
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/pdf/la_div_p.pdf
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\pdf\la_div_p.pdf
+Content Type: application/pdf
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/pdf/leopardi_canti.pdf
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\pdf\leopardi_canti.pdf
+Content Type: application/pdf
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/pdf/leopardi_operette_morali.pdf
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\pdf\leopardi_operette_morali.pdf
+Content Type: application/pdf
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/pdf/l_escl_p.pdf
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\pdf\l_escl_p.pdf
+Content Type: application/pdf
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/pdf/nietzsche_cosi_parlo.pdf
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\pdf\nietzsche_cosi_parlo.pdf
+Content Type: application/pdf
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/pdf/Oscar Wilde - il ritratto di Dorian Gray.pdf
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\pdf\Oscar Wilde - il ritratto di Dorian Gray.pdf
+Content Type: application/pdf
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/pdf/pirandello_arte_e_scienza.pdf
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\pdf\pirandello_arte_e_scienza.pdf
+Content Type: application/pdf
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/pdf/pirandello_ciascuno_a_suo_modo.pdf
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\pdf\pirandello_ciascuno_a_suo_modo.pdf
+Content Type: application/pdf
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/pdf/poe_ligeia.pdf
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\pdf\poe_ligeia.pdf
+Content Type: application/pdf
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/pdf/princi_p.pdf
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\pdf\princi_p.pdf
+Content Type: application/pdf
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/pdf/schopenhauer_il_mondo_come_volonta_e_rappresentazione.pdf
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\pdf\schopenhauer_il_mondo_come_volonta_e_rappresentazione.pdf
+Content Type: application/pdf
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/pdf/seneca_lettere.pdf
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\pdf\seneca_lettere.pdf
+Content Type: application/pdf
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/pdf/shakespeare_giulio_cesare.pdf
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\pdf\shakespeare_giulio_cesare.pdf
+Content Type: application/pdf
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/pdf/svevo_corto_viaggio_sentimentale.pdf
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\pdf\svevo_corto_viaggio_sentimentale.pdf
+Content Type: application/pdf
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/pdf/Tom Robbins - Il Fungo Magico.pdf
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\pdf\Tom Robbins - Il Fungo Magico.pdf
+Content Type: application/pdf
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/pdf/Uno, nessuno e centomila - Luigi Pirandello.pdf
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\pdf\Uno, nessuno e centomila - Luigi Pirandello.pdf
+Content Type: application/pdf
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/pdf/Verga - La lupa  standard.pdf
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\pdf\Verga - La lupa  standard.pdf
+Content Type: application/pdf
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/pdf/verga_i_malavoglia.pdf
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\pdf\verga_i_malavoglia.pdf
+Content Type: application/pdf
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/pdf/verga_tutte_le_novelle.pdf
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\pdf\verga_tutte_le_novelle.pdf
+Content Type: application/pdf
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/pdf/Viaggio al termine della notte - Louis Ferdinand Celine.pdf
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\pdf\Viaggio al termine della notte - Louis Ferdinand Celine.pdf
+Content Type: application/pdf
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/pdf/voltaire_candido_o_l_ottimismo.pdf
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\pdf\voltaire_candido_o_l_ottimismo.pdf
+Content Type: application/pdf
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/pdf/wilde_de_profundis.pdf
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\pdf\wilde_de_profundis.pdf
+Content Type: application/pdf
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/pdf/wilde_il_delitto_di_lord_arturo_savile.pdf
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\pdf\wilde_il_delitto_di_lord_arturo_savile.pdf
+Content Type: application/pdf
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/pdf/wilde_intenzioni.pdf
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\pdf\wilde_intenzioni.pdf
+Content Type: application/pdf
+
+Uri: https://www.beneinst.it/Joomla3/media/media/Ebook/pdf/wilde_la_casa_dei_melograni.pdf
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\media\Ebook\pdf\wilde_la_casa_dei_melograni.pdf
+Content Type: application/pdf
+
+Uri: https://www.beneinst.it/Joomla3/media/mod_rssocial/css/rssocial-anim.css?299c20f605a45d5671983767a9fcc5a6
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\mod_rssocial\css\rssocial-anim.css
+Content Type: text/css
+
+Uri: https://www.beneinst.it/Joomla3/media/mod_rssocial/css/rssocial-font.css?299c20f605a45d5671983767a9fcc5a6
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\mod_rssocial\css\rssocial-font.css
+Content Type: text/css
+
+Uri: https://www.beneinst.it/Joomla3/media/mod_rssocial/css/rssocial.css?299c20f605a45d5671983767a9fcc5a6
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\mod_rssocial\css\rssocial.css
+Content Type: text/css
+
+Uri: https://www.beneinst.it/Joomla3/media/mod_rssocial/font/rssocial-font.eot?36291603
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\mod_rssocial\font\rssocial-font.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.beneinst.it/Joomla3/media/mod_rssocial/font/rssocial-font.svg?36291603
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\mod_rssocial\font\rssocial-font.svg
+Content Type: image/svg+xml
+
+Uri: https://www.beneinst.it/Joomla3/media/mod_rssocial/font/rssocial-font.ttf?36291603
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\mod_rssocial\font\rssocial-font.ttf
+Content Type: font/ttf
+
+Uri: https://www.beneinst.it/Joomla3/media/mod_rssocial/font/rssocial-font.woff?36291603
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\mod_rssocial\font\rssocial-font.woff
+Content Type: font/woff
+
+Uri: https://www.beneinst.it/Joomla3/media/mod_rssocial/js/rssocial.js?299c20f605a45d5671983767a9fcc5a6
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\mod_rssocial\js\rssocial.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/Joomla3/media/system/js/caption.js?299c20f605a45d5671983767a9fcc5a6
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\system\js\caption.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/Joomla3/media/system/js/html5fallback.js
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\media\system\js\html5fallback.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/Joomla3/mercurio-io-e-tu
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\mercurio-io-e-tu.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/mercurio-io-e-tu.html
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\mercurio-io-e-tu-1.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/modules/mod_favshowcase/theme/css/favshowcase.css
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\modules\mod_favshowcase\theme\css\favshowcase.css
+Content Type: text/css
+
+Uri: https://www.beneinst.it/Joomla3/modules/mod_favshowcase/theme/js/viewportchecker/viewportchecker.js
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\modules\mod_favshowcase\theme\js\viewportchecker\viewportchecker.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/Joomla3/modules/mod_favsliderpro/theme/bootstrap/favth-bootstrap.css
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\modules\mod_favsliderpro\theme\bootstrap\favth-bootstrap.css
+Content Type: text/css
+
+Uri: https://www.beneinst.it/Joomla3/modules/mod_favsliderpro/theme/bootstrap/favth-bootstrap.js
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\modules\mod_favsliderpro\theme\bootstrap\favth-bootstrap.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/Joomla3/modules/mod_favsliderpro/theme/css/favsliderpro.css
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\modules\mod_favsliderpro\theme\css\favsliderpro.css
+Content Type: text/css
+
+Uri: https://www.beneinst.it/Joomla3/pdf_ebook.feed?type=atom
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\pdf_ebook-1.feed
+Content Type: application/atom+xml
+
+Uri: https://www.beneinst.it/Joomla3/pdf_ebook.feed?type=rss
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\pdf_ebook.feed
+Content Type: application/rss+xml
+
+Uri: https://www.beneinst.it/Joomla3/pdf_ebook.html
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\pdf_ebook.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/pdf_ebook.html?start=2
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\pdf_ebook-1.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/pdf_ebook.html?start=4
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\pdf_ebook-2.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/per-ch-e-sempre
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\per-ch-e-sempre.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/per-ch-e-sempre.html
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\per-ch-e-sempre-1.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/plugins/content/fastsocialshare/style/fastshareiconblack.svg
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\plugins\content\fastsocialshare\style\fastshareiconblack.svg
+Content Type: image/svg+xml
+
+Uri: https://www.beneinst.it/Joomla3/plugins/content/fastsocialshare/style/fastshareiconwhite.svg
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\plugins\content\fastsocialshare\style\fastshareiconwhite.svg
+Content Type: image/svg+xml
+
+Uri: https://www.beneinst.it/Joomla3/plugins/content/fastsocialshare/style/style.css
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\plugins\content\fastsocialshare\style\style.css
+Content Type: text/css
+
+Uri: https://www.beneinst.it/Joomla3/pubblicazion/en-espanol/dilo-tu-mismo-a
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\pubblicazion\en-espanol\dilo-tu-mismo-a-1.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/pubblicazion/en-espanol/dilo-tu-mismo-a.html
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\pubblicazion\en-espanol\dilo-tu-mismo-a.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/pubblicazion/en-espanol/el-bien-y-el-mal-memorias
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\pubblicazion\en-espanol\el-bien-y-el-mal-memorias-1.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/pubblicazion/en-espanol/el-bien-y-el-mal-memorias.html
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\pubblicazion\en-espanol\el-bien-y-el-mal-memorias.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/pubblicazion/en-espanol/un-techo-de-cenizas-b
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\pubblicazion\en-espanol\un-techo-de-cenizas-b-1.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/pubblicazion/en-espanol/un-techo-de-cenizas-b.html
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\pubblicazion\en-espanol\un-techo-de-cenizas-b.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/pubblicazion/en-francais/dis-le-toi-meme
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\pubblicazion\en-francais\dis-le-toi-meme-1.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/pubblicazion/en-francais/dis-le-toi-meme.html
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\pubblicazion\en-francais\dis-le-toi-meme.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/pubblicazion/en-francais/le-bien-et-le-mal-memoires
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\pubblicazion\en-francais\le-bien-et-le-mal-memoires-1.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/pubblicazion/en-francais/le-bien-et-le-mal-memoires.html
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\pubblicazion\en-francais\le-bien-et-le-mal-memoires.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/pubblicazion/en-francais/nous-sommes-deja-dans
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\pubblicazion\en-francais\nous-sommes-deja-dans-1.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/pubblicazion/en-francais/nous-sommes-deja-dans.html
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\pubblicazion\en-francais\nous-sommes-deja-dans.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/pubblicazion/en-francais/un-plafond-en-frene
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\pubblicazion\en-francais\un-plafond-en-frene-1.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/pubblicazion/en-francais/un-plafond-en-frene.html
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\pubblicazion\en-francais\un-plafond-en-frene.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/pubblicazion/in-english/an-ash-ceiling
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\pubblicazion\in-english\an-ash-ceiling-1.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/pubblicazion/in-english/an-ash-ceiling.html
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\pubblicazion\in-english\an-ash-ceiling.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/pubblicazion/in-english/good-and-evil-memories
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\pubblicazion\in-english\good-and-evil-memories-1.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/pubblicazion/in-english/good-and-evil-memories.html
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\pubblicazion\in-english\good-and-evil-memories.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/pubblicazion/in-english/it-s-already-us-in-ten-minutes
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\pubblicazion\in-english\it-s-already-us-in-ten-minutes-1.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/pubblicazion/in-english/it-s-already-us-in-ten-minutes.html
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\pubblicazion\in-english\it-s-already-us-in-ten-minutes.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/pubblicazion/in-english/say-it-yourself
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\pubblicazion\in-english\say-it-yourself-1.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/pubblicazion/in-english/say-it-yourself.html
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\pubblicazion\in-english\say-it-yourself.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/pubblicazion/in-italiano/dillo-tu-te-stesso
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\pubblicazion\in-italiano\dillo-tu-te-stesso-1.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/pubblicazion/in-italiano/dillo-tu-te-stesso.html
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\pubblicazion\in-italiano\dillo-tu-te-stesso.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/pubblicazion/in-italiano/il-bene-e-il-male-memorie-b
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\pubblicazion\in-italiano\il-bene-e-il-male-memorie-b-1.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/pubblicazion/in-italiano/il-bene-e-il-male-memorie-b.html
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\pubblicazion\in-italiano\il-bene-e-il-male-memorie-b.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/pubblicazion/in-italiano/siamo-gia-noi-tra-dieci-minuti
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\pubblicazion\in-italiano\siamo-gia-noi-tra-dieci-minuti-1.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/pubblicazion/in-italiano/siamo-gia-noi-tra-dieci-minuti.html
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\pubblicazion\in-italiano\siamo-gia-noi-tra-dieci-minuti.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/pubblicazion/in-italiano/un-soffitto-di-cenere
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\pubblicazion\in-italiano\un-soffitto-di-cenere-1.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/pubblicazion/in-italiano/un-soffitto-di-cenere.html
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\pubblicazion\in-italiano\un-soffitto-di-cenere.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/salvatoretonnara
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\salvatoretonnara.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/salvatoretonnara.html
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\salvatoretonnara-1.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/sed-etiam-menu
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\sed-etiam-menu.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/sino-polis
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\sino-polis.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/sino-polis.html
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\sino-polis-1.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/te-lo-colorerei
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\te-lo-colorerei.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/te-lo-colorerei.html
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\te-lo-colorerei-1.html
+Content Type: text/html
+
+Uri: https://www.beneinst.it/Joomla3/templates/artis2/admin/admin.css
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\templates\artis2\admin\admin.css
+Content Type: text/css
+
+Uri: https://www.beneinst.it/Joomla3/templates/artis2/css/custom.css
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\templates\artis2\css\custom.css
+Content Type: text/css
+
+Uri: https://www.beneinst.it/Joomla3/templates/artis2/css/style.css
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\templates\artis2\css\style.css
+Content Type: text/css
+
+Uri: https://www.beneinst.it/Joomla3/templates/artis2/css/styles/style7.css
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\templates\artis2\css\styles\style7.css
+Content Type: text/css
+
+Uri: https://www.beneinst.it/Joomla3/templates/artis2/css/template.css
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\templates\artis2\css\template.css
+Content Type: text/css
+
+Uri: https://www.beneinst.it/Joomla3/templates/artis2/favicon.ico
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\templates\artis2\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://www.beneinst.it/Joomla3/templates/artis2/images/demo/demo-bg-offline.jpg
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\templates\artis2\images\demo\demo-bg-offline.jpg
+Content Type: image/jpeg
+
+Uri: https://www.beneinst.it/Joomla3/templates/artis2/images/styles/style1/fav-bg.jpg
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\templates\artis2\images\styles\style1\fav-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.beneinst.it/Joomla3/templates/artis2/images/styles/style1/logo.png
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\templates\artis2\images\styles\style1\logo.png
+Content Type: image/png
+
+Uri: https://www.beneinst.it/Joomla3/templates/artis2/images/styles/style7/fav-bg.jpg
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\templates\artis2\images\styles\style7\fav-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.beneinst.it/Joomla3/templates/artis2/images/styles/style7/logo.png
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\templates\artis2\images\styles\style7\logo.png
+Content Type: image/png
+
+Uri: https://www.beneinst.it/Joomla3/templates/artis2/js/backtop/backtop.js
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\templates\artis2\js\backtop\backtop.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/Joomla3/templates/artis2/js/favmobile-menu/favmobile-menu.js
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\templates\artis2\js\favmobile-menu\favmobile-menu.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/Joomla3/templates/artis2/js/header/favheader.js
+File Name: C:\Downloaded Web Sites\www.beneinst.it\Joomla3\templates\artis2\js\header\favheader.js
+Content Type: application/javascript
+

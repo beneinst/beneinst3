@@ -1,0 +1,5705 @@
+/*
+*   name           Artis
+*   version        1.4
+*   description    Responsive and customizable Joomla!3 template
+*   demo           http://demo.favthemes.com/artis/
+*   author         FavThemes
+*   author URL     http://www.favthemes.com
+*   copyright      Copyright (C) 2012-2016 FavThemes.com. All Rights Reserved.
+*   license        Licensed under GNU/GPLv3 (http://www.gnu.org/licenses/gpl-3.0.html)
+*/
+
+/*
+////////////////////////////////////////////////////////////////////////////////
+
+1. layout
+  1.1. reset
+  1.2. header
+  1.3. navigation
+  1.4. module positions
+  1.5. titles
+  1.6. buttons
+  1.7. variations
+  1.8. custom pages
+  1.9. typography
+  1.10. joomla
+  1.11. hikashop
+  1.12. extensions
+
+2. style
+  2.1. reset
+  2.2. header
+  2.3. navigation
+  2.4. module positions
+  2.5. titles
+  2.6. buttons
+  2.7. variations
+  2.8. custom pages
+  2.9. typography
+  2.10. joomla
+  2.11. hikashop
+  2.12. extensions
+
+////////////////////////////////////////////////////////////////////////////////
+*/
+
+/*/
+////////////////////////////////////////////////////////////////////////////////
+///
+///  1. layout
+///
+////////////////////////////////////////////////////////////////////////////////
+/*/
+
+/*//////////////////////////////////////////////////////////////////////////////
+
+1.1. reset
+
+//////////////////////////////////////////////////////////////////////////////*/
+
+/*/
+///
+///  container
+///
+/*/
+
+#fav-containerwrap {
+  background: url(../images/styles/style1/fav-bg.jpg) center top no-repeat fixed #111;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+#fav-containerwrap .fav-overlay.fav-wrap {
+  margin: 0;
+}
+
+/*/// tablet ///*/
+@media (max-width: 1200px) {
+
+  .fav-overlay {
+    padding-right: 0px;
+    padding-left: 0px;
+  }
+
+}
+
+/* fixed */
+@media (min-width: 1201px) {
+
+  #fav-container.fav-fixed {
+    margin-top: 104px;
+  }
+
+}
+@media (min-width: 769px) and (max-width: 1200px) {
+
+  #fav-container.fav-fixed.navstyle-icon-horizontal {
+    margin-top: 105px;
+  }
+  #fav-container.fav-fixed.navstyle-icon-vertical {
+    margin-top: 125px;
+  }
+
+}
+
+/*//////////////////////////////////////////////////////////////////////////////
+///
+///  fonts
+///
+//////////////////////////////////////////////////////////////////////////////*/
+
+/*/
+///
+///  primary
+///
+/*/
+
+body,
+span.hikashop_product_price,
+.hikashop_checkout_cart_additional,
+.hikashop_checkout_cart_payment,
+.hikashop_checkout_cart_coupon,
+.hikashop_checkout_cart_additional,
+span.hikashop_checkout_cart_final_total {
+  font-family: 'Roboto', Helvetica, Arial, sans-serif; /* default font */
+  font-weight: normal;
+}
+
+/*/
+///
+///  secondary
+///
+/*/
+
+/* menus */
+ul.menubasic li a,
+ul.menubasic li .nav-header,
+ul.menuarrow li a,
+ul.menuarrow li .nav-header,
+ul.menuside li a,
+ul.menuside li .nav-header,
+ul.menuline li a,
+ul.menuline li .nav-header,
+ul.menuhorizontal a,
+ul.menuhorizontal .nav-header {
+  font-family: 'Lato', Helvetica, Arial, sans-serif;
+  font-weight: 400;
+}
+
+/* lists */
+ul.list-square li,
+ol.list-square > li,
+ul.list-circle li,
+ol.list-circle > li,
+ul.list-color li,
+ol.list-color > li,
+ul.list-dark li,
+ol.list-dark > li {
+  font-family: 'Lato', Helvetica, Arial, sans-serif;
+  font-weight: 400;
+}
+
+/* breadcrumbs */
+#fav-breadcrumbs .moduletable li,
+#fav-breadcrumbs div[class^="moduletable-"] li,
+#fav-breadcrumbs div[class*=" moduletable-"] li {
+  font-family: 'Lato', Helvetica, Arial, sans-serif;
+  font-weight: 700;
+}
+
+/* custom classes */
+.favintro {
+  font-family: 'Lato', Helvetica, Arial, sans-serif;
+  font-weight: 400;
+}
+#fav-download #fav-download-message {
+  font-family: 'Lato', Helvetica, Arial, sans-serif;
+  font-weight: 400;
+}
+.fav404,
+.fav404 a.btn,
+#fav-topbar ul.nav li a,
+#fav-language a.btn.dropdown-toggle,
+#fav-language-demo a.btn.dropdown-toggle,
+#fav-language ul.dropdown-menu li a,
+#fav-language-demo ul.dropdown-menu li a {
+  font-family: 'Lato', Helvetica, Arial, sans-serif;
+  font-weight: 700;
+}
+p.fav404 {
+  font-family: 'Lato', Helvetica, Arial, sans-serif;
+  font-weight: 400;
+}
+
+/* tags */
+div.tag-category ul.thumbnails h3 a,
+.label-info[href],
+.badge-info[href] {
+  font-family: 'Lato', Helvetica, Arial, sans-serif;
+  font-weight: 700 !important;
+}
+
+/* pagination */
+.pagination ul li a,
+.pagination ul > .disabled > a,
+.pagination ul > .active > a,
+.pagination ul > .disabled > a:hover,
+.pagination ul > .disabled > a:focus,
+.pagination ul > .active > a:hover,
+.pagination ul > .active > a:focus {
+  font-family: 'Lato', Helvetica, Arial, sans-serif;
+  font-weight: 700;
+}
+
+/* search */
+#fav-search-advanced-fields .accordion-heading a.accordion-toggle {
+  font-family: 'Lato', Helvetica, Arial, sans-serif;
+  font-weight: 700;
+}
+
+/* articles */
+.label-info[href],
+.badge-info[href],
+.pull-right > .dropdown-menu li a,
+dl.article-info dd,
+span.fav-article-tags {
+  font-family: 'Lato', Helvetica, Arial, sans-serif;
+  font-weight: 400;
+}
+
+/* joomla */
+ul.category-module,
+ul[class^="category-module-"],
+ul[class*=" category-module-"],
+ul.latestnews li a,
+ul[class^="latestnews-"] li a,
+ul[class*=" latestnews-"] li a,
+ul.mostread li a,
+ul[class^="mostread-"] li a,
+ul[class*=" mostread-"] li a {
+  font-family: 'Lato', Helvetica, Arial, sans-serif;
+  font-weight: 400;
+}
+
+/* hikashop */
+#member-profile legend,
+div.itemHeader h2.itemTitle,
+div.catItemHeader h3.catItemTitle,
+div.tagItemHeader h2.tagItemTitle,
+div.latestItemHeader h2.latestItemTitle,
+div.genericItemHeader h2.genericItemTitle,
+div.userItemHeader h3.userItemTitle,
+div.hikashop_container .hikashop_category_name a,
+div.hikashop_subcontainer span.hikashop_product_name a,
+#hikashop_comment_form .hikashop_listing_comment,
+#hikashop_comment_form .hika_comment_listing td.hika_comment_listing_name,
+#hikashop_comment_form .hika_comment_listing td {
+  font-family: 'Lato', Helvetica, Arial, sans-serif;
+  font-weight: 400;
+}
+#fav-containerwrap .hikashop_currency_module .chzn-container-single .chzn-single,
+#fav-containerwrap .hikashop_currency_module .chzn-container .chzn-results li.active-result.result-selected,
+#fav-containerwrap .hikashop_currency_module .chzn-container .chzn-results li.active-result,
+.hikashop_product_stock .btn.button.hikashop_cart_input_button,
+.hikashop_product_stock a.hikashop_cart_button,
+.hikashop_products_pagination .list-footer .pagenav,
+.hikashop_subcategories_pagination .list-footer .pagenav {
+  font-family: 'Lato', Helvetica, Arial, sans-serif;
+  font-weight: 700;
+}
+.favcartfavstyle #hikashop_cart_module span.hikashop_product_price,
+.favcart.favstyle #hikashop_cart_module span.hikashop_product_price,
+.favcartfavstyle #hikashop_cart_module .hikashop_checkout_cart_additional,
+.favcart.favstyle #hikashop_cart_module .hikashop_checkout_cart_additional,
+.favcartfavstyle #hikashop_cart_module .hikashop_checkout_cart_payment,
+.favcart.favstyle #hikashop_cart_module .hikashop_checkout_cart_payment,
+.favcartfavstyle #hikashop_cart_module .hikashop_checkout_cart_coupon,
+.favcart.favstyle #hikashop_cart_module .hikashop_checkout_cart_coupon,
+.favcartfavstyle #hikashop_cart_module .hikashop_checkout_cart_additional,
+.favcart.favstyle #hikashop_cart_module .hikashop_checkout_cart_additional {
+  font-family: 'Lato', Helvetica, Arial, sans-serif;
+  font-weight: 700;
+}
+.favcart span.hikashop_product_price_full span,
+div[class^="favcart"] span.hikashop_product_price_full span,
+div[class*=" favcart"] span.hikashop_product_price_full span,
+span.hikashop_product_price,
+.hikashop_checkout_cart_additional,
+.hikashop_checkout_cart_payment,
+.hikashop_checkout_cart_coupon,
+.hikashop_checkout_cart_additional,
+span.hikashop_checkout_cart_final_total,
+span.hikashop_checkout_cart_shipping,
+#hikashop_checkout_page fieldset legend,
+#hikashop_cart_module a.btn.dropdown-toggle,
+.hikashop_cart_input_button,
+a.hikashop_cart_button {
+  font-family: 'Lato', Helvetica, Arial, sans-serif;
+  font-weight: 700;
+}
+#hikashop_product_right_part .hikashop_product_price,
+#hikashop_comment_form .hikashop_listing_comment,
+#hikashop_comment_form .hikashop_form_comment,
+#hikashop_comment_form span.hika_vote_listing_username,
+#hikashop_product_left_part .hikashop_product_price,
+#hikashop_show_tabular_description_li,
+#hikashop_show_tabular_specification_li,
+.hikashop_product_quantity_change_div_leftright a.hikashop_product_quantity_field_change,
+.hikashop_product_quantity_change_div_leftright a.hikashop_product_quantity_field_change:hover,
+.hikashop_container .hikashop_category_name a,
+div.hikashop_subcontainer span.hikashop_product_name a,
+.hikashop_subcategories h4 a,
+#hikashop_checkout_page #hikashop_checkout_login fieldset legend,
+#hikashop_checkout_cart table td:before,
+p.hikashop_cart_product_name a,
+#hikashop_checkout_page .hikashop_wizardbar ul li,
+#hikashop_order_main #adminForm legend,
+#hikashop_download_main #adminForm legend  {
+  font-family: 'Lato', Helvetica, Arial, sans-serif;
+  font-weight: 400;
+}
+#hikashop_cart .hikashop_cart_module_product_name_value a,
+#hikashop_cart td,
+#hikashop_checkout_cart table thead th,
+.hikashop_checkout_cart_shipping,
+.hikashop_checkout_cart_subtotal {
+  font-family: 'Lato', Helvetica, Arial, sans-serif;
+  font-weight: 700;
+}
+
+/* extensions */
+.favstyle h3#favportfolio-title,
+.favstyle #fav-caption h3,
+.favstyle div[id^="favpromote-box"] h4,
+.favstyle div[id*=" favpromote-box"] h4,
+.favstyle div[id^="favpromote-box"]:hover h4[id^="favpromote-title"],
+.favstyle div[id^="favpromote-box"]:hover h4[id*=" favpromote-title"],
+.favstyle h4[id^="favimagehover-title"],
+.favstyle h4[id*=" favimagehover-title"],
+.favstyle div.favglyph-description-center h2,
+.favstyle p[id^="faveffects-title"],
+.favstyle p[id*=" faveffects-title"] {
+  font-family: 'Lato', Helvetica, Arial, sans-serif;
+  font-weight: 400;
+}
+
+/*/
+///
+///  nav
+///
+/*/
+
+.favnav .navigation .nav a,
+.favnav .navigation .nav > li > a,
+.favnav .navigation .nav .nav-child a,
+.favnav .navigation .nav .nav-header,
+.favnav .navigation .nav > li > .nav-header,
+.favnav .navigation .nav .nav-child .nav-header,
+.favnav .navigation ul.nav li .nav-header {
+  font-family: 'Lato', Helvetica, Arial, sans-serif;
+  font-weight: 700;
+}
+
+/*/
+///
+///  titles
+///
+/*/
+
+h1, h2, h3, h4, h5, h6,
+.moduletable h3,
+div[class^="moduletable-"] h3,
+div[class*=" moduletable-"] h3,
+.page-header h2,
+h2.item-title,
+.componentheading,
+#member-profile legend,
+div.tag-category ul h3,
+div.contact-category h2,
+div.newsfeed h2,
+div.newsfeed-category h2,
+#hikashop_product_top_part.hikashop_product_top_part h1,
+.hikashop_category_information h2,
+#hikashop_checkout_page h1,
+#hikashop_checkout_login_left_part h2,
+#hikashop_checkout_login_right_part h2,
+#hikashop_checkout_login_right_part h3,
+#hikashop_checkout_page fieldset legend,
+#hikashop_cpanel_title h1,
+#hikashop_carts_listing .header h1,
+#hikashop_affiliate_main .header h1,
+#hikashop_address_listing .header h1,
+#hikashop_order_listing .header h1,
+#hikashop_download_listing fieldset h1,
+#hikashop_order_main fieldset h1,
+div.hikashop_container .hikashop_category_name a,
+div.hikashop_subcontainer span.hikashop_product_name a,
+#hikashop_checkout_billing_address legend,
+#hikashop_checkout_page #hikashop_checkout_shipping_address legend,
+#hikashop_checkout_page #hikashop_shipping_methods legend {
+  font-family: 'Lato', Helvetica, Arial, sans-serif;
+  font-weight: 400;
+}
+
+/*/
+///
+///  buttons
+///
+/*/
+
+.btn,
+.btn-primary,
+.pager .next a,
+.pager .previous a,
+.pagination ul li a,
+.pagination ul > .disabled > a,
+.pagination ul > .active > a,
+.pagination ul > .disabled > a:hover,
+.pagination ul > .disabled > a:focus,
+.pagination ul > .active > a:hover,
+.pagination ul > .active > a:focus,
+.hikashop_products_pagination .list-footer .pagenav,
+.hikashop_subcategories_pagination .list-footer .pagenav,
+.hikashop_cart_input_button,
+.hikashop_categories_listing_main .btn,
+a.hikashop_cart_button,
+.hikashop_cart_input_button,
+a.hikashop_cart_button,
+.hikashop_product_stock .btn.button.hikashop_cart_input_button,
+.hikashop_product_stock a.hikashop_cart_button,
+#fav-language a.btn.dropdown-toggle,
+#fav-language a.btn.dropdown-toggle:hover,
+#fav-language-demo a.btn.dropdown-toggle,
+#fav-language-demo a.btn.dropdown-toggle:hover
+#fav-language ul.dropdown-menu li a,
+#fav-language-demo ul.dropdown-menu li a {
+  font-family: 'Lato', Helvetica, Arial, sans-serif;
+  font-weight: 700;
+}
+
+/*//////////////////////////////////////////////////////////////////////////////
+
+1.2. header
+
+//////////////////////////////////////////////////////////////////////////////*/
+
+#fav-headerwrap,
+#fav-headerwrap.fav-fixed {
+  padding-top: 21px;
+  padding-bottom: 21px;
+}
+#fav-headerwrap,
+#fav-headerwrap.fav-fixed {
+  background-color: rgba(17, 17, 17, 0.4);
+}
+#fav-headerwrap.fav-fixed.favheader {
+  background-color: rgba(17, 17, 17, 0.9);
+  padding-top: 14px;
+  padding-bottom: 14px;
+}
+#fav-headerwrap.fav-light,
+#fav-headerwrap.fav-light.fav-fixed {
+  background-color: rgba(255, 255, 255, 0.8);
+}
+#fav-headerwrap li a,
+#fav-headerwrap .nav-header,
+#fav-headerwrap p {
+  color: #fff;
+  background-color: transparent;
+}
+
+/*/// tablet ///*/
+@media (max-width: 1200px) {
+
+  #fav-headerwrap,
+  #fav-headerwrap.fav-fixed,
+  #fav-headerwrap.fav-fixed.favheader {
+    padding-top: 0px;
+    padding-bottom: 0px;
+  }
+
+}
+
+/*//////////////////////////////////////////////////////////////////////////////
+///
+///  logo
+///
+//////////////////////////////////////////////////////////////////////////////*/
+
+.default-logo {
+  margin-top: 18px;
+}
+#fav-logo .favdemo {
+  background: url('../images/styles/style1/logo.png') no-repeat scroll 0% 0% transparent;
+  display: block;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  height: 25px;
+  width: 142px;
+  padding-left: 142px;
+  margin: 12px 0 4px;
+}
+
+/*/// tablet ///*/
+@media (min-width: 769px) and (max-width: 1200px) {
+
+  #fav-logo .favdemo {
+    margin-left: auto !important;
+    margin-right: auto !important;
+    margin-bottom: 0  !important;
+  }
+
+}
+
+/*/// mobile ///*/
+@media (max-width: 768px) {
+
+  #fav-logo .favdemo {
+    background: url('../images/styles/style1/logo.png') no-repeat scroll 0% 0% transparent;
+    display: block;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    height: 25px;
+    width: 142px;
+    padding-left: 142px;
+    margin: 12px 0 4px;
+  }
+
+}
+
+/*//////////////////////////////////////////////////////////////////////////////
+
+1.3. navigation
+
+//////////////////////////////////////////////////////////////////////////////*/
+
+/*/
+///
+///  main navigation
+///
+/*/
+
+.favnav .navigation ul.nav > li > a,
+.favnav .navigation ul.nav > li > .nav-header {
+  border: 2px solid transparent;
+  margin: 10px 0px 10px 4px;
+  padding: 12px 14px;
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
+}
+.favnav .navigation ul.nav ul.nav-child {
+  left: 4px;
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
+}
+.favnav .navigation ul.nav ul.nav-child li > ul {
+  margin: -44px 0 0 216px;
+}
+
+/* vertical */
+.favnav.navstyle-icon-vertical .navigation ul.nav > li > a,
+.favnav.navstyle-icon-vertical .navigation ul.nav > li > .nav-header {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+.favnav.navstyle.navstyle-icon-vertical .navigation .nav-child:before,
+.favnav.navstyle-2.navstyle-icon-vertical .navigation .nav-child:before {
+  position: absolute;
+  top: -10px;
+  left: 14px;
+  display: inline-block;
+}
+.favnav.navstyle.navstyle-icon-vertical .navigation .nav-child:after,
+.favnav.navstyle-2.navstyle-icon-vertical .navigation .nav-child:after {
+  position: absolute;
+  top: -9px;
+  left: 15px;
+  display: inline-block;
+}
+.favnav.navstyle.navstyle-icon-vertical .navigation .nav-child li > ul:before,
+.favnav.navstyle-2.navstyle-icon-vertical .navigation .nav-child li > ul:before {
+  top: 15px;
+  left: -14px;
+  border-left: none;
+}
+.favnav.navstyle.navstyle-icon-vertical .navigation .nav-child li > ul:after,
+.favnav.navstyle-2.navstyle-icon-vertical .navigation .nav-child li > ul:after {
+  top: 16px;
+  left: -13px;
+  margin-top: 0;
+  border-left: none;
+}
+
+/*/// mobile ///*/
+@media (max-width: 768px) {
+
+  div.navbar #fav-navbar-collapse li a:hover,
+  div.navbar #fav-navbar-collapse li li a:hover,
+  div.navbar #fav-navbar-collapse li li li a:hover,
+  div.navbar #fav-navbar-collapse li li li li a:hover,
+  div.navbar #fav-navbar-collapse li a:focus,
+  div.navbar #fav-navbar-collapse li li a:focus,
+  div.navbar #fav-navbar-collapse li li li a:focus,
+  div.navbar #fav-navbar-collapse li li li li a:focus,
+  div.navbar #fav-navbar-collapse li[class^="item-"].current.active,
+  div.navbar #fav-navbar-collapse li[class*=" item-"].current.active,
+  div.navbar #fav-navbar-collapse li li[class^="item-"].current.active,
+  div.navbar #fav-navbar-collapse li li[class*=" item-"].current.active,
+  div.navbar #fav-navbar-collapse li li li[class^="item-"].current.active,
+  div.navbar #fav-navbar-collapse li li li[class*=" item-"].current.active,
+  div.navbar #fav-navbar-collapse li li li li[class^="item-"].current.active,
+  div.navbar #fav-navbar-collapse li li li li[class*=" item-"].current.active,
+  div.navbar #fav-navbar-collapse li .nav-header:hover,
+  div.navbar #fav-navbar-collapse li li .nav-header:hover,
+  div.navbar #fav-navbar-collapse li li li .nav-header:hover,
+  div.navbar #fav-navbar-collapse li li li li .nav-header:hover,
+  div.navbar #fav-navbar-collapse li .nav-header:focus,
+  div.navbar #fav-navbar-collapse li li .nav-header:focus,
+  div.navbar #fav-navbar-collapse li li li .nav-header:focus,
+  div.navbar #fav-navbar-collapse li li li li .nav-header:focus {
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    border-radius: 0px;
+  }
+  .navbar-inverse .nav .active > a,
+  .navbar .nav .active > a,
+  .navbar-inverse .nav .active > a:hover,
+  .navbar .nav .active > a:hover,
+  .navbar-inverse .nav .active > a:focus,
+  .navbar .nav .active > a:focus,
+  .navbar-inverse .nav .active > .nav-header,
+  .navbar .nav .active > .nav-header,
+  .navbar-inverse .nav .active > .nav-header:hover,
+  .navbar .nav .active > .nav-header:hover,
+  .navbar-inverse .nav .active > .nav-header:focus,
+  .navbar .nav .active > .nav-header:focus {
+    background: none;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    border-radius: 0px;
+  }
+  #fav-navbar-btn a.btn.btn-navbar {
+    background-image: none;
+    background-color: #E7E7E7;
+    box-shadow: none;
+  }
+  .navbar.navbar-inverse #fav-navbar-btn a.btn.btn-navbar {
+    background-color: #444;
+  }
+  #fav-navbar-collapse li.deeper.parent.favmenuopen a:after,
+  #fav-navbar-collapse li.deeper.parent.favmenuopen .nav-header:after,
+  #fav-navbar-collapse li.deeper.parent.favmenuopen ul li.deeper.parent.favmenuopen a:after,
+  #fav-navbar-collapse li.deeper.parent.favmenuopen ul li.deeper.parent.favmenuopen .nav-header:after,
+  #fav-navbar-collapse li.deeper.parent.favmenuopen ul li.deeper.parent.favmenuopen ul li.deeper.parent.favmenuopen a:after,
+  #fav-navbar-collapse li.deeper.parent.favmenuopen ul li.deeper.parent.favmenuopen ul li.deeper.parent.favmenuopen .nav-header:after,
+  #fav-navbar-collapse li.deeper.parent.favmenuopen ul li.deeper.parent.favmenuopen ul li.deeper.parent.favmenuopen ul li.deeper.parent.favmenuopen a:after,
+  #fav-navbar-collapse li.deeper.parent.favmenuopen ul li.deeper.parent.favmenuopen ul li.deeper.parent.favmenuopen ul li.deeper.parent.favmenuopen .nav-header:after,
+  #fav-navbar-collapse li.deeper.parent.favmenuopen ul li.deeper.parent.favmenuopen ul li.deeper.parent.favmenuopen ul li.deeper.parent.favmenuopen ul li.deeper.parent.favmenuopen a:after,
+  #fav-navbar-collapse li.deeper.parent.favmenuopen ul li.deeper.parent.favmenuopen ul li.deeper.parent.favmenuopen ul li.deeper.parent.favmenuopen ul li.deeper.parent.favmenuopen .nav-header:after {
+    content: "\f068";
+  }
+  #fav-navbar-collapse li.deeper.parent a:after,
+  #fav-navbar-collapse li.deeper.parent .nav-header:after,
+  #fav-navbar-collapse li.deeper.parent ul li.deeper.parent a:after,
+  #fav-navbar-collapse li.deeper.parent ul li.deeper.parent .nav-header:after,
+  #fav-navbar-collapse li.deeper.parent ul li.deeper.parent ul li.deeper.parent a:after,
+  #fav-navbar-collapse li.deeper.parent ul li.deeper.parent ul li.deeper.parent .nav-header:after,
+  #fav-navbar-collapse li.deeper.parent ul li.deeper.parent ul li.deeper.parent ul li.deeper.parent a:after,
+  #fav-navbar-collapse li.deeper.parent ul li.deeper.parent ul li.deeper.parent ul li.deeper.parent .nav-header:after,
+  #fav-navbar-collapse li.deeper.parent ul li.deeper.parent ul li.deeper.parent ul li.deeper.parent ul li.deeper.parent a:after,
+  #fav-navbar-collapse li.deeper.parent ul li.deeper.parent ul li.deeper.parent ul li.deeper.parent ul li.deeper.parent .nav-header:after {
+    content: "\f067";
+  }
+  #fav-navbar-collapse li.deeper.parent ul a:after,
+  #fav-navbar-collapse li.deeper.parent ul .nav-header:after,
+  #fav-navbar-collapse li.deeper.parent ul li.deeper.parent ul a:after,
+  #fav-navbar-collapse li.deeper.parent ul li.deeper.parent ul .nav-header:after,
+  #fav-navbar-collapse li.deeper.parent ul li.deeper.parent ul li.deeper.parent ul a:after,
+  #fav-navbar-collapse li.deeper.parent ul li.deeper.parent ul li.deeper.parent ul .nav-header:after,
+  #fav-navbar-collapse li.deeper.parent ul li.deeper.parent ul li.deeper.parent ul li.deeper.parent ul a:after,
+  #fav-navbar-collapse li.deeper.parent ul li.deeper.parent ul li.deeper.parent ul li.deeper.parent ul .nav-header:after,
+  #fav-navbar-collapse li.deeper.parent ul li.deeper.parent ul li.deeper.parent ul li.deeper.parent ul li.deeper.parent ul a:after,
+  #fav-navbar-collapse li.deeper.parent ul li.deeper.parent ul li.deeper.parent ul li.deeper.parent ul li.deeper.parent ul .nav-header:after,
+  #fav-navbar-collapse li.deeper.parent.favmenuopen ul a:after,
+  #fav-navbar-collapse li.deeper.parent.favmenuopen ul .nav-header:after,
+  #fav-navbar-collapse li.deeper.parent.favmenuopen ul li.deeper.parent.favmenuopen ul a:after,
+  #fav-navbar-collapse li.deeper.parent.favmenuopen ul li.deeper.parent.favmenuopen ul .nav-header:after,
+  #fav-navbar-collapse li.deeper.parent.favmenuopen ul li.deeper.parent.favmenuopen ul li.deeper.parent.favmenuopen ul a:after,
+  #fav-navbar-collapse li.deeper.parent.favmenuopen ul li.deeper.parent.favmenuopen ul li.deeper.parent.favmenuopen ul .nav-header:after,
+  #fav-navbar-collapse li.deeper.parent.favmenuopen ul li.deeper.parent.favmenuopen ul li.deeper.parent.favmenuopen ul li.deeper.parent.favmenuopen ul a:after,
+  #fav-navbar-collapse li.deeper.parent.favmenuopen ul li.deeper.parent.favmenuopen ul li.deeper.parent.favmenuopen ul li.deeper.parent.favmenuopen ul .nav-header:after,
+  #fav-navbar-collapse li.deeper.parent.favmenuopen ul li.deeper.parent.favmenuopen ul li.deeper.parent.favmenuopen ul li.deeper.parent.favmenuopen ul li.deeper.parent.favmenuopen ul a:after,
+  #fav-navbar-collapse li.deeper.parent.favmenuopen ul li.deeper.parent.favmenuopen ul li.deeper.parent.favmenuopen ul li.deeper.parent.favmenuopen ul li.deeper.parent.favmenuopen ul .nav-header:after {
+    content: none;
+  }
+  #fav-navbar-btn a.btn.btn-navbar {
+    margin: 8px 0 0 0;
+  }
+
+}
+
+/*//////////////////////////////////////////////////////////////////////////////
+///
+///  nav style
+///
+//////////////////////////////////////////////////////////////////////////////*/
+
+/*/
+///
+///  default
+///
+/*/
+
+/* links */
+#fav-container .favnav.navstyle .navigation ul.nav > li.active > a,
+#fav-container .favnav.navstyle .navigation ul.nav > li > a:hover,
+#fav-container .favnav.navstyle .navigation ul.nav > li > a:focus,
+#fav-container .favnav.navstyle .navigation ul.nav > li.active > .nav-header,
+#fav-container .favnav.navstyle .navigation ul.nav > li > .nav-header:hover,
+#fav-container .favnav.navstyle .navigation ul.nav > li > .nav-header:focus {
+  background-color: transparent;
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
+}
+
+/* submenu */
+#fav-container .favnav.navstyle .navigation .nav-child li a,
+#fav-container .favnav.navstyle .navigation .nav-child li.active a,
+#fav-container .favnav.navstyle .navigation .nav-child li a:hover,
+#fav-container .favnav.navstyle .navigation .nav-child li a:focus,
+#fav-container .favnav.navstyle .navigation .nav-child li .nav-header,
+#fav-container .favnav.navstyle .navigation .nav-child li.active .nav-header,
+#fav-container .favnav.navstyle .navigation .nav-child li .nav-header:hover,
+#fav-container .favnav.navstyle .navigation .nav-child li .nav-header:focus {
+  margin: 0px;
+  padding: 8px 20px 6px;
+  border: 0 none;
+}
+
+/* vertical */
+#fav-container .favnav.navstyle.navstyle-icon-vertical .navigation ul.nav > li > a,
+#fav-container .favnav.navstyle.navstyle-icon-vertical .navigation ul.nav > li > .nav-header {
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+
+/*/// tablet ///*/
+@media (max-width: 1200px) {
+
+  #fav-container .favnav.navstyle .navigation ul.nav > li > a,
+  #fav-container .favnav.navstyle .navigation ul.nav > li > .nav-header {
+    padding-top: 12px !important;
+    padding-bottom: 12px !important;
+  }
+  #fav-container .favnav.navstyle .navigation .nav-child li a,
+  #fav-container .favnav.navstyle .navigation .nav-child li.active a,
+  #fav-container .favnav.navstyle .navigation .nav-child li a:hover,
+  #fav-container .favnav.navstyle .navigation .nav-child li a:focus,
+  #fav-container .favnav.navstyle .navigation .nav-child li .nav-header,
+  #fav-container .favnav.navstyle .navigation .nav-child li.active .nav-header,
+  #fav-container .favnav.navstyle .navigation .nav-child li .nav-header:hover,
+  #fav-container .favnav.navstyle .navigation .nav-child li .nav-header:focus {
+    padding: 8px 14px 6px !important;
+  }
+  #fav-container .favnav.navstyle.navstyle-icon-vertical  .navigation ul.nav > li > a,
+  #fav-container .favnav.navstyle.navstyle-icon-vertical  .navigation ul.nav > li > .nav-header {
+    padding-top: 8px !important;
+    padding-bottom: 8px !important;
+  }
+
+}
+
+/* style 2 */
+
+.favnav.navstyle-2 .navigation ul.nav > li > a,
+.favnav.navstyle-2 .navigation ul.nav > li > .nav-header {
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
+}
+
+/* style 3 */
+
+.favnav.navstyle-3 .navigation ul.nav > li > a,
+.favnav.navstyle-3 .navigation ul.nav > li > .nav-header {
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
+}
+
+/* style 4 */
+
+.favnav.navstyle-4 .navigation ul.nav > li > a,
+.favnav.navstyle-4 .navigation ul.nav > li > .nav-header {
+  border-top: 0 none;
+}
+
+/* style 5 */
+
+.favnav.navstyle-5 .navigation ul.nav > li > a,
+.favnav.navstyle-5 .navigation ul.nav > li > .nav-header {
+  border-bottom: 0 none;
+}
+
+/*//////////////////////////////////////////////////////////////////////////////
+///
+///  vertical menus
+///
+//////////////////////////////////////////////////////////////////////////////*/
+
+ul.menubasic,
+ul.menubasic li a,
+ul.menubasic li .nav-header {
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
+}
+ul.menubasic li a,
+ul.menubasic li .nav-header,
+ul.menuarrow li a,
+ul.menuarrow li .nav-header,
+ul.menuside li a,
+ul.menuside li .nav-header,
+ul.menuline li a,
+ul.menuline li .nav-header {
+  font-size: 16px;
+}
+ul.menubasic li a,
+ul.menubasic li .nav-header {
+  padding: 14px 14px 12px;
+}
+ul.menuarrow li a,
+ul.menuarrow li .nav-header {
+  padding: 11px 14px 8px 0px;
+}
+ul.menuside li a,
+ul.menuside li .nav-header {
+  padding: 14px 14px 9px;
+}
+ul.menuline li a,
+ul.menuline li .nav-header {
+  padding: 14px 14px 10px 0px;
+}
+
+/*//////////////////////////////////////////////////////////////////////////////
+///
+///  horizontal menus
+///
+//////////////////////////////////////////////////////////////////////////////*/
+
+ul.menuhorizontal a,
+ul.menuhorizontal .nav-header {
+  font-size: 16px;
+}
+
+/*//////////////////////////////////////////////////////////////////////////////
+
+1.4. module positions
+
+//////////////////////////////////////////////////////////////////////////////*/
+
+/*//////////////////////////////////////////////////////////////////////////////
+///
+///  topbar
+///
+//////////////////////////////////////////////////////////////////////////////*/
+
+#fav-topbarwrap {
+  box-shadow: none;
+}
+#fav-topbar ul.nav li a {
+  color: #FFF !important;
+  text-transform: uppercase;
+}
+#fav-topbar ul.nav.menuhorizontal {
+  margin-top: 11px;
+}
+
+/*/// mobile ///*/
+@media (max-width: 768px) {
+
+  #fav-topbar .moduletable.favstyle {
+    padding-left: 21px;
+    padding-right: 21px;
+  }
+  #fav-topbar ul.nav.menuhorizontal {
+    margin-top: 0px;
+    padding: 0;
+  }
+  #fav-topbar ul.nav li a {
+    padding: 10px 12px 9px;
+  }
+  #fav-topbar .pull-right {
+    clear: both;
+  }
+  #fav-topbar .dropdown-menu {
+    border: medium none;
+  }
+
+}
+
+/*//////////////////////////////////////////////////////////////////////////////
+///
+///  slide
+///
+//////////////////////////////////////////////////////////////////////////////*/
+
+#fav-slide {
+  padding: 0;
+}
+#fav-slide .moduletable {
+  margin: 0;
+}
+
+/*//////////////////////////////////////////////////////////////////////////////
+///
+///  intro
+///
+//////////////////////////////////////////////////////////////////////////////*/
+
+#fav-intro {
+  padding: 0 21px;
+}
+
+/* background */
+#fav-introwrap {
+  background: none;
+}
+#fav-introwrap .fav-overlay {
+  background-color: rgba(17, 17, 17, 0.4);
+}
+#fav-intro {
+  background-color: #FFF;
+}
+
+/* text */
+#fav-introwrap .moduletable {
+  color: #333;
+}
+
+/* titles */
+#fav-introwrap .moduletable h3 {
+  color: #333;
+}
+
+/*//////////////////////////////////////////////////////////////////////////////
+///
+///  breadcrumbs
+///
+//////////////////////////////////////////////////////////////////////////////*/
+
+#fav-breadcrumbs .moduletable,
+#fav-breadcrumbs div[class^="moduletable-"],
+#fav-breadcrumbs div[class*=" moduletable-"] {
+  margin: 14px 0px;
+}
+#fav-breadcrumbs .moduletable ul.breadcrumb,
+#fav-breadcrumbs div[class^="moduletable-"] ul.breadcrumb,
+#fav-breadcrumbs div[class*=" moduletable-"] ul.breadcrumb {
+  padding: 8px 0px;
+}
+
+/*/// mobile ///*/
+@media (max-width: 768px) {
+
+  .moduletable ul.breadcrumb {
+    font-size: 14px;
+  }
+
+}
+
+/*//////////////////////////////////////////////////////////////////////////////
+///
+///  map
+///
+//////////////////////////////////////////////////////////////////////////////*/
+
+#fav-mapwrap.container-fluid {
+  color: #fff;
+  border-top: 0 none;
+}
+
+/*//////////////////////////////////////////////////////////////////////////////
+///
+///  backtop
+///
+//////////////////////////////////////////////////////////////////////////////*/
+
+a.backtop i {
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
+}
+
+/*//////////////////////////////////////////////////////////////////////////////
+///
+///  module positions blocks
+///
+//////////////////////////////////////////////////////////////////////////////*/
+
+/*/
+///
+///  light module positions
+///
+/*/
+
+/* overlay */
+.fav-overlay {
+  background-color: rgba(17, 17, 17, 0.67);
+}
+
+/* background */
+#fav-primewrap,
+#fav-screenwrap,
+#fav-maintopwrap,
+#fav-mainwrap,
+#fav-mainbottomwrap,
+#fav-basewrap,
+#fav-debugwrap {
+  background-color: #fff;
+  background-image: none;
+  -webkit-background-size: inherit;
+  -moz-background-size: inherit;
+  -o-background-size: inherit;
+  background-size: inherit;
+}
+
+/* text */
+#fav-primewrap .moduletable,
+#fav-screenwrap .moduletable,
+#fav-maintopwrap .moduletable,
+#fav-mainwrap,
+#fav-mainbottomwrap .moduletable,
+#fav-basewrap .moduletable,
+#fav-debugwrap .moduletable {
+  color: #333;
+}
+
+/* titles */
+#fav-primewrap .moduletable h3,
+#fav-screenwrap .moduletable h3,
+#fav-maintopwrap .moduletable h3,
+#fav-mainwrap h3,
+#fav-mainbottomwrap .moduletable h3,
+#fav-basewrap .moduletable h3,
+#fav-debugwrap .moduletable h3 {
+  color: #333;
+}
+
+/*/
+///
+///  clear module posiions
+///
+/*/
+
+/* background */
+#fav-promowrap .fav-overlay,
+#fav-featurewrap .fav-overlay,
+#fav-topwrap .fav-overlay,
+#fav-bottomwrap .fav-overlay,
+#fav-userwrap .fav-overlay,
+#fav-copyrightwrap .fav-overlay {
+  background-color: rgba(17, 17, 17, 0.4);
+  padding-right: 20px;
+  padding-left: 20px;
+}
+
+/* text */
+#fav-topbar .moduletable,
+#fav-promo .moduletable,
+#fav-feature .moduletable,
+#fav-top .moduletable,
+#fav-bottom .moduletable,
+#fav-user .moduletable,
+#fav-copyright {
+  color: #FFF;
+}
+
+/*/
+///
+///  color module positions
+///
+/*/
+
+/* text */
+#fav-noticewrap .moduletable,
+#fav-leadwrap .moduletable,
+#fav-focuswrap .moduletable,
+#fav-blockwrap .moduletable {
+  color: #FFF;
+}
+
+/*//////////////////////////////////////////////////////////////////////////////
+///
+///  component
+///
+//////////////////////////////////////////////////////////////////////////////*/
+
+/*/
+///
+///  titles
+///
+/*/
+
+#fav-mainwrap.component-color h1,
+#fav-mainwrap.component-color h2,
+#fav-mainwrap.component-color h3,
+#fav-mainwrap.component-color h4,
+#fav-mainwrap.component-color h5,
+#fav-mainwrap.component-color h6,
+#fav-mainwrap.component-color .moduletable h3,
+#fav-mainwrap.component-color div[class^="moduletable-"] h3,
+#fav-mainwrap.component-color div[class*=" moduletable-"] h3,
+#fav-mainwrap.component-color .page-header h2,
+#fav-mainwrap.component-color .page-header h2 a,
+#fav-mainwrap.component-color h2.item-title,
+#fav-mainwrap.component-color h2.item-title a,
+#fav-mainwrap.component-color .componentheading,
+#fav-mainwrap.component-color div.categories-list h3 a,
+#fav-mainwrap.component-color div.tag-category ul h3 a,
+#fav-mainwrap.component-color #member-profile legend,
+#fav-mainwrap.component-color div.tag-category ul h3,
+#fav-mainwrap.component-color div.contact-category h2,
+#fav-mainwrap.component-color div.newsfeed h2,
+#fav-mainwrap.component-color div.newsfeed-category h2,
+#fav-mainwrap.component-color .hikashop_product_top_part h1,
+#fav-mainwrap.component-color .hikashop_category_information h2,
+#fav-mainwrap.component-color #hikashop_checkout_page h1,
+#fav-mainwrap.component-color #hikashop_checkout_login_left_part h2,
+#fav-mainwrap.component-color #hikashop_checkout_login_right_part h2,
+#fav-mainwrap.component-color #hikashop_checkout_login_right_part h3,
+#fav-mainwrap.component-color #hikashop_checkout_page fieldset legend,
+#fav-mainwrap.component-color #hikashop_cpanel_title h1,
+#fav-mainwrap.component-color #hikashop_carts_listing .header h1,
+#fav-mainwrap.component-color #hikashop_affiliate_main .header h1,
+#fav-mainwrap.component-color #hikashop_address_listing .header h1,
+#fav-mainwrap.component-color #hikashop_order_listing .header h1,
+#fav-mainwrap.component-color #hikashop_download_listing fieldset h1,
+#fav-mainwrap.component-color #hikashop_order_main fieldset h1,
+#fav-mainwrap.component-color div.hikashop_container .hikashop_category_name a,
+#fav-mainwrap.component-color div.hikashop_subcontainer span.hikashop_product_name a {
+  color: rgba(17, 17, 17, 0.67) !important;
+}
+#fav-mainwrap.component-color .page-header h2 a:hover,
+#fav-mainwrap.component-color .page-header h2 a:focus,
+#fav-mainwrap.component-color h2.item-title a:hover,
+#fav-mainwrap.component-color h2.item-title a:focus,
+#fav-mainwrap.component-color div.categories-list h3 a:hover,
+#fav-mainwrap.component-color div.categories-list h3 a:focus,
+#fav-mainwrap.component-color div.tag-category ul h3 a:hover,
+#fav-mainwrap.component-color div.tag-category ul h3 a:focus,
+#fav-mainwrap.component-color div.hikashop_container .hikashop_category_name a:hover,
+#fav-mainwrap.component-color div.hikashop_container .hikashop_category_name a:focus,
+#fav-mainwrap.component-color div.hikashop_subcontainer span.hikashop_product_name a:hover,
+#fav-mainwrap.component-color div.hikashop_subcontainer span.hikashop_product_name a:focus {
+  color: #fff !important;
+}
+
+/*/
+///
+///  buttons
+///
+/*/
+
+#fav-containerwrap #fav-mainwrap.component-color .btn:hover,
+#fav-containerwrap #fav-mainwrap.component-color .btn:focus,
+#fav-containerwrap #fav-mainwrap.component-color .btn:active,
+#fav-containerwrap #fav-mainwrap.component-color .btn.active,
+#fav-containerwrap #fav-mainwrap.component-color .btn-primary:hover,
+#fav-containerwrap #fav-mainwrap.component-color .btn-primary:focus,
+#fav-containerwrap #fav-mainwrap.component-color .btn-primary:active,
+#fav-containerwrap #fav-mainwrap.component-color .btn-primary.active,
+#fav-containerwrap #fav-mainwrap.component-color .pager .next a:hover,
+#fav-containerwrap #fav-mainwrap.component-color .pager .previous a:hover,
+#fav-containerwrap #fav-mainwrap.component-color .pager .next a:focus,
+#fav-containerwrap #fav-mainwrap.component-color .pager .previous a:focus,
+#fav-containerwrap #fav-mainwrap.component-color .hikashop_categories_listing_main .btn:hover,
+#fav-containerwrap #fav-mainwrap.component-color .hikashop_categories_listing_main .btn:focus {
+  background-color: rgba(17, 17, 17, 0.17) !important;
+  border: 2px solid rgba(17, 17, 17, 0.37) !important;
+  color: #fff !important;
+}
+#fav-mainwrap.component-color #fav-main div[id^="hikashop_module"] .hikashop_container .thumbnail:hover,
+#fav-mainwrap.component-color #fav-main div[id*=" hikashop_module"] .hikashop_container .thumbnail:hover {
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
+}
+
+/*/
+///
+///  pagination
+///
+/*/
+
+#fav-mainwrap.component-color .pagination ul li a:hover,
+#fav-mainwrap.component-color .pagination ul li a:focus,
+#fav-mainwrap.component-color .pagination ul li.active a,
+#fav-mainwrap.component-color .pagination ul li.active a:hover,
+#fav-mainwrap.component-color .hikashop_products_pagination .list-footer span.pagenav,
+#fav-mainwrap.component-color .hikashop_subcategories_pagination .list-footer span.pagenav,
+#fav-mainwrap.component-color .hikashop_products_pagination .list-footer a.pagenav:hover,
+#fav-mainwrap.component-color .hikashop_subcategories_pagination .list-footer a.pagenav:hover,
+#fav-mainwrap.component-color .hikashop_products_pagination .list-footer a.pagenav:focus,
+#fav-mainwrap.component-color .hikashop_subcategories_pagination .list-footer a.pagenav:focus,
+#fav-mainwrap.component-color .hikashop_module .hikashop_products_pagination .list-footer span.pagenav,
+#fav-mainwrap.component-color .hikashop_module .hikashop_subcategories_pagination .list-footer span.pagenav,
+#fav-mainwrap.component-color .hikashop_module .hikashop_products_pagination .list-footer a.pagenav:hover,
+#fav-mainwrap.component-color .hikashop_module .hikashop_subcategories_pagination .list-footer a.pagenav:hover,
+#fav-mainwrap.component-color .hikashop_module .hikashop_products_pagination .list-footer a.pagenav:focus,
+#fav-mainwrap.component-color .hikashop_module .hikashop_subcategories_pagination .list-footer a.pagenav:focus {
+  color: #fff !important;
+  background-color: rgba(17, 17, 17, 0.27);
+  border-color: transparent;
+}
+
+/*/
+///
+///  tags
+///
+/*/
+
+#fav-container #fav-mainwrap.component-color div.tag-category ul.thumbnails h3 a,
+#fav-container #fav-mainwrap.component-color .label-info[href],
+#fav-container #fav-mainwrap.component-color .badge-info[href] {
+  background-color: rgba(17, 17, 17, 0.47) !important;
+  color: #fff !important;
+}
+#fav-container #fav-mainwrap.component-color div.tag-category ul.thumbnails h3 a:hover,
+#fav-container #fav-mainwrap.component-color div.tag-category ul.thumbnails h3 a:focus,
+#fav-container #fav-mainwrap.component-color .label-info[href]:hover,
+#fav-container #fav-mainwrap.component-color .label-info[href]:focus,
+#fav-container #fav-mainwrap.component-color .badge-info[href]:hover,
+#fav-container #fav-mainwrap.component-color .badge-info[href]:focus {
+  background-color: rgba(17, 17, 17, 0.27) !important;
+  color: #fff !important;
+}
+
+/*/
+///
+///  search
+///
+/*/
+
+#fav-mainwrap.component-color .accordion-group {
+  border-color: transparent !important;
+}
+
+/*/
+///
+///  forms
+///
+/*/
+
+#fav-mainwrap.component-color form.well {
+  padding-bottom: 1px;
+}
+
+/*/
+///
+///  profile
+///
+/*/
+
+#fav-mainwrap.component-color div.profile dl.dl-horizontal dt {
+  color: rgba(17, 17, 17, 0.67);
+}
+
+/*/
+///
+///  tabs
+///
+/*/
+
+#fav-mainwrap.component-color .nav-tabs {
+  border-bottom: 1px solid rgba(17, 17, 17, 0.17);
+}
+#fav-mainwrap.component-color .nav-tabs > .active > a,
+#fav-mainwrap.component-color .nav-tabs > .active > a:hover,
+#fav-mainwrap.component-color .nav-tabs > .active > a:focus,
+#fav-mainwrap.component-color .nav-tabs > li > a:hover,
+#fav-mainwrap.component-color .nav-tabs > li > a:focus {
+  background-color: rgba(17, 17, 17, 0.27);
+  border-color: transparent;
+  color: #fff !important;
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
+}
+
+/*//////////////////////////////////////////////////////////////////////////////
+
+1.5. titles
+
+//////////////////////////////////////////////////////////////////////////////*/
+
+.moduletable h3,
+.page-header h2,
+h2.item-title,
+.componentheading,
+div.tag-category h2,
+#member-profile legend,
+#hikashop_checkout_page h1,
+#hikashop_checkout_login_left_part h2,
+#hikashop_checkout_login_right_part h2,
+#hikashop_checkout_login_right_part h3,
+#hikashop_checkout_page fieldset legend,
+#hikashop_cpanel_title h1,
+#hikashop_carts_listing .header h1,
+#hikashop_affiliate_main .header h1,
+#hikashop_address_listing .header h1,
+#hikashop_order_listing .header h1,
+#hikashop_order_main fieldset h1 {
+  margin-bottom: 27px;
+  margin-top: 14px;
+  padding-bottom: 0;
+  line-height: 1.3em;
+  text-align: left;
+  font-size: 24px;
+  font-weight: 300;
+  color: inherit;
+  border: 0;
+}
+.moduletable h3 [class^="fa fa-"],
+.moduletable h3 [class*=" fa fa-"] {
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
+}
+
+/*//////////////////////////////////////////////////////////////////////////////
+
+1.6. buttons
+
+//////////////////////////////////////////////////////////////////////////////*/
+
+.btn,
+.btn-primary,
+.pager .next a,
+.pager .previous a,
+.hikashop_cart_input_button,
+.hikashop_categories_listing_main .btn,
+a.hikashop_cart_button,
+.hikashop_cart_input_button,
+.hikashop_product_stock .btn.button.hikashop_cart_input_button,
+.hikashop_product_stock a.hikashop_cart_button {
+  padding: 14px 21px 12px;
+  font-size: 16px;
+  background-image: none;
+  border: 1px solid transparent;
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
+}
+.btn-group > .btn:first-child {
+  margin-left: 0px;
+  border-bottom-left-radius: 0px;
+  border-top-left-radius: 0px;
+}
+.btn-group > .btn:last-child, .btn-group > .dropdown-toggle {
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 0px;
+}
+#hikashop_checkout_login #form-login-submit .btn-primary {
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
+}
+
+/*//////////////////////////////////////////////////////////////////////////////
+///
+///  button sizes
+///
+//////////////////////////////////////////////////////////////////////////////*/
+
+.btn-large,
+.btn-small,
+.btn-mini {
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+.btn-large {
+  padding: 22px 28px 20px;
+  font-size: 19px;
+}
+.btn-small {
+  padding: 8px 14px;
+  font-size: 14px;
+}
+.btn-mini {
+  padding: 7px 12px 6px;
+  font-size: 13px;
+}
+
+/*//////////////////////////////////////////////////////////////////////////////
+///
+///  pagination
+///
+//////////////////////////////////////////////////////////////////////////////*/
+
+.pagination ul,
+.pagination ul li a,
+.pagination ul > .disabled > a,
+.pagination ul > .active > a,
+.pagination ul > .disabled > a:hover,
+.pagination ul > .disabled > a:focus,
+.pagination ul > .active > a:hover,
+.pagination ul > .active > a:focus,
+.hikashop_products_pagination .list-footer .pagenav,
+.hikashop_subcategories_pagination .list-footer .pagenav {
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
+}
+.pagination ul > li:first-child > a,
+.pagination ul > li:first-child > span,
+.pagination ul li a,
+.pagination ul > .disabled > a,
+.pagination ul > .active > a,
+.pagination ul > .disabled > a:hover,
+.pagination ul > .disabled > a:focus,
+.pagination ul > .active > a:hover,
+.pagination ul > .active > a:focus,
+.hikashop_products_pagination .list-footer .pagenav,
+.hikashop_subcategories_pagination .list-footer .pagenav {
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
+}
+.icon-first,
+.icon-previous,
+.icon-next,
+.icon-last {
+  margin-top: 4px;
+}
+.pagination ul > li:last-child > a,
+.pagination ul > li:last-child > span {
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 0px;
+}
+
+@media (max-width: 480px) {
+
+  .pagination ul li a,
+  .pagination ul > .disabled > a,
+  .pagination ul > .active > a,
+  .pagination ul > .disabled > a:hover,
+  .pagination ul > .disabled > a:focus,
+  .pagination ul > .active > a:hover,
+  .pagination ul > .active > a:focus,
+  .hikashop_products_pagination .list-footer .pagenav,
+  .hikashop_subcategories_pagination .list-footer .pagenav {
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    border-radius: 0px;
+  }
+
+}
+
+/*//////////////////////////////////////////////////////////////////////////////
+///
+///  misc button elements
+///
+//////////////////////////////////////////////////////////////////////////////*/
+
+/*/
+///
+///  edit item button
+///
+/*/
+
+a.btn.jmodedit {
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
+}
+
+/*/
+///
+///  create article
+///
+/*/
+
+#editor-xtd-buttons .btn {
+  padding: 10px 16px 8px;
+  font-size: 14px;
+}
+#editor-xtd-buttons .btn [class^="icon-"],
+#editor-xtd-buttons .btn [class*=" icon-"] {
+  vertical-align: baseline;
+}
+
+/*//////////////////////////////////////////////////////////////////////////////
+
+1.7. variations
+
+//////////////////////////////////////////////////////////////////////////////*/
+
+.moduletable h3 [class^="fa fa-"],
+.moduletable h3 [class*=" fa fa-"] {
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
+}
+.moduletable-sfx5,
+.moduletable-sfx6,
+.moduletable-sfx7,
+.moduletable-sfx8,
+.moduletable-sfx9,
+.moduletable-sfx10,
+.moduletable-sfx11,
+.moduletable-sfx12,
+.moduletable-sfx17,
+.moduletable-sfx18,
+.moduletable-sfx19,
+.moduletable-sfx20,
+.moduletable-sfx21,
+.moduletable-sfx22,
+.moduletable-sfx23,
+.moduletable-sfx24,
+.moduletable-sfx29,
+.moduletable-sfx30,
+.moduletable-sfx31,
+.moduletable-sfx32,
+.moduletable-sfx33,
+.moduletable-sfx34,
+.moduletable-sfx35,
+.moduletable-sfx36,
+.moduletable-sfx41,
+.moduletable-sfx42,
+.moduletable-sfx43,
+.moduletable-sfx44,
+.moduletable-sfx45,
+.moduletable-sfx46,
+.moduletable-sfx47,
+.moduletable-sfx48,
+.moduletable-sfx26 h3,
+.moduletable-sfx27 h3,
+.moduletable-sfx1 h3 i,
+.moduletable-sfx2 h3 i,
+.moduletable-sfx3 h3 i,
+.moduletable-sfx4 h3 i,
+.moduletable-sfx5 h3 i,
+.moduletable-sfx6 h3 i,
+.moduletable-sfx7 h3 i,
+.moduletable-sfx8 h3 i,
+.moduletable-sfx9 h3 i,
+.moduletable-sfx10 h3 i,
+.moduletable-sfx11 h3 i,
+.moduletable-sfx12 h3 i,
+.moduletable-sfx13 h3 i,
+.moduletable-sfx13 h3 i,
+.moduletable-sfx14 h3 i,
+.moduletable-sfx15 h3 i,
+.moduletable-sfx16 h3 i,
+.moduletable-sfx17 h3 i,
+.moduletable-sfx18 h3 i,
+.moduletable-sfx19 h3 i,
+.moduletable-sfx20 h3 i,
+.moduletable-sfx21 h3 i,
+.moduletable-sfx22 h3 i,
+.moduletable-sfx23 h3 i,
+.moduletable-sfx24 h3 i,
+.moduletable-sfx25 h3 i,
+.moduletable-sfx26 h3 i,
+.moduletable-sfx27 h3 i,
+.moduletable-sfx28 h3 i,
+.moduletable-sfx29 h3 i,
+.moduletable-sfx30 h3 i,
+.moduletable-sfx31 h3 i,
+.moduletable-sfx32 h3 i,
+.moduletable-sfx33 h3 i,
+.moduletable-sfx34 h3 i,
+.moduletable-sfx35 h3 i,
+.moduletable-sfx36 h3 i,
+.moduletable-sfx37 h3 i,
+.moduletable-sfx38 h3 i,
+.moduletable-sfx39 h3 i,
+.moduletable-sfx40 h3 i,
+.moduletable-sfx41 h3 i,
+.moduletable-sfx42 h3 i,
+.moduletable-sfx43 h3 i,
+.moduletable-sfx44 h3 i,
+.moduletable-sfx45 h3 i,
+.moduletable-sfx46 h3 i,
+.moduletable-sfx47 h3 i,
+.moduletable-sfx48 h3 i {
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
+}
+.moduletable-sfx1 h3,
+.moduletable-sfx3 h3,
+.moduletable-sfx9 h3,
+.moduletable-sfx11 h3,
+.moduletable-sfx15 h3,
+.moduletable-sfx19 h3,
+.moduletable-sfx25 h3,
+.moduletable-sfx31 h3 {
+  margin-bottom: 27px;
+}
+.moduletable-sfx5 h3,
+.moduletable-sfx7 h3,
+.moduletable-sfx17 h3 {
+  margin-bottom: 26px;
+}
+.moduletable-sfx6 h3,
+.moduletable-sfx8 h3 {
+  margin-bottom: 16px;
+}
+.moduletable-sfx2 h3,
+.moduletable-sfx4 h3,
+.moduletable-sfx10 h3,
+.moduletable-sfx12 h3,
+.moduletable-sfx14 h3,
+.moduletable-sfx16 h3,
+.moduletable-sfx18 h3,
+.moduletable-sfx20 h3,
+.moduletable-sfx22 h3,
+.moduletable-sfx24 h3,
+.moduletable-sfx26 h3,
+.moduletable-sfx28 h3,
+.moduletable-sfx30 h3,
+.moduletable-sfx32 h3,
+.moduletable-sfx34 h3,
+.moduletable-sfx36 h3,
+.moduletable-sfx38 h3,
+.moduletable-sfx40 h3,
+.moduletable-sfx42 h3,
+.moduletable-sfx44 h3,
+.moduletable-sfx46 h3,
+.moduletable-sfx48 h3 {
+  margin-bottom: 17px;
+}
+.moduletable-sfx5,
+.moduletable-sfx6,
+.moduletable-sfx7,
+.moduletable-sfx8 {
+  padding: 14px 14px 2px;
+}
+.moduletable-sfx9,
+.moduletable-sfx10,
+.moduletable-sfx11,
+.moduletable-sfx12,
+.moduletable-sfx21,
+.moduletable-sfx22,
+.moduletable-sfx23,
+.moduletable-sfx24,
+.moduletable-sfx33,
+.moduletable-sfx34,
+.moduletable-sfx35,
+.moduletable-sfx36,
+.moduletable-sfx45,
+.moduletable-sfx46,
+.moduletable-sfx47,
+.moduletable-sfx48 {
+  padding: 13px 14px 2px;
+}
+.moduletable-sfx17,
+.moduletable-sfx18,
+.moduletable-sfx19,
+.moduletable-sfx20,
+.moduletable-sfx29,
+.moduletable-sfx30,
+.moduletable-sfx31,
+.moduletable-sfx32,
+.moduletable-sfx41,
+.moduletable-sfx42,
+.moduletable-sfx43,
+.moduletable-sfx44 {
+  padding: 12px 14px 2px;
+}
+
+/*//////////////////////////////////////////////////////////////////////////////
+///
+///  reset
+///
+//////////////////////////////////////////////////////////////////////////////*/
+
+.moduletable h3,
+div[class^="moduletable-"] h3,
+div[class*=" moduletable-"] h3,
+.moduletable h3 [class^="fa fa-"],
+.moduletable h3 [class*=" fa fa-"],
+div[class^="moduletable-"] h3 [class^="fa fa-"],
+div[class^="moduletable-"] h3 [class*=" fa fa-"],
+div[class*=" moduletable-"] h3 [class^="fa fa-"],
+div[class*=" moduletable-"] h3 [class*=" fa fa-"] {
+  color: inherit;
+}
+
+/*//////////////////////////////////////////////////////////////////////////////
+///
+///  border
+///
+//////////////////////////////////////////////////////////////////////////////*/
+
+.moduletable-sfx21 h3 i,
+.moduletable-sfx22 h3,
+.moduletable-sfx22 h3 i,
+.moduletable-sfx24 h3 {
+  border-color: #FFF !important;
+  border-width: 2px;
+}
+.moduletable-sfx37 h3 i,
+.moduletable-sfx38 h3,
+.moduletable-sfx38 h3 i,
+.moduletable-sfx40 h3,
+.moduletable-sfx41,
+.moduletable-sfx41 h3 i,
+.moduletable-sfx42,
+.moduletable-sfx42 h3,
+.moduletable-sfx42 h3 i,
+.moduletable-sfx43,
+.moduletable-sfx44,
+.moduletable-sfx44 h3,
+.moduletable-sfx45 h3 i,
+.moduletable-sfx46 h3,
+.moduletable-sfx46 h3 i,
+.moduletable-sfx48 h3 {
+  border-color: rgba(17, 17, 17, 0.37) !important;
+  border-width: 2px;
+}
+
+/*//////////////////////////////////////////////////////////////////////////////
+///
+///  icons
+///
+//////////////////////////////////////////////////////////////////////////////*/
+
+.moduletable-sfx21 h3 i,
+.moduletable-sfx22 h3 i {
+  color: #FFF;
+  background-color: transparent;
+}
+
+/*//////////////////////////////////////////////////////////////////////////////
+///
+///  background
+///
+//////////////////////////////////////////////////////////////////////////////*/
+
+.moduletable-sfx5,
+.moduletable-sfx6,
+.moduletable-sfx7,
+.moduletable-sfx8 {
+  background-color: rgba(17, 17, 17, 0.4);
+  border: none;
+}
+.moduletable-sfx9,
+.moduletable-sfx10,
+.moduletable-sfx11,
+.moduletable-sfx12 {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+.moduletable-sfx17,
+.moduletable-sfx18,
+.moduletable-sfx19,
+.moduletable-sfx20 {
+  background-color: #fff;
+}
+.moduletable-sfx29,
+.moduletable-sfx30,
+.moduletable-sfx31,
+.moduletable-sfx32 {
+  background-color: #111;
+}
+.moduletable-sfx33,
+.moduletable-sfx34,
+.moduletable-sfx35,
+.moduletable-sfx36 {
+  background-color: #191919;
+}
+
+/*//////////////////////////////////////////////////////////////////////////////
+///
+///  text
+///
+//////////////////////////////////////////////////////////////////////////////*/
+
+.moduletable-sfx1,
+.moduletable-sfx2,
+.moduletable-sfx3,
+.moduletable-sfx4,
+.moduletable-sfx5,
+.moduletable-sfx6,
+.moduletable-sfx7,
+.moduletable-sfx8,
+.moduletable-sfx9,
+.moduletable-sfx10,
+.moduletable-sfx11,
+.moduletable-sfx12 {
+  color: #FFF;
+}
+.moduletable-sfx13,
+.moduletable-sfx14,
+.moduletable-sfx15,
+.moduletable-sfx16,
+.moduletable-sfx17,
+.moduletable-sfx18,
+.moduletable-sfx19,
+.moduletable-sfx20 {
+  color: #333;
+}
+.moduletable-sfx21,
+.moduletable-sfx22,
+.moduletable-sfx23,
+.moduletable-sfx24 {
+  color: #FFF;
+}
+.moduletable-sfx25,
+.moduletable-sfx26,
+.moduletable-sfx27,
+.moduletable-sfx28,
+.moduletable-sfx29,
+.moduletable-sfx30,
+.moduletable-sfx31,
+.moduletable-sfx32,
+.moduletable-sfx33,
+.moduletable-sfx34,
+.moduletable-sfx35,
+.moduletable-sfx36 {
+  color: #EEE;
+}
+
+/*//////////////////////////////////////////////////////////////////////////////
+///
+///  links
+///
+//////////////////////////////////////////////////////////////////////////////*/
+
+.moduletable-sfx9 a,
+.moduletable-sfx10 a,
+.moduletable-sfx11 a,
+.moduletable-sfx12 a {
+  color: #222;
+}
+.moduletable-sfx9 a:hover,
+.moduletable-sfx9 a:focus,
+.moduletable-sfx10 a:hover,
+.moduletable-sfx10 a:focus,
+.moduletable-sfx11 a:hover,
+.moduletable-sfx11 a:focus,
+.moduletable-sfx12 a:hover,
+.moduletable-sfx12 a:focus {
+  color: #fff;
+}
+.moduletable-sfx37 a,
+.moduletable-sfx38 a,
+.moduletable-sfx39 a,
+.moduletable-sfx40 a,
+.moduletable-sfx41 a,
+.moduletable-sfx42 a,
+.moduletable-sfx43 a,
+.moduletable-sfx44 a,
+.moduletable-sfx45 a,
+.moduletable-sfx46 a,
+.moduletable-sfx47 a,
+.moduletable-sfx48 a {
+  color: #222;
+}
+.moduletable-sfx37 a:hover,
+.moduletable-sfx37 a:focus,
+.moduletable-sfx38 a:hover,
+.moduletable-sfx38 a:focus,
+.moduletable-sfx39 a:hover,
+.moduletable-sfx39 a:focus,
+.moduletable-sfx40 a:hover,
+.moduletable-sfx40 a:focus,
+.moduletable-sfx41 a:hover,
+.moduletable-sfx41 a:focus,
+.moduletable-sfx42 a:hover,
+.moduletable-sfx42 a:focus,
+.moduletable-sfx43 a:hover,
+.moduletable-sfx43 a:focus,
+.moduletable-sfx44 a:hover,
+.moduletable-sfx44 a:focus,
+.moduletable-sfx45 a:hover,
+.moduletable-sfx45 a:focus,
+.moduletable-sfx46 a:hover,
+.moduletable-sfx46 a:focus,
+.moduletable-sfx47 a:hover,
+.moduletable-sfx47 a:focus,
+.moduletable-sfx48 a:hover,
+.moduletable-sfx48 a:focus {
+  color: #fff;
+}
+
+/*//////////////////////////////////////////////////////////////////////////////
+
+1.8. custom pages
+
+//////////////////////////////////////////////////////////////////////////////*/
+
+/*//////////////////////////////////////////////////////////////////////////////
+///
+///  custom classes
+///
+//////////////////////////////////////////////////////////////////////////////*/
+
+/*/
+///
+///  intro
+///
+/*/
+
+.favintro {
+  font-size: 21px;
+}
+
+/*/
+///
+///  download theme
+///
+/*/
+
+#fav-download p {
+  margin: 0px;
+}
+#fav-download #fav-download-message {
+  font-size: 30px;
+  line-height: 1.3em;
+  float: left;
+  padding-top: 16px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+#fav-download #fav-download-btn {
+  float: right;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+#fav-download #fav-download-btn a.btn {
+  margin-top: 7px;
+  margin-bottom: 0px;
+  padding: 14px 24px 13px;
+  font-size: 16px;
+}
+#fav-download #fav-download-btn a.btn i {
+  padding-right: 0.4em;
+  vertical-align: middle;
+}
+#fav-download #fav-download-btn a.btn:hover,
+#fav-download #fav-download-btn a.btn:focus {
+  background-color: #fff;
+  color: #444;
+}
+
+/*/// tablet ///*/
+@media (max-width: 980px) {
+
+  #fav-download #fav-download-btn {
+    float: none;
+    font-size: 16px;
+    text-align: center;
+    bottom: 4px;
+    margin-top: 4px;
+    position: relative;
+  }
+  #fav-download #fav-download-message {
+    float: none;
+    text-align: center;
+    padding: 4px 0px;
+    margin-bottom: 14px;
+  }
+
+}
+
+/*//////////////////////////////////////////////////////////////////////////////
+///
+///  offline page
+///
+//////////////////////////////////////////////////////////////////////////////*/
+
+#fav-offline.offline-dark .btn:hover,
+#fav-offline.offline-dark .btn:focus {
+  color: #FFF !important;
+}
+#fav-offline #frame form input {
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
+}
+
+/*//////////////////////////////////////////////////////////////////////////////
+///
+///  main navigation styles demo
+///
+//////////////////////////////////////////////////////////////////////////////*/
+
+.favnav-styles-demo {
+  padding: 10px 14px;
+  background-color: rgba(17, 17, 17, 0.67);
+  border: 0 none;
+  margin-bottom: 21px;
+}
+.favnav-styles-demo .favnav li a {
+  text-transform: uppercase;
+  color: inherit !important;
+}
+
+/*//////////////////////////////////////////////////////////////////////////////
+
+1.9. typography
+
+//////////////////////////////////////////////////////////////////////////////*/
+
+/*/
+///
+///  icons
+///
+/*/
+
+i[class^="fa fa-"],
+i[class*=" fa fa-"],
+.icon-plus,
+.icon-minus,
+.icon-chevron-right,
+.icon-chevron-left,
+.icon-list,
+.icon-cog,
+.icon-envelope,
+.icon-print,
+.icon-edit,
+.icon-search,
+.icon-ok,
+.icon-arrow-down,
+.icon-copy,
+.icon-picture,
+.icon-file-add,
+.icon-home,
+.icon-first,
+.icon-cancel,
+.icon-file-add,
+.icon-eye,
+.icon-folder-2,
+.icon-first,
+.icon-previous,
+.icon-next,
+.icon-last,
+.icon-arrow-left,
+.icon-user,
+.icon-lock,
+.icon-save,
+.icon-calendar,
+.icon-eye-open,
+.icon-archive,
+.icon-remove,
+.icon-apply,
+.icon-question-sign,
+.icon-hikashopproduct {
+  font-weight: 400 !important;
+}
+
+/*/
+///
+///  bootstrap elements
+///
+/*/
+
+.badge {
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
+}
+ul.list-square li,
+ol.list-square > li,
+ul.list-circle li,
+ol.list-circle > li,
+ul.list-color li,
+ol.list-color > li,
+ul.list-dark li,
+ol.list-dark > li {
+  font-size: 16px;
+}
+span.label-red,
+span.label-blue,
+span.label-green,
+span.label-grey,
+span.label-orange,
+.simple-box,
+.info-box,
+.success-box,
+.warning-box,
+.error-box,
+.badge,
+ul.list-square li:before,
+ol.list-square li:before,
+ul.list-color li:before,
+ol.list-color li:before,
+ul.list-dark li:before,
+ol.list-dark li:before {
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
+}
+
+/*//////////////////////////////////////////////////////////////////////////////
+
+1.10. joomla
+
+//////////////////////////////////////////////////////////////////////////////*/
+
+/*/
+///
+///  language
+///
+/*/
+
+#fav-language ul.dropdown-menu,
+#fav-language-demo ul.dropdown-menu {
+  margin-top: 0;
+  border: none;
+  border-top: none;
+  padding-bottom: 5px;
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
+}
+#fav-language a.btn.dropdown-toggle,
+#fav-language a.btn.dropdown-toggle:hover,
+#fav-language-demo a.btn.dropdown-toggle,
+#fav-language-demo a.btn.dropdown-toggle:hover {
+  padding: 10px 12px 9px;
+  font-size: 14px;
+}
+#fav-language ul.dropdown-menu li a,
+#fav-language-demo ul.dropdown-menu li a {
+  font-size: 14px;
+  text-transform: uppercase;
+  padding: 2px 12px;
+}
+
+/*/
+///
+///  search
+///
+/*/
+
+input#mod-search-searchword,
+.fav-search input#mod-search-searchword,
+div[class^="fav-search"] input#mod-search-searchword,
+div[class*=" fav-search"] input#mod-search-searchword,
+div.search button.btn.hasTooltip,
+div[class^="search"] button.btn.hasTooltip,
+div[class*=" search"] button.btn.hasTooltip {
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
+}
+div.search #searchForm button.btn.hasTooltip,
+div.search #searchForm span.badge.badge-info,
+.moduletablefavstyle .fav-search ul.dropdown-menu,
+.moduletable.favstyle .fav-search ul.dropdown-menu, input#mod-search-searchword {
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
+}
+div.search #searchForm span.badge.badge-info {
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
+  padding: 0px 7px;
+}
+#finder-search a.btn,
+div[id^="finder-search"] a.btn,
+div[id*=" finder-search"] a.btn,
+#finder-search button.btn.btn-primary.disabled,
+div[id^="finder-search"] button.btn.btn-primary.disabled,
+div[id*=" finder-search"] button.btn.btn-primary.disabled,
+#finder-search button.btn.btn-primary.disabled:hover,
+div[id^="finder-search"] button.btn.btn-primary.disabled:hover,
+div[id*=" finder-search"] button.btn.btn-primary.disabled:hover,
+#finder-search button.btn.btn-primary.disabled:focus,
+div[id^="finder-search"] button.btn.btn-primary.disabled:focus,
+div[id*=" finder-search"] button.btn.btn-primary.disabled:focus {
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
+}
+#fav-search-advanced-fields .accordion-group,
+div.search #searchForm .btn-toolbar .btn,
+div.search #searchForm .btn-toolbar input,
+div.search #searchForm input#search-searchword.inputbox {
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
+}
+
+/*/
+///
+///  components
+///
+/*/
+
+div.tag-category,
+div.categories-list,
+div.category-list,
+div.login,
+div.logout,
+div.profile,
+div.remind,
+div.reset,
+div.archive,
+#fav-maincontent form.form-validate {
+  margin-top: 20px;
+}
+form.well,
+.nav-tabs.nav-stacked > li:first-child > a,
+.nav-tabs.nav-stacked > li:last-child > a,
+.input-prepend.input-append .add-on:last-child,
+.input-prepend.input-append .btn:last-child,
+.input-prepend.input-append .add-on:first-child,
+.input-prepend.input-append .btn:first-child {
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
+}
+
+/*
+///  login form
+*/
+
+.input-prepend.input-append .add-on:last-child,
+.input-prepend.input-append .btn:last-child,
+.input-prepend.input-append .add-on:first-child,
+.input-prepend.input-append .btn:first-child {
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
+}
+
+/*
+///  create article
+*/
+
+button#jform_publish_up_img, button#jform_publish_down_img {
+  padding: 2px 4px 4px 10px;
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
+}
+
+/*
+///  articles categories
+*/
+
+ul.categories-module h4,
+ul[class^="categories-module-"] h4,
+ul[class*=" categories-module-"] h4 {
+  text-transform: none;
+}
+
+/*
+///  categories list
+*/
+
+div.categories-list h3.page-header.item-title a {
+  padding: 4px 10px 8px;
+}
+div.categories-list h3.page-header.item-title a span {
+  vertical-align: middle;
+}
+
+/*/
+///
+///  edit button
+///
+/*/
+
+a.btn.jmodedit:hover,
+a.btn.jmodedit:focus {
+  color: #FFF !important;
+  background-color: #222 !important;
+}
+
+/*/
+///
+///  details
+///
+/*/
+
+dl.article-info dd {
+  font-size: 14px;
+}
+
+/*/
+///
+///  create article
+///
+/*/
+
+div.editor .mce-panel,
+button#jform_publish_up_img,
+button#jform_publish_down_img {
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
+}
+
+/*/
+///
+///  edit user profile
+///
+/*/
+
+#member-profile button.btn.btn-primary.validate,
+#member-profile a.btn {
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
+}
+
+/*/
+///
+///  wrapper
+///
+/*/
+
+#blockrandom {
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
+}
+
+/*/
+///
+///  contact
+///
+/*/
+
+div.contact .accordion-group {
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
+}
+
+/*/
+///
+///  article dropdown
+///
+/*/
+
+.btn-group .btn.dropdown-toggle {
+  margin-left: 10px;
+  padding: 9px 12px 6px;
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
+}
+.pull-right > .dropdown-menu li a {
+  font-size: 14px;
+}
+.pull-right > .dropdown-menu {
+  padding-top: 7px;
+  padding-bottom: 7px;
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
+}
+
+/*/
+///
+///  search
+///
+/*/
+
+div.fav-search button.btn.btn-primary,
+div[class^="fav-search"] button.btn.btn-primary,
+div[class*=" fav-search"] button.btn.btn-primary,
+div.fav-search input.button,
+div[class^="fav-search"] input.button,
+div[class*=" fav-search"] input.button {
+  padding: 8px 10px;
+}
+
+/*/
+///
+///  highlight
+///
+/*/
+
+span.highlight {
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
+}
+
+/*/
+///
+///  tags
+///
+/*/
+
+div.tag-category ul.thumbnails h3 a,
+.label-info[href],
+.badge-info[href],
+ul.tags li a {
+  padding: 8px 10px 9px !important;
+  font-size: 14px;
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
+}
+.fav-tags-img {
+  margin: 0 auto 21px;
+  width: 100%;
+}
+.fav-article-details div.tag-category ul.thumbnails h3 a,
+.fav-article-details .label-info[href],
+.fav-article-details .badge-info[href],
+.fav-article-details ul.tags li a {
+  padding: 8px 10px 9px !important;
+}
+div.tag-category h3 {
+  text-transform: none;
+}
+span.fav-article-tags {
+  font-size: 14px;
+  margin-right: 7px;
+}
+.fav-article-details .fav-tags {
+  margin-top: 16px;
+  margin-bottom: 0;
+}
+.fav-tags {
+  margin-top: 10px;
+  margin-bottom: 0px;
+}
+ul.tags li::after {
+  content: none;
+}
+ul.tags li {
+  margin-right: 4px;
+}
+
+
+/*//////////////////////////////////////////////////////////////////////////////
+
+1.11. hikashop
+
+//////////////////////////////////////////////////////////////////////////////*/
+
+.hikashop_subcontainer {
+  -webkit-border-radius: 0px !important;
+  -moz-border-radius: 0px !important;
+  border-radius: 0px !important;
+}
+
+/*/
+///
+///  content
+///
+/*/
+
+#hikashop_product_left_part #hikashop_product_image_main img.hikashop_child_image,
+#hikashop_product_left_part #hikashop_product_image_main img#hikashop_main_image,
+#hikashop_product_left_part #hikashop_product_image_main img[id^="hikashop_main_image"],
+#hikashop_product_left_part #hikashop_product_image_main img[id*=" hikashop_main_image"],
+#hikashop_product_right_part #hikashop_product_image_main img.hikashop_child_image,
+#hikashop_product_right_part #hikashop_product_image_main img#hikashop_main_image,
+#hikashop_product_right_part #hikashop_product_image_main img[id^="hikashop_main_image"],
+#hikashop_product_right_part #hikashop_product_image_main img[id*=" hikashop_main_image"] {
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
+}
+.hikashop_product_discount,
+#hikashop_comment_form .hika_comment_listing {
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
+}
+
+/*/
+///
+///  cart
+///
+/*/
+
+.favcartfavstyle #hikashop_cart_module .dropdown-menu,
+.favcart.favstyle #hikashop_cart_module .dropdown-menu {
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
+}
+#hikashop_cart span.hikashop_product_price,
+#hikashop_cart .hikashop_cart_module_product_name_value a,
+#hikashop_cart td {
+  font-size: 13px;
+}
+#hikashop_checkout_cart table thead th {
+  text-transform: uppercase;
+  padding: 14px 0px 12px;
+}
+.hikashop_checkout_cart_shipping,
+.hikashop_checkout_cart_subtotal {
+  font-style: normal;
+}
+
+/*/
+///
+///  currency
+///
+/*/
+
+#fav-containerwrap .hikashop_currency_module .chzn-container {
+  margin: 0px;
+  font-size: 14px;
+  -webkit-transition: all 0.3s ease-out 0s;
+  -moz-transition: all 0.3s ease-out 0s;
+  -o-transition: all 0.3s ease-out 0s;
+  transition: all 0.3s ease-out 0s;
+}
+#fav-containerwrap .hikashop_currency_module .chzn-container a span {
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
+}
+#fav-containerwrap .hikashop_currency_module .chzn-container a {
+  padding: 8px 10px;
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
+}
+#fav-containerwrap .hikashop_currency_module .chzn-container .chzn-drop {
+  margin-top: 0px;
+  margin-left: 0px;
+  border: none;
+  margin-top: 0px;
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
+}
+#fav-containerwrap .hikashop_currency_module .chzn-container-single .chzn-single {
+  line-height: 24px;
+  border: none;
+}
+#fav-containerwrap .hikashop_currency_module .chzn-container .chzn-results {
+  padding: 5px 0px;
+}
+#fav-containerwrap .hikashop_currency_module .chzn-container .chzn-results li {
+  padding: 3px 14px;
+}
+
+/*/
+///
+///  checkout
+///
+/*/
+
+#hikashop_checkout_cart thead,
+.hikashop_wizardbar {
+  border: 1px solid #ddd;
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
+}
+#hikashop_checkout_login a.btn {
+  padding: 3px 6px;
+}
+#hikashop_checkout_status span.label.label-info,
+#hikashop_checkout_cart thead,
+#hikashop_checkout_cart table tr {
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
+}
+
+/*/
+///
+///  category
+///
+/*/
+
+.hikashop_container .hikashop_category_name a {
+  margin: 7px 0px 28px;
+}
+
+/*/
+///
+///  cart
+///
+/*/
+
+.favcartfavstyle #hikashop_cart_module a.btn.dropdown-toggle,
+.favcart.favstyle #hikashop_cart_module a.btn.dropdown-toggle {
+  padding: 9px 14px;
+}
+
+/*/
+///
+///  module random products
+///
+/*/
+
+#fav-main div[id^="hikashop_module"] .hikashop_container .thumbnail:hover,
+#fav-main div[id*=" hikashop_module"] .hikashop_container .thumbnail:hover {
+  box-shadow: 0px 1px 4px #bbb;
+}
+div[id^="hikashop_module"] .hikashop_container .thumbnail:hover,
+div[id*=" hikashop_module"] .hikashop_container .thumbnail:hover {
+  box-shadow: 0px 1px 4px #444;
+}
+
+/*/
+///
+///  comments
+///
+/*/
+
+#hikashop_comment_form .hika_comment_listing td.hika_comment_listing_stars {
+  padding-bottom: 4px;
+}
+#hikashop_comment_form .hikashop_listing_comment {
+  text-transform: uppercase;
+  color: rgb(51, 51, 51);
+  font-size: 21px;
+}
+
+@media (min-width: 761px) {
+
+  #hikashop_checkout_cart thead {
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    border-radius: 0px;
+  }
+
+}
+
+/*/// mobile ///*/
+@media (max-width: 760px) {
+
+  #hikashop_checkout_cart table tr {
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    border-radius: 0px;
+  }
+
+}
+
+/*//////////////////////////////////////////////////////////////////////////////
+
+1.12. extensions
+
+//////////////////////////////////////////////////////////////////////////////*/
+
+/*//////////////////////////////////////////////////////////////////////////////
+///
+///  favslider
+///
+//////////////////////////////////////////////////////////////////////////////*/
+
+#fav-slide .favstyle .favslider {
+  padding-top: 2%;
+}
+.favstyle .favslider .favs img {
+  margin-top: 20%;
+  margin-bottom: 0;
+}
+.favstyle #fav-caption.favstyle-default {
+  top: 7%;
+  bottom: auto;
+}
+.favstyle .fav-direction-nav a {
+  margin: 0px;
+}
+.favstyle #fav-caption h3 {
+  margin-bottom: 4px;
+  font-size: 60px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: 400;
+}
+.favstyle #fav-caption.favstyle-bg-transparent p {
+  font-size: 24px;
+  letter-spacing: 1px;
+}
+.favstyle .favslider .fav-next,
+.favstyle .favslider .fav-prev {
+  opacity: 0.6;
+}
+.favstyle .favslider:hover .fav-next:hover,
+.favstyle .favslider:hover .fav-prev:hover {
+  opacity: 1;
+}
+.favstyle .fav-control-nav li {
+  display: block;
+}
+.favstyle .fav-control-paging li a {
+  width: 12px;
+  height: 12px;
+  margin: 7px 0;
+  border: none;
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
+}
+.favstyle .fav-control-paging {
+  bottom: 10px;
+}
+.favstyle .fav-control-paging li a:hover,
+.favstyle .fav-control-paging li a:focus,
+.favstyle .fav-control-paging li a.fav-active {
+  background-color: #FFF !important;
+}
+.fav-direction-nav a {
+  top: 60%;
+}
+
+/* /// tablet */
+@media (max-width: 1200px) {
+
+#fav-slide .favstyle .favslider {
+  padding-top: 0;
+}
+.favstyle .favslider .favs img {
+  margin-top: 18%;
+}
+.favstyle #fav-caption h3 {
+  font-size: 50px;
+  letter-spacing: 0px;
+  font-weight: 400;
+}
+.favstyle #fav-caption.favstyle-bg-transparent p {
+  font-size: 21px;
+  letter-spacing: 0px;
+}
+.fav-direction-nav a {
+  top: 50%;
+}
+
+}
+
+/* /// tablet */
+@media (max-width: 768px) {
+
+.favstyle .favslider .favs img {
+  margin-top: 20%;
+}
+.favstyle #fav-caption h3 {
+  font-size: 48px;
+}
+
+}
+
+/* /// mobile */
+@media (max-width: 700px) {
+
+.favstyle #fav-caption h3 {
+  font-size: 36px;
+}
+.favstyle #fav-caption.favstyle-bg-transparent p {
+  font-size: 18px;
+}
+
+}
+@media (max-width: 600px) {
+
+  .favstyle .favslider .favs img {
+    margin-top: 24%;
+  }
+
+}
+@media (max-width: 599px) {
+
+  .favstyle #fav-caption.favstyle-default {
+    display: none;
+  }
+  .favstyle .favslider .favs img {
+    margin-top: 0%;
+  }
+  .fav-direction-nav a {
+    top: 30%;
+  }
+
+}
+@media (max-width: 320px) {
+
+  .fav-direction-nav a {
+    top: 20%;
+  }
+
+  }
+  @media (max-width: 300px) {
+
+  .fav-direction-nav a {
+    top: 10%;
+  }
+
+}
+
+/*//////////////////////////////////////////////////////////////////////////////
+///
+///  favpromote
+///
+//////////////////////////////////////////////////////////////////////////////*/
+
+.favstyle div[id^="favpromote-"],
+.favstyle div[id*=" favpromote-"] {
+  margin-top: 20px;
+  margin-bottom: 21px;
+}
+.favstyle div[class^="favpromote"],
+.favstyle div[class*=" favpromote"] {
+  margin-top: 10px;
+  margin-bottom: 11px;
+  background-color: rgba(17,17,17,0.4) !important;
+  border-radius: 0;
+  border: 1px solid #fff;
+}
+.favstyle div[class^="favpromote"]:hover,
+.favstyle div[class*=" favpromote"]:hover {
+  border: 1px solid #111 !important;
+  background-color: rgba(17,17,17,0.4) !important;
+}
+.favstyle div[id^="favpromote-box"] h4,
+.favstyle div[id*=" favpromote-box"] h4,
+.favstyle div[id^="favpromote-box"]:hover h4[id^="favpromote-title"],
+.favstyle div[id^="favpromote-box"]:hover h4[id*=" favpromote-title"] {
+  font-weight: 400;
+}
+.favstyle div[id^="favpromote-box"]:hover h4[id^="favpromote-title"],
+.favstyle div[id^="favpromote-box"]:hover h4[id*=" favpromote-title"],
+.favstyle div[id^="favpromote-box"] h4[id^="favpromote-title"]:hover,
+.favstyle div[id^="favpromote-box"] h4[id*=" favpromote-title"]:hover {
+  background-color: #111 !important;
+}
+.favstyle div[id^="favpromote-box"] h4[id^="favpromote-title"] i,
+.favstyle div[id^="favpromote-box"] h4[id*=" favpromote-title"] i {
+  padding: 0;
+}
+.favstyle div[id^="favpromote-box"] h4[id^="favpromote-title"],
+.favstyle div[id^="favpromote-box"] h4[id*=" favpromote-title"] {
+  padding: 12px 20px;
+}
+.favstyle div[id^="favpromote-image"],
+.favstyle div[id*=" favpromote-image"] {
+  padding: 0 !important;
+  margin: 0 !important;
+}
+.favstyle div[id^="favpromote-image"] img,
+.favstyle div[id*=" favpromote-image"] img {
+  border: none !important;
+}
+.favstyle p[id^="favpromote-text"],
+.favstyle p[id*=" favpromote-text"] {
+  padding-top: 28px;
+  padding-bottom: 14px;
+  color: #fff !important;
+}
+
+/*//////////////////////////////////////////////////////////////////////////////
+///
+///  favglyph
+///
+//////////////////////////////////////////////////////////////////////////////*/
+
+.favstyle div[id^="favglyph-box"],
+.favstyle div[id*=" favglyph-box"] {
+  margin-top: 14px;
+  margin-bottom: 14px;
+}
+.favstyle div.favglyph-icon-center div#favglyph-icon {
+  margin-top: 24px !important;
+  margin-bottom: 24px !important;
+}
+.favstyle div.favglyph-description-center h2 {
+  font-weight: 400;
+}
+
+@media (max-width: 990px) {
+
+  .favstyle div[id^="favglyph-box"],
+  .favstyle div[id*=" favglyph-box"] {
+    margin-top: 7px;
+    margin-bottom: 0px;
+  }
+  .favstyle div.favglyph-icon-center div#favglyph-icon {
+    width: 90% !important;
+  }
+
+}
+
+@media (max-width: 768px) {
+
+  .favstyle div.favglyph-text-center h2 {
+    margin-top: 0px !important;
+  }
+  .favstyle div.favglyph-icon-center div#favglyph-icon {
+    width: 60% !important;
+  }
+
+}
+
+/*//////////////////////////////////////////////////////////////////////////////
+///
+///  faveffects
+///
+//////////////////////////////////////////////////////////////////////////////*/
+
+.favstyle #faveffects p[id^="faveffects-title"],
+.favstyle #faveffects p[id*=" faveffects-title"] {
+  font-weight: 700;
+  margin-top: 33px;
+}
+.favstyle div[id^="faveffects-icon"]:hover,
+.favstyle div[id*=" faveffects-icon"]:hover {
+  background-color: rgba(17,17,17,0.2) !important;
+  border-color: #fff !important;
+}
+.favstyle div[id^="faveffects-icon"] i:hover,
+.favstyle div[id*=" faveffects-icon"] i:hover {
+  color: #fff !important;
+}
+
+/*/
+////////////////////////////////////////////////////////////////////////////////
+///
+///  2. style
+///
+////////////////////////////////////////////////////////////////////////////////
+/*/
+
+/*
+////////////////////////////////////////////////////////////////////////////////
+
+#E07481 - main color
+
+////////////////////////////////////////////////////////////////////////////////
+
+style 1 - #E07481
+style 2 - #029bb7
+style 3 - #d6ae40
+style 4 - #e09a43
+style 5 - #fd6250
+style 6 - #0082b2
+style 7 - #80b051
+style 8 - #36b3b3
+style 9 - #3b76a3
+style 10 - #b14761
+
+////////////////////////////////////////////////////////////////////////////////
+*/
+
+/*//////////////////////////////////////////////////////////////////////////////
+
+2.1. reset
+
+//////////////////////////////////////////////////////////////////////////////*/
+
+a { color: #E07481; }
+a:hover, a:focus { color: #444; outline: none; }
+
+/*/
+///
+///  container
+///
+/*/
+
+#fav-containerwrap {
+  background: url(../images/styles/style1/fav-bg.jpg) center top no-repeat fixed #111;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+/*//////////////////////////////////////////////////////////////////////////////
+
+2.2. header
+
+//////////////////////////////////////////////////////////////////////////////*/
+
+/*//////////////////////////////////////////////////////////////////////////////
+///
+///  header styles
+///
+//////////////////////////////////////////////////////////////////////////////*/
+
+/*/
+///
+///  default
+///
+/*/
+
+#fav-headerwrap .favnav .navigation li.active a,
+#fav-headerwrap .favnav .navigation li a:hover,
+#fav-headerwrap .favnav .navigation li a:focus,
+#fav-headerwrap .favnav .navigation li.active .nav-header,
+#fav-headerwrap .favnav .navigation li .nav-header:hover,
+#fav-headerwrap .favnav .navigation li .nav-header:focus {
+  color: #E07481;
+  background-color: transparent;
+}
+
+/* submenu */
+#fav-headerwrap .favnav .navigation .nav-child li a,
+#fav-headerwrap .favnav .navigation .nav-child li.active a,
+#fav-headerwrap .favnav .navigation .nav-child li a:hover,
+#fav-headerwrap .favnav .navigation .nav-child li a:focus,
+#fav-headerwrap .favnav .navigation .nav-child li .nav-header,
+#fav-headerwrap .favnav .navigation .nav-child li.active .nav-header,
+#fav-headerwrap .favnav .navigation .nav-child li .nav-header:hover,
+#fav-headerwrap .favnav .navigation .nav-child li .nav-header:focus {
+  background-color: transparent !important;
+  border: none !important;
+  border-bottom: 1px solid #e7e7e7 !important;
+  color: #444;
+}
+#fav-headerwrap .favnav .navigation .nav-child li.active > a,
+#fav-headerwrap .favnav .navigation .nav-child li a:hover,
+#fav-headerwrap .favnav .navigation .nav-child li a:focus,
+#fav-headerwrap .favnav .navigation .nav-child li.active .nav-header,
+#fav-headerwrap .favnav .navigation .nav-child li .nav-header:hover,
+#fav-headerwrap .favnav .navigation .nav-child li .nav-header:focus {
+  color: #E07481;
+}
+
+/* icons */
+#fav-headerwrap .favnav .navigation li a[class^="fa-"]:before,
+#fav-headerwrap .favnav .navigation li a[class*=" fa-"]:before,
+#fav-headerwrap .favnav .navigation li .nav-header[class^="fa-"]:before,
+#fav-headerwrap .favnav .navigation li .nav-header[class*=" fa-"]:before {
+  color: #E07481;
+}
+
+/* navigation arrows */
+#fav-headerwrap .favnav .navigation .nav-child:before {
+  border-right: 7px solid transparent;
+  border-bottom: 7px solid #E07481;
+  border-left: 7px solid transparent;
+  border-bottom-color: #E07481;
+  content: '';
+}
+#fav-headerwrap .favnav .navigation .nav-child:after {
+  border-right: 6px solid transparent;
+  border-bottom: 6px solid #E07481;
+  border-left: 6px solid transparent;
+  content: '';
+}
+#fav-headerwrap .favnav .navigation .nav-child li > ul:before {
+  border-bottom: 7px solid transparent;
+  border-right: 7px solid #E07481;
+  border-top: 7px solid transparent;
+}
+#fav-headerwrap .favnav .navigation .nav-child li > ul:after {
+  border-top: 6px solid transparent;
+  border-right: 6px solid #E07481;
+  border-bottom: 6px solid transparent;
+}
+
+/*/
+///
+///  light
+///
+/*/
+
+#fav-headerwrap.fav-light .favnav .navigation li.active a,
+#fav-headerwrap.fav-light .favnav .navigation li a:hover,
+#fav-headerwrap.fav-light .favnav .navigation li a:focus,
+#fav-headerwrap.fav-light .favnav .navigation li.active .nav-header,
+#fav-headerwrap.fav-light .favnav .navigation li .nav-header:hover,
+#fav-headerwrap.fav-light .favnav .navigation li .nav-header:focus {
+  color: #E07481;
+  background-color: transparent;
+}
+
+/* submenu */
+#fav-headerwrap.fav-light .favnav .navigation .nav-child li a,
+#fav-headerwrap.fav-light .favnav .navigation .nav-child li.active a,
+#fav-headerwrap.fav-light .favnav .navigation .nav-child li a:hover,
+#fav-headerwrap.fav-light .favnav .navigation .nav-child li a:focus,
+#fav-headerwrap.fav-light .favnav .navigation .nav-child li .nav-header,
+#fav-headerwrap.fav-light .favnav .navigation .nav-child li.active .nav-header,
+#fav-headerwrap.fav-light .favnav .navigation .nav-child li .nav-header:hover,
+#fav-headerwrap.fav-light .favnav .navigation .nav-child li .nav-header:focus {
+  background-color: transparent !important;
+  border: none !important;
+  border-bottom: 1px solid rgba(17, 17, 17, 0.1) !important;
+  color: #444;
+}
+#fav-headerwrap.fav-light .favnav .navigation .nav-child li.active > a,
+#fav-headerwrap.fav-light .favnav .navigation .nav-child li a:hover,
+#fav-headerwrap.fav-light .favnav .navigation .nav-child li a:focus,
+#fav-headerwrap.fav-light .favnav .navigation .nav-child li.active .nav-header,
+#fav-headerwrap.fav-light .favnav .navigation .nav-child li .nav-header:hover,
+#fav-headerwrap.fav-light .favnav .navigation .nav-child li .nav-header:focus {
+  color: #E07481;
+}
+
+/* icons */
+#fav-headerwrap.fav-light .favnav .navigation li a[class^="fa-"]:before,
+#fav-headerwrap.fav-light .favnav .navigation li a[class*=" fa-"]:before,
+#fav-headerwrap.fav-light .favnav .navigation li .nav-header[class^="fa-"]:before,
+#fav-headerwrap.fav-light .favnav .navigation li .nav-header[class*=" fa-"]:before {
+  color: #E07481;
+}
+
+/*/
+///
+///  dark
+///
+/*/
+
+#fav-headerwrap.fav-dark .favnav .navigation li.active a,
+#fav-headerwrap.fav-dark .favnav .navigation li a:hover,
+#fav-headerwrap.fav-dark .favnav .navigation li a:focus,
+#fav-headerwrap.fav-dark .favnav .navigation li.active .nav-header,
+#fav-headerwrap.fav-dark .favnav .navigation li .nav-header:hover,
+#fav-headerwrap.fav-dark .favnav .navigation li .nav-header:focus {
+  color: #E07481;
+  background-color: transparent;
+}
+
+/* submenu */
+#fav-headerwrap.fav-dark .favnav .navigation .nav-child li a,
+#fav-headerwrap.fav-dark .favnav .navigation .nav-child li.active a,
+#fav-headerwrap.fav-dark .favnav .navigation .nav-child li a:hover,
+#fav-headerwrap.fav-dark .favnav .navigation .nav-child li a:focus,
+#fav-headerwrap.fav-dark .favnav .navigation .nav-child li .nav-header,
+#fav-headerwrap.fav-dark .favnav .navigation .nav-child li.active .nav-header,
+#fav-headerwrap.fav-dark .favnav .navigation .nav-child li .nav-header:hover,
+#fav-headerwrap.fav-dark .favnav .navigation .nav-child li .nav-header:focus {
+  background-color: transparent !important;
+  border: none !important;
+  border-bottom: 1px solid #333 !important;
+  color: #eee;
+}
+#fav-headerwrap.fav-dark .favnav .navigation .nav-child li.active > a,
+#fav-headerwrap.fav-dark .favnav .navigation .nav-child li a:hover,
+#fav-headerwrap.fav-dark .favnav .navigation .nav-child li a:focus,
+#fav-headerwrap.fav-dark .favnav .navigation .nav-child li.active .nav-header,
+#fav-headerwrap.fav-dark .favnav .navigation .nav-child li .nav-header:hover,
+#fav-headerwrap.fav-dark .favnav .navigation .nav-child li .nav-header:focus {
+  color: #E07481;
+}
+
+/* icons */
+#fav-headerwrap.fav-dark .favnav .navigation li a[class^="fa-"]:before,
+#fav-headerwrap.fav-dark .favnav .navigation li a[class*=" fa-"]:before,
+#fav-headerwrap.fav-dark .favnav .navigation li .nav-header[class^="fa-"]:before,
+#fav-headerwrap.fav-dark .favnav .navigation li .nav-header[class*=" fa-"]:before {
+  color: #E07481;
+}
+
+/*//////////////////////////////////////////////////////////////////////////////
+
+2.3. navigation
+
+//////////////////////////////////////////////////////////////////////////////*/
+
+/*//////////////////////////////////////////////////////////////////////////////
+///
+///  nav style
+///
+//////////////////////////////////////////////////////////////////////////////*/
+
+/*/
+///
+///  default
+///
+/*/
+
+#fav-container .favnav.navstyle .navigation ul.nav > li.active > a,
+#fav-container .favnav.navstyle .navigation ul.nav > li > a:hover,
+#fav-container .favnav.navstyle .navigation ul.nav > li > a:focus,
+#fav-container .favnav.navstyle .navigation ul.nav > li.active > .nav-header,
+#fav-container .favnav.navstyle .navigation ul.nav > li > .nav-header:hover,
+#fav-container .favnav.navstyle .navigation ul.nav > li > .nav-header:focus {
+  border: 2px solid #E07481;
+  color: #fff;
+}
+
+/* style 1 */
+
+#fav-container .favnav.navstyle-1 .navigation ul.nav > li.active > a,
+#fav-container .favnav.navstyle-1 .navigation ul.nav > li > a:hover,
+#fav-container .favnav.navstyle-1 .navigation ul.nav > li > a:focus,
+#fav-container .favnav.navstyle-1 .navigation ul.nav > li.active > .nav-header,
+#fav-container .favnav.navstyle-1 .navigation ul.nav > li > .nav-header:hover,
+#fav-container .favnav.navstyle-1 .navigation ul.nav > li > .nav-header:focus {
+  color: #E07481;
+}
+
+/* style 2 */
+
+#fav-container .favnav.navstyle-2 .navigation ul.nav > li.active > a,
+#fav-container .favnav.navstyle-2 .navigation ul.nav > li > a:hover,
+#fav-container .favnav.navstyle-2 .navigation ul.nav > li > a:focus,
+#fav-container .favnav.navstyle-2 .navigation ul.nav > li.active > .nav-header,
+#fav-container .favnav.navstyle-2 .navigation ul.nav > li > .nav-header:hover,
+#fav-container .favnav.navstyle-2 .navigation ul.nav > li > .nav-header:focus {
+  background-color: #E07481;
+  color: #fff;
+}
+#fav-container .favnav.navstyle-2 .navigation ul.nav > li.active > a[class^="fa-"]:before,
+#fav-container .favnav.navstyle-2 .navigation ul.nav > li.active > a[class*=" fa-"]:before,
+#fav-container .favnav.navstyle-2 .navigation ul.nav > li > a[class^="fa-"]:hover:before,
+#fav-container .favnav.navstyle-2 .navigation ul.nav > li > a[class*=" fa-"]:hover:before,
+#fav-container .favnav.navstyle-2 .navigation ul.nav > li > a[class^="fa-"]:focus:before,
+#fav-container .favnav.navstyle-2 .navigation ul.nav > li > a[class*=" fa-"]:focus:before,
+#fav-container .favnav.navstyle-2 .navigation ul.nav > li.active > .nav-header[class^="fa-"]:before,
+#fav-container .favnav.navstyle-2 .navigation ul.nav > li.active > .nav-header[class*=" fa-"]:before,
+#fav-container .favnav.navstyle-2 .navigation ul.nav > li > .nav-header[class^="fa-"]:hover:before,
+#fav-container .favnav.navstyle-2 .navigation ul.nav > li > .nav-header[class*=" fa-"]:hover:before,
+#fav-container .favnav.navstyle-2 .navigation ul.nav > li > .nav-header[class^="fa-"]:focus:before,
+#fav-container .favnav.navstyle-2 .navigation ul.nav > li > .nav-header[class*=" fa-"]:focus:before {
+  color: #fff;
+}
+
+/* style 3 */
+
+#fav-container .favnav.navstyle-3 .navigation ul.nav > li.active > a,
+#fav-container .favnav.navstyle-3 .navigation ul.nav > li > a:hover,
+#fav-container .favnav.navstyle-3 .navigation ul.nav > li > a:focus,
+#fav-container .favnav.navstyle-3 .navigation ul.nav > li.active > .nav-header,
+#fav-container .favnav.navstyle-3 .navigation ul.nav > li > .nav-header:hover,
+#fav-container .favnav.navstyle-3 .navigation ul.nav > li > .nav-header:focus {
+  border: 2px solid #fff;
+  color: #fff;
+}
+
+/* style 4 */
+
+#fav-container .favnav.navstyle-4 .navigation ul.nav > li.active > a,
+#fav-container .favnav.navstyle-4 .navigation ul.nav > li > a:hover,
+#fav-container .favnav.navstyle-4 .navigation ul.nav > li > a:focus,
+#fav-container .favnav.navstyle-4 .navigation ul.nav > li.active > .nav-header,
+#fav-container .favnav.navstyle-4 .navigation ul.nav > li > .nav-header:hover,
+#fav-container .favnav.navstyle-4 .navigation ul.nav > li > .nav-header:focus {
+  border-bottom: 2px solid #E07481;
+  color: #fff;
+}
+
+/* style 5 */
+
+#fav-container .favnav.navstyle-5 .navigation ul.nav > li.active > a,
+#fav-container .favnav.navstyle-5 .navigation ul.nav > li > a:hover,
+#fav-container .favnav.navstyle-5 .navigation ul.nav > li > a:focus,
+#fav-container .favnav.navstyle-5 .navigation ul.nav > li.active > .nav-header,
+#fav-container .favnav.navstyle-5 .navigation ul.nav > li > .nav-header:hover,
+#fav-container .favnav.navstyle-5 .navigation ul.nav > li > .nav-header:focus {
+  border-top: 2px solid #E07481;
+  color: #fff;
+}
+
+/* style 6 */
+
+#fav-container .favnav.navstyle-6 .navigation ul.nav > li.active > a,
+#fav-container .favnav.navstyle-6 .navigation ul.nav > li > a:hover,
+#fav-container .favnav.navstyle-6 .navigation ul.nav > li > a:focus,
+#fav-container .favnav.navstyle-6 .navigation ul.nav > li.active > .nav-header,
+#fav-container .favnav.navstyle-6 .navigation ul.nav > li > .nav-header:hover,
+#fav-container .favnav.navstyle-6 .navigation ul.nav > li > .nav-header:focus {
+  border-top: 2px solid #E07481;
+  border-bottom: 2px solid #E07481;
+  color: #fff;
+}
+
+/* style 7 */
+
+#fav-container .favnav.navstyle-7 .navigation ul.nav > li.active > a,
+#fav-container .favnav.navstyle-7 .navigation ul.nav > li > a:hover,
+#fav-container .favnav.navstyle-7 .navigation ul.nav > li > a:focus,
+#fav-container .favnav.navstyle-7 .navigation ul.nav > li.active > .nav-header,
+#fav-container .favnav.navstyle-7 .navigation ul.nav > li > .nav-header:hover,
+#fav-container .favnav.navstyle-7 .navigation ul.nav > li > .nav-header:focus {
+  border-left: 2px solid #E07481;
+  border-right: 2px solid #E07481;
+  color: #fff;
+}
+
+/*/
+///
+///  light
+///
+/*/
+
+#fav-headerwrap.fav-light .favnav.navstyle .navigation ul.nav > li.active > a,
+#fav-headerwrap.fav-light .favnav.navstyle .navigation ul.nav > li > a:hover,
+#fav-headerwrap.fav-light .favnav.navstyle .navigation ul.nav > li > a:focus,
+#fav-headerwrap.fav-light .favnav.navstyle .navigation ul.nav > li.active > .nav-header,
+#fav-headerwrap.fav-light .favnav.navstyle .navigation ul.nav > li > .nav-header:hover,
+#fav-headerwrap.fav-light .favnav.navstyle .navigation ul.nav > li > .nav-header:focus {
+  border: 2px solid #E07481;
+  color: #444;
+}
+
+/* style 1 */
+
+#fav-headerwrap.fav-light .favnav.navstyle-1 .navigation ul.nav > li.active > a,
+#fav-headerwrap.fav-light .favnav.navstyle-1 .navigation ul.nav > li > a:hover,
+#fav-headerwrap.fav-light .favnav.navstyle-1 .navigation ul.nav > li > a:focus,
+#fav-headerwrap.fav-light .favnav.navstyle-1 .navigation ul.nav > li.active > .nav-header,
+#fav-headerwrap.fav-light .favnav.navstyle-1 .navigation ul.nav > li > .nav-header:hover,
+#fav-headerwrap.fav-light .favnav.navstyle-1 .navigation ul.nav > li > .nav-header:focus {
+  color: #E07481;
+}
+
+/* style 2 */
+
+#fav-headerwrap.fav-light .favnav.navstyle-2 .navigation ul.nav > li.active > a,
+#fav-headerwrap.fav-light .favnav.navstyle-2 .navigation ul.nav > li > a:hover,
+#fav-headerwrap.fav-light .favnav.navstyle-2 .navigation ul.nav > li > a:focus,
+#fav-headerwrap.fav-light .favnav.navstyle-2 .navigation ul.nav > li.active > .nav-header,
+#fav-headerwrap.fav-light .favnav.navstyle-2 .navigation ul.nav > li > .nav-header:hover,
+#fav-headerwrap.fav-light .favnav.navstyle-2 .navigation ul.nav > li > .nav-header:focus {
+  background-color: #E07481;
+  color: #fff;
+}
+#fav-headerwrap.fav-light .favnav.navstyle-2 .navigation ul.nav > li.active > a[class^="fa-"]:before,
+#fav-headerwrap.fav-light .favnav.navstyle-2 .navigation ul.nav > li.active > a[class*=" fa-"]:before,
+#fav-headerwrap.fav-light .favnav.navstyle-2 .navigation ul.nav > li > a[class^="fa-"]:hover:before,
+#fav-headerwrap.fav-light .favnav.navstyle-2 .navigation ul.nav > li > a[class*=" fa-"]:hover:before,
+#fav-headerwrap.fav-light .favnav.navstyle-2 .navigation ul.nav > li > a[class^="fa-"]:focus:before,
+#fav-headerwrap.fav-light .favnav.navstyle-2 .navigation ul.nav > li > a[class*=" fa-"]:focus:before,
+#fav-headerwrap.fav-light .favnav.navstyle-2 .navigation ul.nav > li.active > .nav-header[class^="fa-"]:before,
+#fav-headerwrap.fav-light .favnav.navstyle-2 .navigation ul.nav > li.active > .nav-header[class*=" fa-"]:before,
+#fav-headerwrap.fav-light .favnav.navstyle-2 .navigation ul.nav > li > .nav-header[class^="fa-"]:hover:before,
+#fav-headerwrap.fav-light .favnav.navstyle-2 .navigation ul.nav > li > .nav-header[class*=" fa-"]:hover:before,
+#fav-headerwrap.fav-light .favnav.navstyle-2 .navigation ul.nav > li > .nav-header[class^="fa-"]:focus:before,
+#fav-headerwrap.fav-light .favnav.navstyle-2 .navigation ul.nav > li > .nav-header[class*=" fa-"]:focus:before {
+  color: #fff;
+}
+
+/* style 3 */
+
+#fav-headerwrap.fav-light .favnav.navstyle-3 .navigation ul.nav > li.active > a,
+#fav-headerwrap.fav-light .favnav.navstyle-3 .navigation ul.nav > li > a:hover,
+#fav-headerwrap.fav-light .favnav.navstyle-3 .navigation ul.nav > li > a:focus,
+#fav-headerwrap.fav-light .favnav.navstyle-3 .navigation ul.nav > li.active > .nav-header,
+#fav-headerwrap.fav-light .favnav.navstyle-3 .navigation ul.nav > li > .nav-header:hover,
+#fav-headerwrap.fav-light .favnav.navstyle-3 .navigation ul.nav > li > .nav-header:focus {
+  border: 2px solid #444;
+  color: #444;
+}
+
+/* style 4 */
+
+#fav-headerwrap.fav-light .favnav.navstyle-4 .navigation ul.nav > li.active > a,
+#fav-headerwrap.fav-light .favnav.navstyle-4 .navigation ul.nav > li > a:hover,
+#fav-headerwrap.fav-light .favnav.navstyle-4 .navigation ul.nav > li > a:focus,
+#fav-headerwrap.fav-light .favnav.navstyle-4 .navigation ul.nav > li.active > .nav-header,
+#fav-headerwrap.fav-light .favnav.navstyle-4 .navigation ul.nav > li > .nav-header:hover,
+#fav-headerwrap.fav-light .favnav.navstyle-4 .navigation ul.nav > li > .nav-header:focus {
+  border-bottom: 2px solid #E07481;
+  color: #444;
+}
+
+/* style 5 */
+
+#fav-headerwrap.fav-light .favnav.navstyle-5 .navigation ul.nav > li.active > a,
+#fav-headerwrap.fav-light .favnav.navstyle-5 .navigation ul.nav > li > a:hover,
+#fav-headerwrap.fav-light .favnav.navstyle-5 .navigation ul.nav > li > a:focus,
+#fav-headerwrap.fav-light .favnav.navstyle-5 .navigation ul.nav > li.active > .nav-header,
+#fav-headerwrap.fav-light .favnav.navstyle-5 .navigation ul.nav > li > .nav-header:hover,
+#fav-headerwrap.fav-light .favnav.navstyle-5 .navigation ul.nav > li > .nav-header:focus {
+  border-top: 2px solid #E07481;
+  color: #444;
+}
+
+/* style 6 */
+
+#fav-headerwrap.fav-light .favnav.navstyle-6 .navigation ul.nav > li.active > a,
+#fav-headerwrap.fav-light .favnav.navstyle-6 .navigation ul.nav > li > a:hover,
+#fav-headerwrap.fav-light .favnav.navstyle-6 .navigation ul.nav > li > a:focus,
+#fav-headerwrap.fav-light .favnav.navstyle-6 .navigation ul.nav > li.active > .nav-header,
+#fav-headerwrap.fav-light .favnav.navstyle-6 .navigation ul.nav > li > .nav-header:hover,
+#fav-headerwrap.fav-light .favnav.navstyle-6 .navigation ul.nav > li > .nav-header:focus {
+  border-top: 2px solid #E07481;
+  border-bottom: 2px solid #E07481;
+  color: #444;
+}
+
+/* style 7 */
+
+#fav-headerwrap.fav-light .favnav.navstyle-7 .navigation ul.nav > li.active > a,
+#fav-headerwrap.fav-light .favnav.navstyle-7 .navigation ul.nav > li > a:hover,
+#fav-headerwrap.fav-light .favnav.navstyle-7 .navigation ul.nav > li > a:focus,
+#fav-headerwrap.fav-light .favnav.navstyle-7 .navigation ul.nav > li.active > .nav-header,
+#fav-headerwrap.fav-light .favnav.navstyle-7 .navigation ul.nav > li > .nav-header:hover,
+#fav-headerwrap.fav-light .favnav.navstyle-7 .navigation ul.nav > li > .nav-header:focus {
+  border-left: 2px solid #E07481;
+  border-right: 2px solid #E07481;
+  color: #444;
+}
+
+/*/
+///
+///  dark
+///
+/*/
+
+#fav-headerwrap.fav-dark .favnav.navstyle .navigation ul.nav > li.active > a,
+#fav-headerwrap.fav-dark .favnav.navstyle .navigation ul.nav > li > a:hover,
+#fav-headerwrap.fav-dark .favnav.navstyle .navigation ul.nav > li > a:focus,
+#fav-headerwrap.fav-dark .favnav.navstyle .navigation ul.nav > li.active > .nav-header,
+#fav-headerwrap.fav-dark .favnav.navstyle .navigation ul.nav > li > .nav-header:hover,
+#fav-headerwrap.fav-dark .favnav.navstyle .navigation ul.nav > li > .nav-header:focus {
+  border: 2px solid #E07481;
+  color: #fff;
+}
+
+/* style 1 */
+
+#fav-headerwrap.fav-dark .favnav.navstyle-1 .navigation ul.nav > li.active > a,
+#fav-headerwrap.fav-dark .favnav.navstyle-1 .navigation ul.nav > li > a:hover,
+#fav-headerwrap.fav-dark .favnav.navstyle-1 .navigation ul.nav > li > a:focus,
+#fav-headerwrap.fav-dark .favnav.navstyle-1 .navigation ul.nav > li.active > .nav-header,
+#fav-headerwrap.fav-dark .favnav.navstyle-1 .navigation ul.nav > li > .nav-header:hover,
+#fav-headerwrap.fav-dark .favnav.navstyle-1 .navigation ul.nav > li > .nav-header:focus {
+  color: #E07481;
+}
+
+/* style 2 */
+
+#fav-headerwrap.fav-dark .favnav.navstyle-2 .navigation ul.nav > li.active > a,
+#fav-headerwrap.fav-dark .favnav.navstyle-2 .navigation ul.nav > li > a:hover,
+#fav-headerwrap.fav-dark .favnav.navstyle-2 .navigation ul.nav > li > a:focus,
+#fav-headerwrap.fav-dark .favnav.navstyle-2 .navigation ul.nav > li.active > .nav-header,
+#fav-headerwrap.fav-dark .favnav.navstyle-2 .navigation ul.nav > li > .nav-header:hover,
+#fav-headerwrap.fav-dark .favnav.navstyle-2 .navigation ul.nav > li > .nav-header:focus {
+  background-color: #E07481;
+  color: #fff;
+}
+#fav-headerwrap.fav-dark .favnav.navstyle-2 .navigation ul.nav > li.active > a[class^="fa-"]:before,
+#fav-headerwrap.fav-dark .favnav.navstyle-2 .navigation ul.nav > li.active > a[class*=" fa-"]:before,
+#fav-headerwrap.fav-dark .favnav.navstyle-2 .navigation ul.nav > li > a[class^="fa-"]:hover:before,
+#fav-headerwrap.fav-dark .favnav.navstyle-2 .navigation ul.nav > li > a[class*=" fa-"]:hover:before,
+#fav-headerwrap.fav-dark .favnav.navstyle-2 .navigation ul.nav > li > a[class^="fa-"]:focus:before,
+#fav-headerwrap.fav-dark .favnav.navstyle-2 .navigation ul.nav > li > a[class*=" fa-"]:focus:before,
+#fav-headerwrap.fav-dark .favnav.navstyle-2 .navigation ul.nav > li.active > .nav-header[class^="fa-"]:before,
+#fav-headerwrap.fav-dark .favnav.navstyle-2 .navigation ul.nav > li.active > .nav-header[class*=" fa-"]:before,
+#fav-headerwrap.fav-dark .favnav.navstyle-2 .navigation ul.nav > li > .nav-header[class^="fa-"]:hover:before,
+#fav-headerwrap.fav-dark .favnav.navstyle-2 .navigation ul.nav > li > .nav-header[class*=" fa-"]:hover:before,
+#fav-headerwrap.fav-dark .favnav.navstyle-2 .navigation ul.nav > li > .nav-header[class^="fa-"]:focus:before,
+#fav-headerwrap.fav-dark .favnav.navstyle-2 .navigation ul.nav > li > .nav-header[class*=" fa-"]:focus:before {
+  color: #fff;
+}
+
+/* style 3 */
+
+#fav-headerwrap.fav-dark .favnav.navstyle-3 .navigation ul.nav > li.active > a,
+#fav-headerwrap.fav-dark .favnav.navstyle-3 .navigation ul.nav > li > a:hover,
+#fav-headerwrap.fav-dark .favnav.navstyle-3 .navigation ul.nav > li > a:focus,
+#fav-headerwrap.fav-dark .favnav.navstyle-3 .navigation ul.nav > li.active > .nav-header,
+#fav-headerwrap.fav-dark .favnav.navstyle-3 .navigation ul.nav > li > .nav-header:hover,
+#fav-headerwrap.fav-dark .favnav.navstyle-3 .navigation ul.nav > li > .nav-header:focus {
+  border: 2px solid #fff;
+  color: #fff;
+}
+
+/* style 4 */
+
+#fav-headerwrap.fav-dark .favnav.navstyle-4 .navigation ul.nav > li.active > a,
+#fav-headerwrap.fav-dark .favnav.navstyle-4 .navigation ul.nav > li > a:hover,
+#fav-headerwrap.fav-dark .favnav.navstyle-4 .navigation ul.nav > li > a:focus,
+#fav-headerwrap.fav-dark .favnav.navstyle-4 .navigation ul.nav > li.active > .nav-header,
+#fav-headerwrap.fav-dark .favnav.navstyle-4 .navigation ul.nav > li > .nav-header:hover,
+#fav-headerwrap.fav-dark .favnav.navstyle-4 .navigation ul.nav > li > .nav-header:focus {
+  border-bottom: 2px solid #E07481;
+  color: #fff;
+}
+
+/* style 5 */
+
+#fav-headerwrap.fav-dark .favnav.navstyle-5 .navigation ul.nav > li.active > a,
+#fav-headerwrap.fav-dark .favnav.navstyle-5 .navigation ul.nav > li > a:hover,
+#fav-headerwrap.fav-dark .favnav.navstyle-5 .navigation ul.nav > li > a:focus,
+#fav-headerwrap.fav-dark .favnav.navstyle-5 .navigation ul.nav > li.active > .nav-header,
+#fav-headerwrap.fav-dark .favnav.navstyle-5 .navigation ul.nav > li > .nav-header:hover,
+#fav-headerwrap.fav-dark .favnav.navstyle-5 .navigation ul.nav > li > .nav-header:focus {
+  border-top: 2px solid #E07481;
+  color: #fff;
+}
+
+/* style 6 */
+
+#fav-headerwrap.fav-dark .favnav.navstyle-6 .navigation ul.nav > li.active > a,
+#fav-headerwrap.fav-dark .favnav.navstyle-6 .navigation ul.nav > li > a:hover,
+#fav-headerwrap.fav-dark .favnav.navstyle-6 .navigation ul.nav > li > a:focus,
+#fav-headerwrap.fav-dark .favnav.navstyle-6 .navigation ul.nav > li.active > .nav-header,
+#fav-headerwrap.fav-dark .favnav.navstyle-6 .navigation ul.nav > li > .nav-header:hover,
+#fav-headerwrap.fav-dark .favnav.navstyle-6 .navigation ul.nav > li > .nav-header:focus {
+  border-top: 2px solid #E07481;
+  border-bottom: 2px solid #E07481;
+  color: #fff;
+}
+
+/* style 7 */
+
+#fav-headerwrap.fav-dark .favnav.navstyle-7 .navigation ul.nav > li.active > a,
+#fav-headerwrap.fav-dark .favnav.navstyle-7 .navigation ul.nav > li > a:hover,
+#fav-headerwrap.fav-dark .favnav.navstyle-7 .navigation ul.nav > li > a:focus,
+#fav-headerwrap.fav-dark .favnav.navstyle-7 .navigation ul.nav > li.active > .nav-header,
+#fav-headerwrap.fav-dark .favnav.navstyle-7 .navigation ul.nav > li > .nav-header:hover,
+#fav-headerwrap.fav-dark .favnav.navstyle-7 .navigation ul.nav > li > .nav-header:focus {
+  border-left: 2px solid #E07481;
+  border-right: 2px solid #E07481;
+  color: #fff;
+}
+
+/*//////////////////////////////////////////////////////////////////////////////
+///
+///  vertical menus
+///
+//////////////////////////////////////////////////////////////////////////////*/
+
+ul.menubasic li a,
+ul.menubasic li .nav-header,
+ul.menuarrow li a,
+ul.menuarrow li .nav-header,
+ul.menuside li a,
+ul.menuside li .nav-header,
+ul.menuline li a,
+ul.menuline li .nav-header {
+  color: #888 !important;
+}
+ul.menubasic li a:hover,
+ul.menubasic li a:focus,
+ul.menubasic li.current a,
+ul.menubasic li.current ul a:hover,
+ul.menubasic li.current ul a:focus,
+ul.menubasic li .nav-header:hover,
+ul.menubasic li .nav-header:focus,
+ul.menubasic li.current .nav-header,
+ul.menubasic li.current ul .nav-header:hover,
+ul.menubasic li.current ul .nav-header:focus {
+  color: #fff !important;
+  background-color: #E07481;
+}
+ul.menuarrow li a:hover,
+ul.menuarrow li a:focus,
+ul.menuarrow li.current a,
+ul.menuarrow li.current ul a:hover,
+ul.menuarrow li.current ul a:focus,
+ul.menuarrow li .nav-header:hover,
+ul.menuarrow li .nav-header:focus,
+ul.menuarrow li.current .nav-header,
+ul.menuarrow li.current ul .nav-header:hover,
+ul.menuarrow li.current ul .nav-header:focus {
+  color: #E07481;
+  background-color: transparent;
+}
+ul.menuarrow li a:hover:before,
+ul.menuarrow li a:focus:before,
+ul.menuarrow li.current a:before,
+ul.menuarrow li.current ul a:hover:before,
+ul.menuarrow li.current ul a:focus:before,
+ul.menuarrow li .nav-header:hover:before,
+ul.menuarrow li .nav-header:focus:before,
+ul.menuarrow li.current .nav-header:before,
+ul.menuarrow li.current ul .nav-header:hover:before,
+ul.menuarrow li.current ul .nav-header:focus:before {
+  color: #E07481;
+}
+ul.menuside li a:hover,
+ul.menuside li a:focus,
+ul.menuside li.current a,
+ul.menuside li.current ul a:hover,
+ul.menuside li.current ul a:focus,
+ul.menuside li .nav-header:hover,
+ul.menuside li .nav-header:focus,
+ul.menuside li.current .nav-header,
+ul.menuside li.current ul .nav-header:hover,
+ul.menuside li.current ul .nav-header:focus {
+  color: #E07481;
+  border-left: 5px solid #E07481;
+  background-color: transparent;
+}
+ul.menuline li a:hover,
+ul.menuline li a:focus,
+ul.menuline li.current a,
+ul.menuline li.current ul a:hover,
+ul.menuline li.current ul a:focus,
+ul.menuline li .nav-header:hover,
+ul.menuline li .nav-header:focus,
+ul.menuline li.current .nav-header,
+ul.menuline li.current ul .nav-header:hover,
+ul.menuline li.current ul .nav-header:focus {
+  color: #444;
+  border-bottom: 1px solid #E07481;
+  background-color: transparent;
+}
+ul.menuline li a:hover:before,
+ul.menuline li a:focus:before,
+ul.menuline li.current a:before,
+ul.menuline li.current ul a:hover:before,
+ul.menuline li.current ul a:focus:before,
+ul.menuline li .nav-header:hover:before,
+ul.menuline li .nav-header:focus:before,
+ul.menuline li.current .nav-header:before,
+ul.menuline li.current ul .nav-header:hover:before,
+ul.menuline li.current ul .nav-header:focus:before {
+  color: #E07481;
+}
+
+/* clear */
+ul.menubasic.menu-clear li a,
+ul.menubasic.menu-clear li .nav-header,
+ul.menuarrow.menu-clear li a,
+ul.menuarrow.menu-clear li .nav-header,
+ul.menuside.menu-clear li a,
+ul.menuside.menu-clear li .nav-header,
+ul.menuline.menu-clear li a,
+ul.menuline.menu-clear li .nav-header {
+  color: #FFF !important;
+}
+ul.menubasic.menu-clear {
+  border: 1px solid #444;
+}
+ul.menubasic.menu-clear li a,
+ul.menubasic.menu-clear li .nav-header {
+  border-bottom: 1px solid #444;
+}
+ul.menuarrow.menu-clear li a:hover,
+ul.menuarrow.menu-clear li a:focus,
+ul.menuarrow.menu-clear li .nav-header:hover,
+ul.menuarrow.menu-clear li .nav-header:focus {
+  color: #E07481 !important;
+}
+ul.menuarrow.menu-clear li a::before,
+ul.menuarrow.menu-clear li .nav-header::before {
+  color: #E07481;
+}
+ul.menuarrow.menu-clear li a:hover:before,
+ul.menuarrow.menu-clear li a:focus:before,
+ul.menuarrow.menu-clear li .nav-header:hover:before,
+ul.menuarrow.menu-clear li .nav-header:focus:before {
+  color: #FFF;
+}
+ul.menuside.menu-clear li a,
+ul.menuside.menu-clear li .nav-header {
+  border-left: 5px solid #E07481;
+}
+ul.menuside.menu-clear li a:hover,
+ul.menuside.menu-clear li a:focus,
+ul.menuside.menu-clear li .nav-header:hover,
+ul.menuside.menu-clear li .nav-header:focus {
+  color: #E07481 !important;
+  border-left: 5px solid #FFF;
+}
+ul.menuline.menu-clear li a,
+ul.menuline.menu-clear li .nav-header {
+  border-bottom: 1px solid #444;
+}
+ul.menuline.menu-clear li a::before,
+ul.menuline.menu-clear li .nav-header::before {
+  color: #E07481;
+}
+ul.menuline.menu-clear li a:hover,
+ul.menuline.menu-clear li a:focus,
+ul.menuline.menu-clear li .nav-header:hover,
+ul.menuline.menu-clear li .nav-header:focus {
+  color: #FFF;
+  border-bottom: 1px solid #E07481;
+}
+
+/* dark */
+ul.menubasic.menu-dark li a,
+ul.menubasic.menu-dark li .nav-header,
+ul.menuarrow.menu-dark li a,
+ul.menuarrow.menu-dark li .nav-header,
+ul.menuside.menu-dark li a,
+ul.menuside.menu-dark li .nav-header,
+ul.menuline.menu-dark li a,
+ul.menuline.menu-dark li .nav-header {
+  color: #FFF !important;
+}
+ul.menuarrow.menu-dark li a:hover,
+ul.menuarrow.menu-dark li a:focus,
+ul.menuarrow.menu-dark li .nav-header:hover,
+ul.menuarrow.menu-dark li .nav-header:focus {
+  color: #E07481 !important;
+}
+ul.menuarrow.menu-dark li a::before,
+ul.menuarrow.menu-dark li .nav-header::before {
+  color: #E07481;
+}
+ul.menuarrow.menu-dark li a:hover:before,
+ul.menuarrow.menu-dark li a:focus:before,
+ul.menuarrow.menu-dark li .nav-header:hover:before,
+ul.menuarrow.menu-dark li .nav-header:focus:before {
+  color: #FFF;
+}
+ul.menuside.menu-dark li a,
+ul.menuside.menu-dark li .nav-header {
+  border-left: 5px solid #E07481;
+}
+ul.menuside.menu-dark li a:hover,
+ul.menuside.menu-dark li a:focus,
+ul.menuside.menu-dark li .nav-header:hover,
+ul.menuside.menu-dark li .nav-header:focus {
+  color: #E07481 !important;
+  border-left: 5px solid #FFF;
+}
+ul.menuline.menu-dark li a:hover,
+ul.menuline.menu-dark li a:focus,
+ul.menuline.menu-dark li .nav-header:hover,
+ul.menuline.menu-dark li .nav-header:focus {
+  color: #fff !important;
+  border-bottom: 1px solid #E07481;
+}
+
+/* color */
+ul.menubasic.menu-color li a,
+ul.menubasic.menu-color li .nav-header {
+  border-bottom: 1px solid rgba(17, 17, 17, 0.27);
+}
+ul.menubasic.menu-color {
+  border: 1px solid rgba(17, 17, 17, 0.27);
+}
+ul.menuarrow.menu-color li a,
+ul.menuarrow.menu-color li .nav-header {
+  color: #FFF !important;
+}
+ul.menuarrow.menu-color li a:hover,
+ul.menuarrow.menu-color li a:focus,
+ul.menuarrow.menu-color li .nav-header:hover,
+ul.menuarrow.menu-color li .nav-header:focus {
+  color: rgba(17, 17, 17, 0.47) !important;
+}
+ul.menuarrow.menu-color li a::before,
+ul.menuarrow.menu-color li .nav-header::before {
+  color: rgba(17, 17, 17, 0.47);
+}
+ul.menuarrow.menu-color li a:hover::before,
+ul.menuarrow.menu-color li a:focus::before,
+ul.menuarrow.menu-color li .nav-header:hover::before,
+ul.menuarrow.menu-color li .nav-header:focus::before {
+  color: #FFF;
+}
+ul.menuside.menu-color li a,
+ul.menuside.menu-color li .nav-header {
+  color: #FFF !important;
+  border-left: 5px solid rgba(17, 17, 17, 0.47);
+}
+ul.menuside.menu-color li a:hover,
+ul.menuside.menu-color li a:focus,
+ul.menuside.menu-color li .nav-header:hover,
+ul.menuside.menu-color li .nav-header:focus {
+  color: rgba(17, 17, 17, 0.47) !important;
+}
+ul.menuside.menu-color li a:hover,
+ul.menuside.menu-color li a:focus,
+ul.menuside.menu-color li.current a,
+ul.menuside.menu-color li.current ul a:hover,
+ul.menuside.menu-color li.current ul a:focus,
+ul.menuside.menu-color li .nav-header:hover,
+ul.menuside.menu-color li .nav-header:focus,
+ul.menuside.menu-color li.current .nav-header,
+ul.menuside.menu-color li.current ul .nav-header:hover,
+ul.menuside.menu-color li.current ul .nav-header:focus {
+  border-left: 5px solid #FFF;
+}
+ul.menuline.menu-color li a,
+ul.menuline.menu-color li .nav-header {
+  color: #FFF !important;
+  border-bottom: 1px solid rgba(17, 17, 17, 0.27);
+}
+ul.menuline.menu-color li a:hover,
+ul.menuline.menu-color li a:focus,
+ul.menuline.menu-color li .nav-header:hover,
+ul.menuline.menu-color li .nav-header:focus {
+  color: rgba(17, 17, 17, 0.47) !important;
+}
+ul.menuline.menu-color li a:hover,
+ul.menuline.menu-color li a:focus,
+ul.menuline.menu-color li.current a,
+ul.menuline.menu-color li.current ul a:hover,
+ul.menuline.menu-color li.current ul a:focus,
+ul.menuline.menu-color li .nav-header:hover,
+ul.menuline.menu-color li .nav-header:focus,
+ul.menuline.menu-color li.current .nav-header,
+ul.menuline.menu-color li.current ul .nav-header:hover,
+ul.menuline.menu-color li.current ul .nav-header:focus {
+  border-bottom: 1px solid #FFF;
+}
+ul.menuline.menu-color li a::before,
+ul.menuline.menu-color li .nav-header::before {
+  color: rgba(17, 17, 17, 0.47);
+}
+ul.menuline.menu-color li a:hover::before,
+ul.menuline.menu-color li .nav-header:hover::before,
+ul.menuline.menu-color li a:focus::before,
+ul.menuline.menu-color li .nav-header:focus::before {
+  color: #FFF;
+}
+
+/*//////////////////////////////////////////////////////////////////////////////
+///
+///  horizontal menus
+///
+//////////////////////////////////////////////////////////////////////////////*/
+
+ul.menuhorizontal li a,
+ul.menuhorizontal li .nav-header {
+  color: #333 !important;
+}
+ul.menuhorizontal li.active a,
+ul.menuhorizontal li a:hover,
+ul.menuhorizontal li a:focus,
+ul.menuhorizontal li:hover a,
+ul.menuhorizontal li:focus a,
+ul.menuhorizontal li .nav-header:hover,
+ul.menuhorizontal li .nav-header:focus,
+ul.menuhorizontal li.active .nav-header,
+ul.menuhorizontal li:hover .nav-header,
+ul.menuhorizontal li:focus .nav-header {
+  color: #E07481 !important;
+  background-color: transparent;
+}
+ul.menuhorizontal.menu-clear li a,
+ul.menuhorizontal.menu-clear li .nav-header {
+  color: #fff !important;
+}
+ul.menuhorizontal.menu-clear li.active a,
+ul.menuhorizontal.menu-clear li a:hover,
+ul.menuhorizontal.menu-clear li a:focus,
+ul.menuhorizontal.menu-clear li:hover a,
+ul.menuhorizontal.menu-clear li:focus a,
+ul.menuhorizontal.menu-clear li .nav-header:hover,
+ul.menuhorizontal.menu-clear li .nav-header:focus,
+ul.menuhorizontal.menu-clear li.active .nav-header,
+ul.menuhorizontal.menu-clear li:hover .nav-header,
+ul.menuhorizontal.menu-clear li:focus .nav-header {
+  color: #E07481 !important;
+}
+ul.menuhorizontal.menu-clear li a:before,
+ul.menuhorizontal.menu-clear li .nav-header:before {
+  color: #fff;
+}
+ul.menuhorizontal.menu-clear li.active a:before,
+ul.menuhorizontal.menu-clear li a:hover:before,
+ul.menuhorizontal.menu-clear li a:focus:before,
+ul.menuhorizontal.menu-clear li:hover a:before,
+ul.menuhorizontal.menu-clear li:focus a:before,
+ul.menuhorizontal.menu-clear li .nav-header:hover:before,
+ul.menuhorizontal.menu-clear li .nav-header:focus:before,
+ul.menuhorizontal.menu-clear li.active .nav-header:before,
+ul.menuhorizontal.menu-clear li:hover .nav-header:before,
+ul.menuhorizontal.menu-clear li:focus .nav-header:before {
+  color: #E07481 !important;
+}
+ul.menuhorizontal.menu-dark li a,
+ul.menuhorizontal.menu-dark li .nav-header {
+  color: #eee !important;
+}
+ul.menuhorizontal.menu-dark li.active a,
+ul.menuhorizontal.menu-dark li a:hover,
+ul.menuhorizontal.menu-dark li a:focus,
+ul.menuhorizontal.menu-dark li:hover a,
+ul.menuhorizontal.menu-dark li:focus a,
+ul.menuhorizontal.menu-dark li .nav-header:hover,
+ul.menuhorizontal.menu-dark li .nav-header:focus,
+ul.menuhorizontal.menu-dark li.active .nav-header,
+ul.menuhorizontal.menu-dark li:hover .nav-header,
+ul.menuhorizontal.menu-dark li:focus .nav-header {
+  color: #E07481 !important;
+}
+ul.menuhorizontal.menu-dark li a:before,
+ul.menuhorizontal.menu-dark li .nav-header:before {
+  color: #eee;
+}
+ul.menuhorizontal.menu-dark li.active a:before,
+ul.menuhorizontal.menu-dark li a:hover:before,
+ul.menuhorizontal.menu-dark li a:focus:before,
+ul.menuhorizontal.menu-dark li:hover a:before,
+ul.menuhorizontal.menu-dark li:focus a:before,
+ul.menuhorizontal.menu-dark li .nav-header:hover:before,
+ul.menuhorizontal.menu-dark li .nav-header:focus:before,
+ul.menuhorizontal.menu-dark li.active .nav-header:before,
+ul.menuhorizontal.menu-dark li:hover .nav-header:before,
+ul.menuhorizontal.menu-dark li:focus .nav-header:before {
+  color: #E07481 !important;
+}
+ul.menuhorizontal.pull-right li.active a,
+ul.menuhorizontal.pull-right li a:hover,
+ul.menuhorizontal.pull-right li a:focus,
+ul.menuhorizontal.pull-right li:hover a,
+ul.menuhorizontal.pull-right li:focus a,
+ul.menuhorizontal.pull-right li .nav-header:hover,
+ul.menuhorizontal.pull-right li .nav-header:focus,
+ul.menuhorizontal.pull-right li.active .nav-header,
+ul.menuhorizontal.pull-right li:hover .nav-header,
+ul.menuhorizontal.pull-right li:focus .nav-header {
+  color: #E07481;
+  background-color: transparent;
+}
+
+/*//////////////////////////////////////////////////////////////////////////////
+
+2.4. module positions
+
+//////////////////////////////////////////////////////////////////////////////*/
+
+/*//////////////////////////////////////////////////////////////////////////////
+///
+///  topbar
+///
+//////////////////////////////////////////////////////////////////////////////*/
+
+#fav-topbar ul.nav li a:hover,
+#fav-topbar ul.nav li a:focus {
+  color: #E07481 !important;
+}
+#fav-topbar ul.nav li a:before {
+  color: #E07481;
+}
+
+/*/// mobile ///*/
+@media (max-width: 768px) {
+
+  #fav-topbar {
+    background-color: #FFF;
+    color: #444 !important;
+  }
+  #fav-topbar ul.nav li a {
+    color: #444 !important;
+  }
+
+}
+
+/*//////////////////////////////////////////////////////////////////////////////
+///
+///  intro
+///
+//////////////////////////////////////////////////////////////////////////////*/
+
+/* links */
+#fav-introwrap .moduletable a {
+  color: #E07481;
+}
+#fav-introwrap .moduletable a:hover,
+#fav-introwrap .moduletable a:focus {
+  color: #333;
+}
+
+/*//////////////////////////////////////////////////////////////////////////////
+///
+///  slide
+///
+//////////////////////////////////////////////////////////////////////////////*/
+
+#fav-slide,
+#fav-slide h1,
+#fav-slide h2,
+#fav-slide h3,
+#fav-slide h4,
+#fav-slide h5,
+#fav-slide h6,
+#fav-slide p,
+#fav-slide a {
+  color: #FFF;
+}
+#fav-slide a:focus,
+#fav-slide a:hover {
+  color: #DDD;
+}
+
+/*//////////////////////////////////////////////////////////////////////////////
+///
+///  breadcrumbs
+///
+//////////////////////////////////////////////////////////////////////////////*/
+
+#fav-breadcrumbswrap {
+  color: #FFF;
+}
+#fav-breadcrumbs,
+#fav-breadcrumbs h1,
+#fav-breadcrumbs h2,
+#fav-breadcrumbs h3,
+#fav-breadcrumbs h4,
+#fav-breadcrumbs h5,
+#fav-breadcrumbs h6,
+#fav-breadcrumbs p,
+#fav-breadcrumbs a {
+  color: #FFF;
+}
+#fav-breadcrumbs a:focus,
+#fav-breadcrumbs a:hover {
+  color: #E07481;
+}
+#fav-breadcrumbs .moduletable li,
+#fav-breadcrumbs div[class^="moduletable-"] li,
+#fav-breadcrumbs div[class*=" moduletable-"] li {
+  text-shadow: none;
+  color: #E07481;
+}
+#fav-breadcrumbs .breadcrumb > li > .divider {
+  color: #FFF;
+}
+
+/*//////////////////////////////////////////////////////////////////////////////
+///
+///  back to top
+///
+//////////////////////////////////////////////////////////////////////////////*/
+
+a.backtop i {
+  background-color: #E07481;
+  color: #FFFFFF;
+}
+
+/*//////////////////////////////////////////////////////////////////////////////
+///
+///  module position blocks
+///
+//////////////////////////////////////////////////////////////////////////////*/
+
+/*/
+///
+///  light module positions
+///
+/*/
+
+/* links */
+#fav-primewrap .moduletable a,
+#fav-screenwrap .moduletable a,
+#fav-maintopwrap .moduletable a,
+#fav-mainwrap a,
+#fav-mainbottomwrap .moduletable a,
+#fav-basewrap .moduletable a,
+#fav-debugwrap .moduletable a {
+  color: #E07481;
+}
+#fav-primewrap .moduletable a:hover,
+#fav-primewrap .moduletable a:focus,
+#fav-screenwrap .moduletable a:hover,
+#fav-screenwrap .moduletable a:focus,
+#fav-maintopwrap .moduletable a:hover,
+#fav-maintopwrap .moduletable a:focus,
+#fav-mainwrap a:hover,
+#fav-mainwrap a:focus,
+#fav-mainbottomwrap .moduletable a:hover,
+#fav-mainbottomwrap .moduletable a:focus,
+#fav-basewrap .moduletable a:hover,
+#fav-basewrap .moduletable a:focus {
+  color: #333;
+}
+
+/*/
+///
+///  clear module posiions
+///
+/*/
+
+/* links */
+#fav-topbar .moduletable a,
+#fav-promo .moduletable a,
+#fav-feature .moduletable a,
+#fav-top .moduletable a,
+#fav-bottom .moduletable a,
+#fav-user .moduletable a,
+#fav-copyright .moduletable a {
+  color: #E07481;
+}
+#fav-topbar .moduletable a:focus,
+#fav-topbar .moduletable a:hover,
+#fav-promo .moduletable a:focus,
+#fav-promo .moduletable a:hover,
+#fav-feature .moduletable a:focus,
+#fav-feature .moduletable a:hover,
+#fav-top .moduletable a:focus,
+#fav-top .moduletable a:hover,
+#fav-bottom .moduletable a:focus,
+#fav-bottom .moduletable a:hover,
+#fav-user .moduletable a:focus,
+#fav-user .moduletable a:hover,
+#fav-copyright .moduletable a:focus,
+#fav-copyright .moduletable a:hover {
+  color: #DDD;
+}
+
+/*/
+///
+///  color module positions
+///
+/*/
+
+/* background */
+#fav-noticewrap,
+#fav-leadwrap,
+#fav-focuswrap,
+#fav-blockwrap {
+  background-color: #E07481;
+}
+
+/*//////////////////////////////////////////////////////////////////////////////
+
+2.5. titles
+
+//////////////////////////////////////////////////////////////////////////////*/
+
+/*/
+///
+///  joomla
+///
+/*/
+
+.page-header h2 a:hover,
+h2.item-title a:hover,
+div.categories-list h3 a:hover,
+div.newsfeed h2 a:hover,
+div.newsfeed-category h2 a:hover {
+  color: #E07481 !important;
+}
+.page-header h2 a,
+h2.item-title a,
+div.categories-list h3 a,
+div.newsfeed h2 a,
+div.newsfeed-category h2 a {
+  color: #444 !important;
+}
+.moduletable .custom h3,
+div[class^="moduletable-"] div[class^="custom-"] h3,
+div[class^="moduletable-"] div[class*=" custom-"] h3,
+div[class*=" moduletable-"] div[class^="custom-"] h3,
+div[class*=" moduletable-"] div[class*=" custom-"] h3 {
+  color: inherit;
+}
+
+/* icons */
+
+.moduletable h3 [class^="fa fa-"],
+.moduletable h3 [class*=" fa fa-"] {
+  background-color: #E07481;
+  color: #fff;
+}
+
+/*/
+///
+///  hikashop
+///
+/*/
+
+div.hikashop_container .hikashop_category_name a,
+div.hikashop_subcontainer span.hikashop_product_name a {
+  color: #444 !important;
+}
+div.hikashop_container .hikashop_category_name a:hover,
+div.hikashop_container .hikashop_category_name a:focus,
+div.hikashop_subcontainer span.hikashop_product_name a:hover,
+div.hikashop_subcontainer span.hikashop_product_name a:focus {
+  color: #E07481 !important;
+}
+.hikashop_product_characteristics_table a {
+  color: #444 !important;
+}
+
+/*//////////////////////////////////////////////////////////////////////////////
+
+2.6. buttons
+
+//////////////////////////////////////////////////////////////////////////////*/
+
+/*/
+///
+///  default
+///
+/*/
+
+#fav-container .btn,
+.pager .next a,
+.pager .previous a {
+  color: #FFF !important;
+  background-color: #E07481 !important;
+  border: 2px solid transparent !important;
+}
+#fav-container .btn:hover,
+#fav-container .btn:focus {
+  color: #fff !important;
+  background-color: transparent !important;
+  border: 2px solid #E07481 !important;
+  box-shadow: none;
+}
+.pager .next a:hover,
+.pager .previous a:hover,
+.pager .next a:focus,
+.pager .previous a:focus {
+  color: #333 !important;
+  background-color: transparent !important;
+  border: 2px solid #E07481 !important;
+  box-shadow: none;
+}
+
+/*/
+///
+///  primary
+///
+/*/
+
+#fav-container .btn-primary {
+  color: #FFF !important;
+  background-color: #E07481 !important;
+  border: 2px solid transparent !important;
+  background-image: none;
+}
+#fav-container .btn-primary:hover,
+#fav-container .btn-primary:focus {
+  color: #FFF !important;
+  background-color: #222 !important;
+  border: 2px solid transparent !important;
+}
+
+/*/
+///
+///  joomla
+///
+/*/
+
+#fav-container .btn-group .btn.dropdown-toggle:hover,
+#fav-container .btn-group .btn.dropdown-toggle:focus {
+  color: #FFF !important;
+  border: 2px solid #E07481 !important;
+  background-color: #E07481 !important;
+}
+.pull-right > .dropdown-menu li a {
+  color: #333 !important;
+}
+.pull-right > .dropdown-menu li a:hover,
+.pull-right > .dropdown-menu li a:focus {
+  color: #E07481 !important;
+}
+#fav-container .moduletablefavstyle .fav-search a.btn.dropdown-toggle:hover,
+#fav-container .moduletablefavstyle .fav-search a.btn.dropdown-toggle:focus,
+#fav-container .moduletable.favstyle .fav-search a.btn.dropdown-toggle:hover,
+#fav-container .moduletable.favstyle .fav-search a.btn.dropdown-toggle:focus,
+#fav-container .moduletablefavstyle .fav-search a.btn.dropdown-toggle:hover i,
+#fav-container .moduletable.favstyle .fav-search a.btn.dropdown-toggle:focus i,
+#fav-container .moduletablefavstyle .fav-search a.dropdown-toggle i,
+#fav-container .moduletable.favstyle .fav-search a.dropdown-toggle i {
+  color: #FFF !important;
+  background-color: #E07481 !important;
+}
+
+/*/
+///
+///  hikashop
+///
+/*/
+
+.hikashop_cart_input_button,
+a.hikashop_cart_button,
+.hikashop_categories_listing_main .btn {
+  color: #FFF;
+  background-color: #E07481 !important;
+  border: 2px solid transparent;
+}
+#fav-containerwrap .hikashop_product_stock .btn.button.hikashop_cart_input_button:hover,
+#fav-containerwrap .hikashop_product_stock .btn.button.hikashop_cart_input_button:focus,
+#fav-containerwrap .hikashop_product_stock a.hikashop_cart_button:hover,
+#fav-containerwrap .hikashop_product_stock a.hikashop_cart_button:focus,
+#fav-containerwrap .hikashop_module .hikashop_cart_input_button:hover,
+#fav-containerwrap .hikashop_module .hikashop_cart_input_button:focus,
+#fav-containerwrap .hikashop_module a.hikashop_cart_button:hover,
+#fav-containerwrap .hikashop_module a.hikashop_cart_button:focus,
+#fav-containerwrap .hikashop_cart_input_button:hover,
+#fav-containerwrap .hikashop_cart_input_button:focus,
+#fav-containerwrap a.hikashop_cart_button:hover,
+#fav-containerwrap a.hikashop_cart_button:focus {
+  color: #333 !important;
+  background-color: transparent !important;
+  border: 2px solid #E07481 !important;
+  box-shadow: none !important;
+  text-shadow: none;
+}
+.hikashop_categories_listing_main .btn {
+  color: #fff;
+  background-color: #333;
+}
+.hikashop_categories_listing_main .btn:hover,
+.hikashop_categories_listing_main .btn:focus  {
+  box-shadow: none !important;
+}
+#hikashop_checkout_login #form-login-submit .btn-primary,
+.hikashop_cart_input_button,
+a.hikashop_cart_button,
+.hikashop_product_stock a.hikashop_cart_button {
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
+}
+#hikashop_checkout_login #form-login-submit .btn-primary:hover,
+#hikashop_checkout_login #form-login-submit .btn-primary:focus,
+#hikashop_checkout_login_left_part input.btn:hover,
+#hikashop_checkout_login_left_part input.btn:focus,
+#hikashop_checkout_login_right_part input.btn:hover,
+#hikashop_checkout_login_right_part input.btn:focus {
+  box-shadow: none !important;
+}
+.btn-group > .btn:first-child {
+  margin-left: 0px;
+  border-bottom-left-radius: 0px;
+  border-top-left-radius: 0px;
+}
+.btn-group > .btn:last-child, .btn-group > .dropdown-toggle {
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 0px;
+}
+
+/*//////////////////////////////////////////////////////////////////////////////
+///
+///  bootstrap buttons
+///
+//////////////////////////////////////////////////////////////////////////////*/
+
+/* info */
+#fav-container .btn-info,
+#fav-container .btn-info:link,
+#fav-container .btn-info:visited {
+  color: #ffffff !important;
+  background-color: #5bc0de !important;
+  background-image: none;
+  border: 2px solid transparent !important;
+}
+#fav-container .btn-info:hover,
+#fav-container .btn-info:focus,
+#fav-container .btn-info:active,
+#fav-container .btn-info.active {
+  color: #444 !important;
+  background-color: rgba(255,255,255,0.4) !important;
+  border: 2px solid #5bc0de !important;
+}
+#fav-container .btn-info.disabled,
+#fav-container .btn-info[disabled],
+#fav-container fieldset[disabled] .btn-info,
+#fav-container .btn-info.disabled:hover,
+#fav-container .btn-info[disabled]:hover,
+#fav-container fieldset[disabled] .btn-info:hover,
+#fav-container .btn-info.disabled:focus,
+#fav-container .btn-info[disabled]:focus,
+#fav-container fieldset[disabled] .btn-info:focus,
+#fav-container .btn-info.disabled:active,
+#fav-container .btn-info[disabled]:active,
+#fav-container fieldset[disabled] .btn-info:active,
+#fav-container .btn-info.disabled.active,
+#fav-container .btn-info[disabled].active,
+#fav-container fieldset[disabled] .btn-info.active {
+  background-color: #5bc0de;
+  border-color: #5bc0de;
+}
+
+/* success */
+#fav-container .btn-success,
+#fav-container .btn-success:link,
+#fav-container .btn-success:visited {
+  color: #ffffff !important;
+  background-color: #5cb85c !important;
+  background-image: none;
+  border: 2px solid transparent !important;
+}
+#fav-container .btn-success:hover,
+#fav-container .btn-success:focus,
+#fav-container .btn-success:active,
+#fav-container .btn-success.active {
+  color: #444 !important;
+  background-color: rgba(255,255,255,0.4) !important;
+  border: 2px solid #5cb85c !important;
+}
+#fav-container .btn-success.disabled,
+#fav-container .btn-success[disabled],
+#fav-container fieldset[disabled] .btn-success,
+#fav-container .btn-success.disabled:hover,
+#fav-container .btn-success[disabled]:hover,
+#fav-container fieldset[disabled] .btn-success:hover,
+#fav-container .btn-success.disabled:focus,
+#fav-container .btn-success[disabled]:focus,
+#fav-container fieldset[disabled] .btn-success:focus,
+#fav-container .btn-success.disabled:active,
+#fav-container .btn-success[disabled]:active,
+#fav-container fieldset[disabled] .btn-success:active,
+#fav-container .btn-success.disabled.active,
+#fav-container .btn-success[disabled].active,
+#fav-container fieldset[disabled] .btn-success.active {
+  background-color: #5cb85c !important;
+  border-color: #5cb85c !important;
+}
+
+/* warning */
+#fav-container .btn-warning,
+#fav-container .btn-warning:link,
+#fav-container .btn-warning:visited {
+  color: #ffffff !important;
+  background-color: #f0ad4e !important;
+  background-image: none;
+  border: 2px solid transparent !important;
+}
+#fav-container .btn-warning:hover,
+#fav-container .btn-warning:focus,
+#fav-container .btn-warning:active,
+#fav-container .btn-warning.active {
+  color: #444 !important;
+  background-color: rgba(255,255,255,0.4) !important;
+  border: 2px solid #f0ad4e !important;
+}
+#fav-container .btn-warning.disabled,
+#fav-container .btn-warning[disabled],
+#fav-container fieldset[disabled] .btn-warning,
+#fav-container .btn-warning.disabled:hover,
+#fav-container .btn-warning[disabled]:hover,
+#fav-container fieldset[disabled] .btn-warning:hover,
+#fav-container .btn-warning.disabled:focus,
+#fav-container .btn-warning[disabled]:focus,
+#fav-container fieldset[disabled] .btn-warning:focus,
+#fav-container .btn-warning.disabled:active,
+#fav-container .btn-warning[disabled]:active,
+#fav-container fieldset[disabled] .btn-warning:active,
+#fav-container .btn-warning.disabled.active,
+#fav-container .btn-warning[disabled].active,
+#fav-container fieldset[disabled] .btn-warning.active {
+  background-color: #f0ad4e !important;
+  border-color: #f0ad4e !important;
+}
+
+/* danger */
+#fav-container .btn-danger,
+#fav-container .btn-danger:link,
+#fav-container .btn-danger:visited {
+  color: #ffffff !important;
+  background-color: #d9534f !important;
+  background-image: none;
+  border: 2px solid transparent !important;
+}
+#fav-container .btn-danger:hover,
+#fav-container .btn-danger:focus,
+#fav-container .btn-danger:active,
+#fav-container .btn-danger.active {
+  color: #444 !important;
+  background-color: rgba(255,255,255,0.4) !important;
+  border: 2px solid #d9534f !important;
+}
+#fav-container .btn-danger.disabled,
+#fav-container .btn-danger[disabled],
+#fav-container fieldset[disabled] .btn-danger,
+#fav-container .btn-danger.disabled:hover,
+#fav-container .btn-danger[disabled]:hover,
+#fav-container fieldset[disabled] .btn-danger:hover,
+#fav-container .btn-danger.disabled:focus,
+#fav-container .btn-danger[disabled]:focus,
+#fav-container fieldset[disabled] .btn-danger:focus,
+#fav-container .btn-danger.disabled:active,
+#fav-container .btn-danger[disabled]:active,
+#fav-container fieldset[disabled] .btn-danger:active,
+#fav-container .btn-danger.disabled.active,
+#fav-container .btn-danger[disabled].active,
+#fav-container fieldset[disabled] .btn-danger.active {
+  background-color: #d9534f !important;
+  border-color: #d9534f !important;
+}
+
+/* inverse */
+#fav-container .btn-inverse,
+#fav-container .btn-inverse:link,
+#fav-container .btn-inverse:visited {
+  color: #ffffff !important;
+  background-color: #363636 !important;
+  background-image: none;
+  border: 2px solid transparent !important;
+}
+#fav-container .btn-inverse:hover,
+#fav-container .btn-inverse:focus,
+#fav-container .btn-inverse:active,
+#fav-container .btn-inverse.active {
+  color: #444 !important;
+  background-color: rgba(255,255,255,0.4) !important;
+  border: 2px solid #363636 !important;
+}
+
+/*//////////////////////////////////////////////////////////////////////////////
+///
+///  pagination
+///
+//////////////////////////////////////////////////////////////////////////////*/
+
+.pagination ul li a,
+.pagination ul > .disabled > a,
+.pagination ul > .active > a,
+.pagination ul > .disabled > a:hover,
+.pagination ul > .disabled > a:focus,
+.pagination ul > .active > a:hover,
+.pagination ul > .active > a:focus,
+.hikashop_products_pagination .list-footer .pagenav,
+.hikashop_subcategories_pagination .list-footer .pagenav {
+  color: #FFF !important;
+  background-color: #E07481;
+  border: 2px solid transparent;
+}
+.pagination ul li a:hover,
+.pagination ul li.active a,
+.pagination ul li.active a:hover,
+.pagination ul li.active a:focus,
+.hikashop_products_pagination .list-footer span.pagenav,
+.hikashop_subcategories_pagination .list-footer span.pagenav,
+.hikashop_products_pagination .list-footer a.pagenav:hover,
+.hikashop_products_pagination .list-footer a.pagenav:focus,
+.hikashop_subcategories_pagination .list-footer a.pagenav:hover,
+.hikashop_subcategories_pagination .list-footer a.pagenav:focus,
+.hikashop_module .hikashop_products_pagination .list-footer span.pagenav,
+.hikashop_module .hikashop_subcategories_pagination .list-footer span.pagenav,
+.hikashop_module .hikashop_products_pagination .list-footer a.pagenav:hover,
+.hikashop_module .hikashop_products_pagination .list-footer a.pagenav:focus,
+.hikashop_module .hikashop_subcategories_pagination .list-footer a.pagenav:hover,
+.hikashop_module .hikashop_subcategories_pagination .list-footer a.pagenav:focus {
+  color: #333 !important;
+  background-color: #fff;
+  border: 2px solid #E07481;
+  box-shadow: none;
+}
+.pagination ul > .disabled > a,
+.pagination ul > .disabled > a:hover,
+.pagination ul > .disabled > a:focus {
+  border: 2px solid transparent !important;
+}
+
+/*//////////////////////////////////////////////////////////////////////////////
+///
+///  buttons style
+///
+//////////////////////////////////////////////////////////////////////////////*/
+
+/*/
+///
+///  default
+///
+/*/
+
+/* light */
+#fav-intro .btn:hover,
+#fav-intro .btn:focus,
+#fav-prime .btn:hover,
+#fav-prime .btn:focus,
+#fav-screen .btn:hover,
+#fav-screen .btn:focus,
+#fav-maintop .btn:hover,
+#fav-maintop .btn:focus,
+#fav-main .btn:hover,
+#fav-main .btn:focus,
+#fav-mainbottom .btn:hover,
+#fav-mainbottom .btn:focus,
+#fav-base .btn:hover,
+#fav-base .btn:focus,
+#fav-debug .btn:hover,
+#fav-debug .btn:focus {
+  color: #333 !important;
+}
+.moduletable-sfx13 .btn:hover,
+.moduletable-sfx13 .btn:focus,
+.moduletable-sfx14 .btn:hover,
+.moduletable-sfx14 .btn:focus,
+.moduletable-sfx15 .btn:hover,
+.moduletable-sfx15 .btn:focus,
+.moduletable-sfx16 .btn:hover,
+.moduletable-sfx16 .btn:focus,
+.moduletable-sfx17 .btn:hover,
+.moduletable-sfx17 .btn:focus,
+.moduletable-sfx18 .btn:hover,
+.moduletable-sfx18 .btn:focus,
+.moduletable-sfx19 .btn:hover,
+.moduletable-sfx19 .btn:focus,
+.moduletable-sfx20 .btn:hover,
+.moduletable-sfx20 .btn:focus {
+  color: #333 !important;
+}
+
+/* color */
+#fav-advert .btn,
+#fav-lead .btn,
+#fav-focus .btn,
+#fav-block .btn,
+.moduletable-sfx21 .btn,
+.moduletable-sfx22 .btn,
+.moduletable-sfx23 .btn,
+.moduletable-sfx24 .btn {
+  background-color: rgba(17, 17, 17, 0.47) !important;
+  color: #FFF !important;
+  border: 2px solid transparent !important;
+}
+#fav-advert .btn:hover,
+#fav-advert .btn:focus,
+#fav-lead .btn:hover,
+#fav-lead .btn:focus,
+#fav-focus .btn:hover,
+#fav-focus .btn:focus,
+#fav-block .btn:hover,
+#fav-block .btn:focus,
+.moduletable-sfx21 .btn:hover,
+.moduletable-sfx21 .btn:focus,
+.moduletable-sfx22 .btn:hover,
+.moduletable-sfx22 .btn:focus,
+.moduletable-sfx23 .btn:hover,
+.moduletable-sfx23 .btn:focus,
+.moduletable-sfx24 .btn:hover,
+.moduletable-sfx24 .btn:focus {
+  background-color: transparent !important;
+  color: #FFF !important;
+  border: 2px solid rgba(17, 17, 17, 0.47) !important;
+}
+
+/*/
+///
+///  primary
+///
+/*/
+
+/* light */
+#fav-intro .btn-primary:hover,
+#fav-intro .btn-primary:focus,
+#fav-prime .btn-primary:hover,
+#fav-prime .btn-primary:focus,
+#fav-screen .btn-primary:hover,
+#fav-screen .btn-primary:focus,
+#fav-maintop .btn-primary:hover,
+#fav-maintop .btn-primary:focus,
+#fav-main .btn-primary:hover,
+#fav-main .btn-primary:focus,
+#fav-mainbottom .btn-primary:hover,
+#fav-mainbottom .btn-primary:focus,
+#fav-base .btn-primary:hover,
+#fav-base .btn-primary:focus,
+#fav-debug .btn-primary:hover,
+#fav-debug .btn-primary:focus {
+  color: #fff !important;
+}
+.moduletable-sfx13 .btn-primary:hover,
+.moduletable-sfx13 .btn-primary:focus,
+.moduletable-sfx14 .btn-primary:hover,
+.moduletable-sfx14 .btn-primary:focus,
+.moduletable-sfx15 .btn-primary:hover,
+.moduletable-sfx15 .btn-primary:focus,
+.moduletable-sfx16 .btn-primary:hover,
+.moduletable-sfx16 .btn-primary:focus,
+.moduletable-sfx17 .btn-primary:hover,
+.moduletable-sfx17 .btn-primary:focus,
+.moduletable-sfx18 .btn-primary:hover,
+.moduletable-sfx18 .btn-primary:focus,
+.moduletable-sfx19 .btn-primary:hover,
+.moduletable-sfx19 .btn-primary:focus,
+.moduletable-sfx20 .btn-primary:hover,
+.moduletable-sfx20 .btn-primary:focus {
+  color: #fff !important;
+}
+
+/* image */
+#fav-topbar .btn-primary:hover,
+#fav-topbar .btn-primary:focus,
+#fav-promo .btn-primary:hover,
+#fav-promo .btn-primary:focus,
+#fav-feature .btn-primary:hover,
+#fav-feature .btn-primary:focus,
+#fav-top .btn-primary:hover,
+#fav-top .btn-primary:focus,
+#fav-bottom .btn-primary:hover,
+#fav-bottom .btn-primary:focus,
+#fav-user .btn-primary:hover,
+#fav-user .btn-primary:focus,
+#fav-copyright .btn-primary:hover,
+#fav-copyright .btn-primary:focus {
+  background-color: rgba(17, 17, 17, 0.67) !important;
+}
+
+/* dark and color*/
+#fav-showcase .btn-primary:hover,
+#fav-showcase .btn-primary:focus,
+#fav-portfolio .btn-primary:hover,
+#fav-portfolio .btn-primary:focus,
+#fav-note .btn-primary:hover,
+#fav-note .btn-primary:focus,
+#fav-footer .btn-primary:hover,
+#fav-footer .btn-primary:focus,
+#fav-advert .btn-primary:hover,
+#fav-advert .btn-primary:focus,
+#fav-lead .btn-primary:hover,
+#fav-lead .btn-primary:focus,
+#fav-focus .btn-primary:hover,
+#fav-focus .btn-primary:focus,
+#fav-block .btn-primary:hover,
+#fav-block .btn-primary:focus {
+  color: #333 !important;
+  background-color: #fff !important;
+  border: 2px solid transparent !important;
+}
+.moduletable-sfx21 .btn-primary:hover,
+.moduletable-sfx21 .btn-primary:focus,
+.moduletable-sfx22 .btn-primary:hover,
+.moduletable-sfx22 .btn-primary:focus,
+.moduletable-sfx23 .btn-primary:hover,
+.moduletable-sfx23 .btn-primary:focus,
+.moduletable-sfx24 .btn-primary:hover,
+.moduletable-sfx24 .btn-primary:focus,
+.moduletable-sfx33 .btn-primary:hover,
+.moduletable-sfx33 .btn-primary:focus,
+.moduletable-sfx34 .btn-primary:hover,
+.moduletable-sfx34 .btn-primary:focus,
+.moduletable-sfx35 .btn-primary:hover,
+.moduletable-sfx35 .btn-primary:focus,
+.moduletable-sfx36 .btn-primary:hover,
+.moduletable-sfx36 .btn-primary:focus {
+  color: #333 !important;
+  background-color: #fff !important;
+  border: 2px solid transparent !important;
+}
+
+/*//////////////////////////////////////////////////////////////////////////////
+
+2.7. variations
+
+//////////////////////////////////////////////////////////////////////////////*/
+
+/*//////////////////////////////////////////////////////////////////////////////
+///
+///  border
+///
+//////////////////////////////////////////////////////////////////////////////*/
+
+.moduletable-sfx17,
+.moduletable-sfx18,
+.moduletable-sfx19,
+.moduletable-sfx20,
+.moduletable-sfx29,
+.moduletable-sfx30,
+.moduletable-sfx31,
+.moduletable-sfx32,
+.moduletable-sfx2 h3,
+.moduletable-sfx4 h3,
+.moduletable-sfx6 h3,
+.moduletable-sfx8 h3,
+.moduletable-sfx10 h3,
+.moduletable-sfx12 h3,
+.moduletable-sfx14 h3,
+.moduletable-sfx16 h3,
+.moduletable-sfx18 h3,
+.moduletable-sfx20 h3,
+.moduletable-sfx26 h3,
+.moduletable-sfx28 h3,
+.moduletable-sfx30 h3,
+.moduletable-sfx32 h3,
+.moduletable-sfx34 h3,
+.moduletable-sfx36 h3 {
+  border-color: #E07481;
+  border-width: 2px;
+}
+
+/*//////////////////////////////////////////////////////////////////////////////
+///
+///  icons
+///
+//////////////////////////////////////////////////////////////////////////////*/
+
+.moduletable h3 [class^="fa fa-"],
+.moduletable h3 [class*=" fa fa-"],
+div[class^="moduletable-"] h3 [class^="fa fa-"],
+div[class^="moduletable-"] h3 [class*=" fa fa-"],
+div[class*=" moduletable-"] h3 [class^="fa fa-"],
+div[class*=" moduletable-"] h3 [class*=" fa fa-"] {
+  border-color: #E07481;
+  border-width: 2px;
+  color: inherit;
+}
+.moduletable-sfx3 h3 i,
+.moduletable-sfx4 h3 i,
+.moduletable-sfx7 h3 i,
+.moduletable-sfx8 h3 i,
+.moduletable-sfx11 h3 i,
+.moduletable-sfx12 h3 i,
+.moduletable-sfx15 h3 i,
+.moduletable-sfx16 h3 i,
+.moduletable-sfx19 h3 i,
+.moduletable-sfx20 h3 i,
+.moduletable-sfx27 h3 i,
+.moduletable-sfx28 h3 i,
+.moduletable-sfx31 h3 i,
+.moduletable-sfx32 h3 i,
+.moduletable-sfx35 h3 i,
+.moduletable-sfx36 h3 i {
+  background-color: #E07481;
+  color: #FFF !important;
+}
+.moduletable-sfx23 h3 i,
+.moduletable-sfx24 h3 i {
+  background-color: #FFF;
+  color: #E07481 !important;
+}
+.moduletable-sfx13 h3 i,
+.moduletable-sfx14 h3 i,
+.moduletable-sfx17 h3 i,
+.moduletable-sfx18 h3 i {
+  color: #E07481 !important;
+  background-color: transparent;
+}
+
+/*//////////////////////////////////////////////////////////////////////////////
+///
+///  background
+///
+//////////////////////////////////////////////////////////////////////////////*/
+
+.moduletable-sfx21,
+.moduletable-sfx22,
+.moduletable-sfx23,
+.moduletable-sfx24 {
+  background-color: #E07481;
+}
+
+/*//////////////////////////////////////////////////////////////////////////////
+///
+///  links
+///
+//////////////////////////////////////////////////////////////////////////////*/
+
+.moduletable-sfx1 a,
+.moduletable-sfx2 a,
+.moduletable-sfx3 a,
+.moduletable-sfx4 a,
+.moduletable-sfx5 a,
+.moduletable-sfx6 a,
+.moduletable-sfx7 a,
+.moduletable-sfx8 a {
+  color: #E07481;
+}
+.moduletable-sfx1 a:hover,
+.moduletable-sfx1 a:focus,
+.moduletable-sfx2 a:hover,
+.moduletable-sfx2 a:focus,
+.moduletable-sfx3 a:hover,
+.moduletable-sfx3 a:focus,
+.moduletable-sfx4 a:hover,
+.moduletable-sfx4 a:focus,
+.moduletable-sfx5 a:hover,
+.moduletable-sfx5 a:focus,
+.moduletable-sfx6 a:hover,
+.moduletable-sfx6 a:focus,
+.moduletable-sfx7 a:hover,
+.moduletable-sfx7 a:focus,
+.moduletable-sfx8 a:hover,
+.moduletable-sfx8 a:focus {
+  color: #444;
+}
+.moduletable-sfx13 a,
+.moduletable-sfx14 a,
+.moduletable-sfx15 a,
+.moduletable-sfx16 a,
+.moduletable-sfx17 a,
+.moduletable-sfx18 a,
+.moduletable-sfx19 a,
+.moduletable-sfx20 a,
+.moduletable-sfx25 a,
+.moduletable-sfx26 a,
+.moduletable-sfx27 a,
+.moduletable-sfx28 a,
+.moduletable-sfx29 a,
+.moduletable-sfx30 a,
+.moduletable-sfx31 a,
+.moduletable-sfx32 a,
+.moduletable-sfx33 a,
+.moduletable-sfx34 a,
+.moduletable-sfx35 a,
+.moduletable-sfx36 a {
+  color: #E07481;
+}
+.moduletable-sfx13 a:hover,
+.moduletable-sfx13 a:focus,
+.moduletable-sfx14 a:hover,
+.moduletable-sfx14 a:focus,
+.moduletable-sfx15 a:hover,
+.moduletable-sfx15 a:focus,
+.moduletable-sfx16 a:hover,
+.moduletable-sfx16 a:focus,
+.moduletable-sfx17 a:hover,
+.moduletable-sfx17 a:focus,
+.moduletable-sfx18 a:hover,
+.moduletable-sfx18 a:focus,
+.moduletable-sfx19 a:hover,
+.moduletable-sfx19 a:focus,
+.moduletable-sfx20 a:hover,
+.moduletable-sfx20 a:focus {
+  color: #444;
+}
+.moduletable-sfx21 a:hover,
+.moduletable-sfx21 a:focus,
+.moduletable-sfx22 a:hover,
+.moduletable-sfx22 a:focus,
+.moduletable-sfx23 a:hover,
+.moduletable-sfx23 a:focus,
+.moduletable-sfx24 a:hover,
+.moduletable-sfx24 a:focus,
+.moduletable-sfx25 a:hover,
+.moduletable-sfx25 a:focus,
+.moduletable-sfx26 a:hover,
+.moduletable-sfx26 a:focus,
+.moduletable-sfx27 a:hover,
+.moduletable-sfx27 a:focus,
+.moduletable-sfx28 a:hover,
+.moduletable-sfx28 a:focus,
+.moduletable-sfx29 a:hover,
+.moduletable-sfx29 a:focus {
+  color: #fff;
+}
+.moduletable-sfx30 a:hover,
+.moduletable-sfx30 a:focus,
+.moduletable-sfx31 a:hover,
+.moduletable-sfx31 a:focus,
+.moduletable-sfx32 a:hover,
+.moduletable-sfx32 a:focus,
+.moduletable-sfx33 a:hover,
+.moduletable-sfx33 a:focus,
+.moduletable-sfx34 a:hover,
+.moduletable-sfx34 a:focus,
+.moduletable-sfx35 a:hover,
+.moduletable-sfx35 a:focus,
+.moduletable-sfx36 a:hover,
+.moduletable-sfx36 a:focus {
+  color: #fff;
+}
+
+/*//////////////////////////////////////////////////////////////////////////////
+
+2.8. custom pages
+
+//////////////////////////////////////////////////////////////////////////////*/
+
+/*//////////////////////////////////////////////////////////////////////////////
+///
+///  main navigation styles demo
+///
+//////////////////////////////////////////////////////////////////////////////*/
+
+.favnav-styles-demo .favnav li.active a,
+.favnav-styles-demo .favnav li a:hover,
+.favnav-styles-demo .favnav li a:focus {
+  color: #E07481;
+  background-color: transparent;
+}
+.favnav-styles-demo .favnav .navigation li a[class^="fa-"]:before,
+.favnav-styles-demo .favnav .navigation li a[class*=" fa-"]:before {
+  color: #E07481;
+}
+.favnav-styles-demo .favnav.navstyle-1 .navigation ul.nav > li.active > a,
+.favnav-styles-demo .favnav.navstyle-1 .navigation ul.nav > li > a:hover,
+.favnav-styles-demo .favnav.navstyle-1 .navigation ul.nav > li > a:focus,
+.favnav-styles-demo .favnav.navstyle-1 .navigation ul.nav > li.active > .nav-header,
+.favnav-styles-demo .favnav.navstyle-1 .navigation ul.nav > li > .nav-header:hover,
+.favnav-styles-demo .favnav.navstyle-1 .navigation ul.nav > li > .nav-header:focus {
+  color: #E07481 !important;
+}
+
+/*//////////////////////////////////////////////////////////////////////////////
+
+2.9. typography
+
+//////////////////////////////////////////////////////////////////////////////*/
+
+/*/
+///
+///  images
+///
+/*/
+
+.img-polaroid,
+.item-image img,
+.img-polaroid-clear,
+.img-polaroid-dark,
+.img-polaroid-color {
+  padding: 4px;
+  border: 1px solid transparent;
+}
+.img-polaroid,
+.item-image img,
+.fav-tags-img {
+  background-color: #DDD;
+}
+.img-polaroid-dark {
+  background-color: #FFF;
+}
+.img-polaroid-clear {
+  background-color: rgba(17, 17, 17, 0.67);
+}
+
+/*/
+///
+///  bootstrap elements
+///
+/*/
+
+/* blockquote */
+
+blockquote {
+  border-color: #E07481;
+}
+blockquote.blockquote-dark {
+  border-color: #E07481;
+}
+
+/* pre, code */
+
+pre, code {
+  border: 1px solid #E2E2E2;
+  background-color: #F2F2F2;
+}
+
+/* labels */
+
+.muted {
+  color: #999 !important;
+}
+.text-warning {
+  color: #C09853 !important;
+}
+.text-error {
+  color: #B94A48 !important;
+}
+.text-info {
+  color: #3A87AD !important;
+}
+.text-success {
+  color: #468847 !important;
+}
+
+/*/
+///
+///  lists
+///
+/*/
+
+ul.list-square li:before {
+  background-color: #E07481;
+  color: #fff;
+}
+ol.list-square li:before {
+  color: #fff;
+  background: none repeat scroll 0% 0% #E07481;
+}
+ul.list-circle li:before {
+  background-color: #E07481;
+  color: #fff;
+}
+ol.list-circle li:before {
+  color: #fff;
+  background: none repeat scroll 0% 0% #E07481;
+}
+
+/*//////////////////////////////////////////////////////////////////////////////
+
+2.10. joomla
+
+//////////////////////////////////////////////////////////////////////////////*/
+
+/*/
+///
+///  article dropdown
+///
+/*/
+
+ul.dropdown-menu a:hover {
+  color: #E07481;
+}
+.btn-group.open .btn.dropdown-toggle {
+  background-color: #E07481;
+}
+
+/*/
+///
+///  tags
+///
+/*/
+
+#fav-container div.tag-category ul.thumbnails h3 a,
+#fav-container .label-info[href],
+#fav-container .badge-info[href] {
+  background-color: #E07481 !important;
+  color: #fff !important;
+}
+#fav-container div.tag-category ul.thumbnails h3 a:hover,
+#fav-container div.tag-category ul.thumbnails h3 a:focus,
+#fav-container .label-info[href]:hover,
+#fav-container .label-info[href]:focus,
+#fav-container .badge-info[href]:hover,
+#fav-container .badge-info[href]:focus {
+  background-color: #222 !important;
+  color: #fff !important;
+}
+ul.tags li a {
+  color: #E07481;
+}
+
+/*/
+///
+///  badge
+///
+/*/
+
+.badge-info {
+  background-color: #E07481;
+}
+
+/*/
+///
+///  language
+///
+/*/
+
+#fav-container #fav-language a.btn.dropdown-toggle,
+#fav-container #fav-language-demo a.btn.dropdown-toggle {
+  color: #FFF !important;
+  border: 2px solid transparent !important;
+}
+#fav-container #fav-language a.btn.dropdown-toggle:hover,
+#fav-container #fav-language-demo a.btn.dropdown-toggle:hover,
+#fav-container #fav-language a.btn.dropdown-toggle:focus,
+#fav-container #fav-language-demo a.btn.dropdown-toggle:focus {
+  background-color: transparent !important;
+  color: #FFF !important;
+  border: 2px solid #E07481 !important;
+}
+#fav-container #fav-language a.btn.dropdown-toggle span.caret,
+#fav-container #fav-language-demo a.btn.dropdown-toggle span.caret {
+  border-top: 4px solid #FFF;
+}
+#fav-container #fav-language a.btn.dropdown-toggle:hover span.caret,
+#fav-container #fav-language-demo a.btn.dropdown-toggle:hover span.caret,
+#fav-container #fav-language a.btn.dropdown-toggle:focus span.caret,
+#fav-container #fav-language-demo a.btn.dropdown-toggle:focus span.caret {
+  border-top: 4px solid #FFF;
+}
+#fav-container #fav-language ul.dropdown-menu li a:hover,
+#fav-container #fav-language-demo ul.dropdown-menu li a:hover,
+#fav-container #fav-language ul.dropdown-menu li a:focus,
+#fav-container #fav-language-demo ul.dropdown-menu li a:focus {
+  color: #E07481;
+}
+
+/* /// mobile */
+
+@media (max-width: 768px) {
+
+  #fav-container #fav-language a.btn.dropdown-toggle,
+  #fav-container #fav-language-demo a.btn.dropdown-toggle {
+    color: #444 !important;
+  }
+  #fav-container #fav-language a.btn.dropdown-toggle:hover,
+  #fav-container #fav-language-demo a.btn.dropdown-toggle:hover,
+  #fav-container #fav-language a.btn.dropdown-toggle:focus,
+  #fav-container #fav-language-demo a.btn.dropdown-toggle:focus {
+    background-color: transparent !important;
+    color: #444 !important;
+    border: 2px solid transparent !important;
+  }
+  #fav-container #fav-language,
+  #fav-container #fav-language-demo {
+    border-bottom: 1px solid #DDD !important;
+  }
+  #fav-container #fav-language ul.dropdown-menu,
+  #fav-container #fav-language-demo ul.dropdown-menu {
+    border-top: 1px solid #DDD !important;
+  }
+  #fav-container #fav-language a.btn.dropdown-toggle span.caret,
+  #fav-container #fav-language-demo a.btn.dropdown-toggle span.caret {
+    border-top: 4px solid #444;
+  }
+  #fav-container #fav-language a.btn.dropdown-toggle:hover span.caret,
+  #fav-container #fav-language-demo a.btn.dropdown-toggle:hover span.caret,
+  #fav-container #fav-language a.btn.dropdown-toggle:focus span.caret,
+  #fav-container #fav-language-demo a.btn.dropdown-toggle:focus span.caret {
+    border-top: 4px solid #444;
+  }
+
+}
+
+/*/
+///
+///  core-supported extensions
+///
+/*/
+
+div.newsfeed h2 a:hover,
+div.newsfeed-category h2 a:hover {
+  color: #E07481;
+}
+
+/*/
+///
+///  search
+///
+/*/
+
+.moduletablefavstyle .fav-search .nav > li > a:hover {
+  background-color: #333;
+}
+.moduletablefavstyle .fav-search .nav > li > a:focus {
+  background-color: #E07481;
+  box-shadow: 0px 1px 0px rgba(255, 255, 255, 0.2) inset, 0px 1px 2px rgba(0, 0, 0, 0.05);
+}
+div.search #searchForm button.btn.hasTooltip {
+  padding: 10px 14px;
+}
+#fav-search-advanced-fields .accordion-heading a.accordion-toggle {
+  color: #FFF !important;
+  background-color: #E07481;
+  border: 2px solid transparent !important;
+  padding: 10px 18px 9px;
+}
+#fav-search-advanced-fields .accordion-heading a.accordion-toggle:hover,
+#fav-search-advanced-fields .accordion-heading a.accordion-toggle:focus {
+  color: #333 !important;
+  background-color: transparent;
+  border: 2px solid #E07481 !important;
+  box-shadow: none;
+}
+.moduletablefavstyle .fav-search a.btn.dropdown-toggle:hover,
+.moduletablefavstyle .fav-search a.btn.dropdown-toggle:focus,
+.moduletable.favstyle .fav-search a.btn.dropdown-toggle:hover,
+.moduletable.favstyle .fav-search a.btn.dropdown-toggle:focus,
+.moduletablefavstyle .fav-search a.btn.dropdown-toggle:hover i,
+.moduletable.favstyle .fav-search a.btn.dropdown-toggle:focus i,
+.moduletablefavstyle .fav-search a.dropdown-toggle i,
+.moduletable.favstyle .fav-search a.dropdown-toggle i {
+  color: #FFF !important;
+  background-color: #E07481;
+}
+
+@media (max-width: 768px) {
+
+  .moduletablefavstyle.pull-left .fav-search a.btn.dropdown-toggle i {
+    color: #E07481;
+  }
+  .moduletablefavstyle .fav-search a.btn.dropdown-toggle,
+  .moduletablefavstyle .fav-search a.btn.dropdown-toggle:hover,
+  .moduletablefavstyle .fav-search a.btn.dropdown-toggle:focus {
+    background-color: #E07481 !important;
+  }
+
+}
+
+/*/
+///
+///  selector
+///
+/*/
+
+.chzn-container-single a.chzn-single {
+  color: #333 !important;
+}
+
+/*/
+///
+///  list all categories
+///
+/*/
+
+div.categories-list a.btn .icon-plus:hover,
+div.categories-list a.btn .icon-plus:focus,
+div.categories-list a.btn .icon-minus:hover,
+div.categories-list a.btn .icon-minus:focus,
+div.categories-list h3.page-header.item-title a,
+div.cat-children h3.page-header.item-title a,
+div.categories-list h3.page-header.item-title a:hover .icon-plus,
+div.categories-list h3.page-header.item-title a:focus .icon-plus,
+div.cat-children h3.page-header.item-title a:hover .icon-plus,
+div.cat-children h3.page-header.item-title a:focus .icon-plus,
+div.categories-list h3.page-header.item-title a:hover .icon-minus,
+div.categories-list h3.page-header.item-title a:focus .icon-minus,
+div.cat-children h3.page-header.item-title a:hover .icon-minus,
+div.cat-children h3.page-header.item-title a:focus .icon-minus {
+  color: #333 !important;
+}
+div.categories-list h3.page-header.item-title a:hover,
+div.categories-list h3.page-header.item-title a:focus,
+div.cat-children h3.page-header.item-title a:hover,
+div.cat-children h3.page-header.item-title a:focus {
+  color: #E07481 !important;
+}
+
+/*/
+///
+///  articles most read
+///
+/*/
+
+ul.mostread li a::before,
+ul[class^="mostread-"] li a::before,
+ul[class*=" mostread-"] li a::before {
+  color: #999;
+}
+
+/*/
+///
+///  user profile
+///
+/*/
+
+#member-profile button.btn.btn-primary.validate,
+#member-profile a.btn {
+  color: #fff;
+  background-color: #E07481;
+}
+
+/*//////////////////////////////////////////////////////////////////////////////
+
+2.11. hikashop
+
+//////////////////////////////////////////////////////////////////////////////*/
+
+/*/
+///
+///  price
+///
+/*/
+
+span.hikashop_product_price,
+.hikashop_checkout_cart_additional,
+.hikashop_checkout_cart_payment,
+.hikashop_checkout_cart_coupon,
+.hikashop_checkout_cart_additional,
+span.hikashop_checkout_cart_final_total {
+  color: #E07481;
+}
+
+/*/
+///
+///  discounts
+///
+/*/
+
+.hikashop_product_discount {
+  background-color: #E07481;
+  color: #fff;
+}
+
+/*/
+///
+///  categories on 1 level
+///
+/*/
+
+.hikashop_subcategories h4 a:hover,
+.hikashop_subcategories h4 a:focus {
+  color: #E07481;
+}
+
+/*/
+///
+///  hikashop modules
+///
+/*/
+
+.hikashop_module a:hover,
+.hikashop_module a:focus {
+  color: #E07481 !important;
+}
+
+/*/
+///
+///  store cart
+///
+/*/
+
+#hikashop_cart a:hover {
+  color: #E07481;
+}
+#hikashop_cart th {
+  border-bottom: 1px solid #E07481;
+}
+#hikashop_cart .hikashop_cart_module_product_name_value a {
+  color: #444;
+}
+#hikashop_cart .hikashop_cart_module_product_name_value a:hover,
+#hikashop_cart .hikashop_cart_module_product_name_value a:focus {
+  color: #E07481;
+}
+#hikashop_cart .hikashop_cart_input_button:hover,
+#hikashop_cart .hikashop_cart_input_button:focus {
+  color: #444 !important;
+}
+span.hikashop_product_price_full {
+  color: #444;
+}
+.favcartfavstyle #hikashop_cart_module #hikashop_cart,
+.favcart.favstyle #hikashop_cart_module #hikashop_cart {
+  color: #333;
+}
+
+@media (max-width: 768px) {
+
+  #hikashop_cart a {
+    color: #444;
+  }
+  #hikashop_cart a:hover {
+    color: #E07481;
+  }
+  .favcartfavstyle.pull-right #hikashop_cart_module a.btn.dropdown-toggle i,
+  .favcart.favstyle.pull-right #hikashop_cart_module a.btn.dropdown-toggle i,
+  .favcartfavstyle.pull-left #hikashop_cart_module a.btn.dropdown-toggle i,
+  .favcart.favstyle.pull-left #hikashop_cart_module a.btn.dropdown-toggle i {
+    color: #E07481;
+  }
+  #hikashop_cart .hikashop_cart_module_product_name_value a:hover {
+    color: #E07481;
+  }
+  .favcartfavstyle.pull-right #hikashop_cart_module a.btn.dropdown-toggle:hover,
+  .favcartfavstyle.pull-right #hikashop_cart_module a.btn.dropdown-toggle:focus {
+    border-color: transparent !important;
+  }
+  .favcartfavstyle #hikashop_cart_module .dropdown-menu,
+  .favcart.favstyle #hikashop_cart_module .dropdown-menu {
+    border-left: none;
+    border-right: none;
+  }
+  .favcartfavstyle.pull-right #hikashop_cart_module {
+    border-bottom: 1px solid #DDD !important;
+  }
+
+}
+
+/*/
+///
+///  currency
+///
+/*/
+
+#fav-containerwrap .hikashop_currency_module .chzn-container-single .chzn-single {
+  color: #FFF !important;
+}
+#fav-containerwrap .hikashop_currency_module .chzn-container .chzn-results li.active-result:hover,
+#fav-containerwrap .hikashop_currency_module .chzn-container .chzn-results li.active-result:focus,
+#fav-containerwrap .hikashop_currency_module .chzn-container .chzn-results li.active-result.result-selected {
+  color: #E07481;
+}
+#fav-containerwrap .hikashop_currency_module .chzn-container:hover,
+#fav-containerwrap .hikashop_currency_module .chzn-container:focus,
+#fav-containerwrap .hikashop_currency_module .chzn-container a:hover,
+#fav-containerwrap .hikashop_currency_module .chzn-container a:focus,
+#fav-containerwrap .hikashop_currency_module .chzn-container:hover span,
+#fav-containerwrap .hikashop_currency_module .chzn-container:focus span,
+#fav-containerwrap .hikashop_currency_module .chzn-container a:hover span,
+#fav-containerwrap .hikashop_currency_module .chzn-container a:focus span, {
+  background-color: transparent;
+  color: #FFF;
+}
+#fav-containerwrap .hikashop_currency_module .chzn-container .chzn-results li.active-result {
+  background-color: #FFF;
+  color: #333;
+}
+#fav-containerwrap .hikashop_currency_module .chzn-container-single .chzn-single {
+  border: 2px solid transparent;
+}
+#fav-containerwrap .hikashop_currency_module .chzn-container-single .chzn-single:hover,
+#fav-containerwrap .hikashop_currency_module .chzn-container-single .chzn-single:focus {
+  border: 2px solid #E07481;
+}
+
+/* /// mobile */
+@media (max-width: 768px) {
+
+  #fav-containerwrap .hikashop_currency_module .chzn-container-single .chzn-single {
+    color: #333 !important;
+  }
+  #fav-containerwrap .hikashop_currency_module .chzn-container-single .chzn-single:hover,
+  #fav-containerwrap .hikashop_currency_module .chzn-container-single .chzn-single:focus {
+    border: 2px solid transparent;
+  }
+  #fav-containerwrap .hikashop_currency_module .chzn-container .chzn-results {
+    border-top: 1px solid #ddd;
+  }
+  #fav-containerwrap .hikashop_currency_module .chzn-container {
+    border-bottom: 1px solid #ddd;
+  }
+
+}
+
+/*/
+///
+///  checkout
+///
+/*/
+
+#hikashop_checkout_cart thead {
+  background-color: #E07481;
+}
+p.hikashop_cart_product_name a {
+  color: #E07481;
+}
+#hikashop_checkout_page .btn.btn-radio.active.btn-primary,
+#hikashop_checkout_page .btn.btn-radio.active.btn-primary:hover,
+#hikashop_checkout_page .btn.btn-radio.active.btn-primary:focus {
+  box-shadow: none;
+  background-color: #333;
+}
+.hikashop_checkout_cart_shipping,
+.hikashop_checkout_cart_subtotal {
+  color: #333;
+}
+#hikashop_checkout_login a.btn:hover i,
+#hikashop_checkout_login a.btn:focus i,
+#hikashop_checkout_login a.btn i:hover,
+#hikashop_checkout_login a.btn i:focus {
+  color: #333 !important;
+}
+
+/*/
+///
+///  account
+///
+/*/
+
+.hikashop_cpanel_icon_table:hover .hikashop_cpanel_button_description {
+  color: #E07481;
+}
+
+/*/
+///
+///  view orders
+///
+/*/
+
+#hikashop_order_listing a,
+#hikashop_order_listing a,
+#hikashop_download_listing a,
+#hikashop_download_listing a,
+#hikashop_carts_listing div.toolbar a:hover,
+#hikashop_affiliate_main div.toolbar a:hover,
+#hikashop_address_listing div.toolbar a:hover,
+#hikashop_order_listing div.toolbar a:hover,
+#hikashop_order_listing span.icon-32-back,
+#hikashop_order_back_button span.icon-32-back,
+#hikashop_download_listing div.toolbar a:hover,
+#hikashop_download_listing span.icon-32-back,
+#hikashop_download_back_button span.icon-32-back,
+#hikashop_address_listing span.icon-32-back,
+#hikashop_new_address_popup span.icon-32-new,
+#hikashop_order_listing span.icon-32-back:hover,
+#hikashop_order_listing span.icon-32-back:focus,
+#hikashop_order_back_button span.icon-32-back:hover,
+#hikashop_order_back_button span.icon-32-back:focus,
+#hikashop_download_listing span.icon-32-back:hover,
+#hikashop_download_listing span.icon-32-back:focus,
+#hikashop_download_back_button span.icon-32-back:hover,
+#hikashop_download_back_button span.icon-32-back:focus,
+#hikashop_address_listing span.icon-32-back:hover,
+#hikashop_address_listing span.icon-32-back:focus,
+#hikashop_new_address_popup span.icon-32-new:hover,
+#hikashop_new_address_popup span.icon-32-new:focus,
+#htmlfieldset_products .hikashop_order_product_name:hover {
+  color: #E07481;
+}
+td.hikashop_order_number_value a,
+td.hikashop_download_number_value a {
+  color: #E07481 !important;
+}
+
+/*/
+///
+///  store category
+///
+/*/
+
+.hikashop_categories_listing_main a:hover,
+.hikashop_categories_listing_main a:focus {
+  color: #E07481;
+}
+
+/*//////////////////////////////////////////////////////////////////////////////
+
+2.12. extensions
+
+//////////////////////////////////////////////////////////////////////////////*/
+
+/*//////////////////////////////////////////////////////////////////////////////
+///
+///  favcontent
+///
+//////////////////////////////////////////////////////////////////////////////*/
+
+.favstyle div[id^="favcontent-readmore"] a.btn,
+.favstyle div[id*=" favcontent-readmore"] a.btn {
+  background-color: #E07481 !important;
+}
+
+/*//////////////////////////////////////////////////////////////////////////////
+///
+///  favteam
+///
+//////////////////////////////////////////////////////////////////////////////*/
+
+.favstyle div[id^="favteam"] a,
+.favstyle div[id*=" favteam"] a,
+.favstyle div[id^="favteam"] a:hover,
+.favstyle div[id*=" favteam"] a:hover,
+.favstyle div[id^="favteam"] a:focus,
+.favstyle div[id*=" favteam"] a:focus {
+  color: #E07481 !important;
+}
+.favstyle p[class^="favteam-contact-"] i,
+.favstyle p[class*=" favteam-contact-"] i {
+  color: #E07481 !important;
+}
+.favstyle #favteam-overlay.overlay-dark li[class^="favteam-icon"] i,
+.favstyle #favteam-overlay.overlay-dark li[class*=" favteam-icon"] i {
+  background-color: #E07481 !important;
+}
+
+/*//////////////////////////////////////////////////////////////////////////////
+///
+///  favshowcase
+///
+//////////////////////////////////////////////////////////////////////////////*/
+
+.favstyle div[id^="favshowcase-readmore"] a.btn,
+.favstyle div[id*=" favshowcase-readmore"] a.btn {
+  background-color: #E07481 !important;
+}
+.favstyle div[id^="favshowcase-readmore"] a.btn:hover,
+.favstyle div[id*=" favshowcase-readmore"] a.btn:hover,
+.favstyle div[id^="favshowcase-readmore"] a.btn:focus,
+.favstyle div[id*=" favshowcase-readmore"] a.btn:focus {
+  background-color: transparent !important;
+  box-shadow: none;
+}
+
+/*//////////////////////////////////////////////////////////////////////////////
+///
+///  favportfolio
+///
+//////////////////////////////////////////////////////////////////////////////*/
+
+.favstyle a#favportfolio-zoom {
+  border-color: transparent #E07481 #E07481 transparent !important;
+}
+
+/*//////////////////////////////////////////////////////////////////////////////
+///
+///  favpromote
+///
+//////////////////////////////////////////////////////////////////////////////*/
+
+.favstyle div[id^="favpromote-box"] h4[id^="favpromote-title"],
+.favstyle div[id^="favpromote-box"] h4[id*=" favpromote-title"] {
+  border-bottom: none;
+  background-color: #E07481 !important;
+}
+.favstyle div[id^="favpromote-box"]:hover h4[id^="favpromote-title"],
+.favstyle div[id^="favpromote-box"]:hover h4[id*=" favpromote-title"],
+.favstyle div[id^="favpromote-box"] h4[id^="favpromote-title"]:hover,
+.favstyle div[id^="favpromote-box"] h4[id*=" favpromote-title"]:hover {
+  background-color: #111 !important;
+}
+
+/*//////////////////////////////////////////////////////////////////////////////
+///
+///  favglyph
+///
+//////////////////////////////////////////////////////////////////////////////*/
+
+.favstyle div.favglyph-description-center h2 a {
+  color: #E07481 !important;
+}
+.favstyle div.favglyph-icon-center div#favglyph-icon {
+  border: 1px solid #E07481 !important;
+}
+.favstyle div[id^="favglyph-icon"] i,
+.favstyle div[id*=" favglyph-icon"] i {
+  background-color: #E07481 !important;
+}
+.favstyle div.favglyph-text-center h2 a {
+  color: #E07481 !important;
+}
+
+/*//////////////////////////////////////////////////////////////////////////////
+///
+///  faveffects
+///
+//////////////////////////////////////////////////////////////////////////////*/
+
+.favstyle div[id^="faveffects-icon"],
+.favstyle div[id*=" faveffects-icon"] {
+  background-color: rgba(17,17,17,0.2) !important;
+  border-color: #E07481 !important;
+}
+.favstyle div[id^="faveffects-icon"]:hover,
+.favstyle div[id*=" faveffects-icon"]:hover {
+  background-color: rgba(17,17,17,0.2) !important;
+  border-color: #fff !important;
+}
+
+/*//////////////////////////////////////////////////////////////////////////////
+///
+///  favsocial
+///
+//////////////////////////////////////////////////////////////////////////////*/
+
+.favstyle div[id^="favsocial"] a,
+.favstyle div[id*=" favsocial"] a {
+  background-color: #E07481 !important;
+}

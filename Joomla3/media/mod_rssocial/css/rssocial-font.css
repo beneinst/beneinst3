@@ -1,0 +1,143 @@
+﻿@font-face {
+	font-family: 'RSSocialFont';
+	src: url('../font/rssocial-font.eot');
+	src: url('../font/rssocial-font.eot') format('embedded-opentype'),
+		url('../font/rssocial-font.woff') format('woff'),
+		url('../font/rssocial-font.ttf') format('truetype'),
+		url('../font/rssocial-font.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+.rssocial-icons,
+.rssocial-icons-sharing {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 0;
+    list-style: none;
+	margin: 0;
+    padding: 0;
+	z-index: 1000;
+}
+.rssocial-icons > li,
+.rssocial-icons-sharing > li {
+    display: block;
+}
+.rssocial-icons .rssocial-link,
+.rssocial-icons-sharing .rssocial-link {
+	box-sizing: content-box;
+    padding: .5em;
+    text-decoration: none;
+    -webkit-transition: color .2s;
+    -moz-transition: color .2s;
+    -o-transition: color .2s;
+    transition: color .2s;
+}
+.rssocial-icons .rssocial-caption,
+.rssocial-icons-sharing .rssocial-caption {
+	background-color: rgba(0, 0, 0, .75);
+	float: right;
+    height: 100%;
+	line-height: 1em;
+	margin-left: .1em;
+	padding: .5em;
+	text-align: center;
+	-webkit-transition: color .2s;
+	-moz-transition: color .2s;
+	-o-transition: color .2s;
+	transition: color .2s;
+	vertical-align: top;
+	z-index: 1000;
+}
+.rssocial-icons .rssocial-caption:hover,
+.rssocial-icons-sharing .rssocial-caption:hover {
+	background-color: rgba(0, 0, 0, .5);
+}
+.rssocial-icons .rssocial-caption > a,
+.rssocial-icons-sharing .rssocial-caption > a {
+    color: #ffffff;
+	display: block;
+    text-decoration: none;
+	-webkit-transition: color .2s;
+	-moz-transition: color .2s;
+	-o-transition: color .2s;
+	transition: color .2s;
+	vertical-align: top;
+}
+.rssocial-icons .rssocial-slide-button,
+.rssocial-icons .rssocial-slide-button .rssocial-link,
+.rssocial-icons-sharing .rssocial-slide-button,
+.rssocial-icons-sharing .rssocial-slide-button .rssocial-link {
+	display: block;
+}
+.rssocial-icons-nobg .rssocial-link {
+    color: rgba(0, 0, 0, .75);
+}
+.rssocial-icons-nobg .rssocial-link:hover {
+    color: rgba(0, 0, 0, .5);
+}
+.rssocial-icons-bg .rssocial-link {
+    background-color: rgba(0, 0, 0, .75);
+    color: #ffffff;
+    -webkit-transition: background-color, color .2s;
+    -moz-transition: background-color, color .2s;
+    -o-transition: background-color, color .2s;
+    transition: background-color, color .2s;
+}
+.rssocial-icons-bg .rssocial-link:hover {
+    background-color: rgba(0, 0, 0, .5);
+}
+.rssocial-icons-round .rssocial-link {
+    border-radius: 50%;
+}
+[class^="rssocial-icon-"]:before,
+[class*=" rssocial-icon-"]:before {
+    font-family: "RSSocialFont";
+    font-style: normal;
+    font-weight: normal;
+    speak: none;
+   
+    display: block;
+    text-align: center;
+	
+    font-variant: normal;
+    text-transform: none;
+
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+	
+	line-height: 1em;
+    height: 1em;
+    width: 1em;
+	text-align: center;
+	vertical-align: middle;
+}
+ 
+.rssocial-icon-facebook:before { content: '\f001'; }
+.rssocial-icon-twitter:before { content: '\f002'; }
+.rssocial-icon-instagram:before { content: '\f003'; }
+.rssocial-icon-linkedin:before { content: '\f004'; }
+	
+.rssocial-icon-youtube:before { content: '\f005'; }
+.rssocial-icon-tiktok:before { content: '\f006'; }
+.rssocial-icon-vimeo:before { content: '\f007'; }
+	
+.rssocial-icon-reddit:before { content: '\f008'; }
+.rssocial-icon-tumblr:before { content: '\f009'; }
+	
+.rssocial-icon-snapchat:before { content: '\f010'; }
+.rssocial-icon-whatsapp:before { content: '\f011'; }
+.rssocial-icon-skype:before { content: '\f012'; }
+
+.rssocial-icon-pinterest:before { content: '\f013'; }
+.rssocial-icon-flickr:before { content: '\f014'; }
+	
+.rssocial-icon-soundcloud:before { content: '\f015'; }
+.rssocial-icon-spotify:before { content: '\f016'; }
+	
+.rssocial-icon-github:before { content: '\f017'; }
+	
+.rssocial-icon-recommend:before { content: '\f018'; }
+.rssocial-icon-mail:before { content: '\f019'; }
+
+.rssocial-icon-share:before { content: '\f020'; }
+.rssocial-icon-more:before { content: '\f021'; }
