@@ -1,0 +1,35 @@
+/**
+ * @package Module EB Dark Mode for Joomla!
+ * @version 1.7: mod_ebdarkmode.php Nov 2021
+ * @author url: https://www/extnbakers.com
+ * @copyright Copyright (C) 2020 extnbakers.com. All rights reserved.
+ * @license GNU/GPLv3 http://www.gnu.org/licenses/gpl-3.0.html 
+**/
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+.ebdarkmodebtn .toggle:before{   content: '';    position: absolute;    top: 5px;    left: 6px;   width: 25px;    height: 24px;    background: #ffb200;    border-radius: 50%;    transition: 0.5s;}
+.ebdarkmodebtn .toggle.active:before{    left: 33px;   background: #ffb200;}
+.ebdarkmodebtn .eb_btnclr.red, .ebdarkmodebtn .red.active:before, .ebdarkmodebtn .red:before { border: 2px solid #e6194B; background: #e6194B; }
+.ebdarkmodebtn .eb_btnclr.yellow, .ebdarkmodebtn .yellow.active:before, .ebdarkmodebtn .yellow:before { border: 2px solid #ffe119; background: #ffe119; }
+.ebdarkmodebtn .eb_btnclr.lime, .ebdarkmodebtn .lime.active:before, .ebdarkmodebtn .lime:before { border: 2px solid #bfef45; background: #bfef45; }
+.ebdarkmodebtn .eb_btnclr.green, .ebdarkmodebtn .green.active:before, .ebdarkmodebtn .green:before { border: 2px solid #3cb44b; background: #3cb44b; }
+.ebdarkmodebtn .eb_btnclr.cyan, .ebdarkmodebtn .cyan.active:before, .ebdarkmodebtn .cyan:before { border: 2px solid #42d4f4; background: #42d4f4; }
+.ebdarkmodebtn .eb_btnclr.blue, .ebdarkmodebtn .blue.active:before, .ebdarkmodebtn .blue:before { border: 2px solid #4363d8; background: #4363d8; }
+.ebdarkmodebtn .eb_btnclr.magenta, .ebdarkmodebtn .magenta.active:before, .ebdarkmodebtn .magenta:before { border: 2px solid #f032e6; background: #f032e6; }
+.ebdarkmodebtn .eb_btnclr.grey, .ebdarkmodebtn .grey.active:before, .ebdarkmodebtn .grey:before { border: 2px solid #a9a9a9; background: #a9a9a9; }
+.ebdarkmodebtn .eb_btnclr.mint, .ebdarkmodebtn .mint.active:before, .ebdarkmodebtn .mint:before { border: 2px solid #aaffc3; background: #aaffc3; }
+.ebdarkmodebtn .eb_btnclr.lavender, .ebdarkmodebtn .lavender.active:before, .ebdarkmodebtn .lavender:before { border: 2px solid #e6beff; background: #e6beff; }
+.ebdarkmodebtn{	border-radius: 25px;}
+.ebdarkmodebtn #darkmode_button {display: inline-block;width: 65px;height:34px;cursor: pointer;font-size: 13px;padding: 0;border-radius: 25px;-webkit-box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.3);-moz-box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.3);box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.3);background: black;}
+.ebdarkmodebtn.ebdarkmode-top_left { position: fixed; top: 15px; left: 15px; z-index: 100000; }
+.ebdarkmodebtn.ebdarkmode-top_right { position: fixed; top: 15px; right: 15px; z-index: 100000; }
+.ebdarkmodebtn.ebdarkmode-bottom_left { position: fixed; bottom: 15px; left: 15px; z-index: 99; }
+.ebdarkmodebtn.ebdarkmode-bottom_right { position: fixed; bottom: 15px; right: 15px; z-index: 99; }
+.ebdarkmodebtn.ebdarkmode-center_left { position: fixed; top: 50%; left: 15px; z-index: 99;  transform: translateY(-50%);}
+.ebdarkmodebtn.ebdarkmode-center_right { position: fixed; top: 50%; right: 15px; z-index: 99; transform: translateY(-50%);}
+body.ebdarkmodecolor a span, body.ebdarkmodecolor a, body.ebdarkmodecolor a::after {	background-color: transparent !important;}
+
+.ebdarkmodebtn img {
+    max-width: 100%;
+}

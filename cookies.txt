@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.beneinst.it	TRUE	/	FALSE	1999999999	5a486ce936250f42ccac891a9cf114ff	t977uhdmq4th92qmd8ocllukfh
+
