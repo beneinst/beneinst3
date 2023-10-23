@@ -1,7 +1,3 @@
-Uri: https://assets.pinterest.com/images/pidgets/pinit_fg_en_rect_red_20.png
-File Name: C:\Downloaded Web Sites\www.beneinst.it\images\pidgets\pinit_fg_en_rect_red_20.png
-Content Type: image/png
-
 Uri: https://counter4.optistats.ovh/private/contatoreaccessi.php?c=kcr66ansm8fg5tyjst24a2qt66kn6n7j
 File Name: C:\Downloaded Web Sites\www.beneinst.it\private\contatoreaccessi.php
 Content Type: image/png
@@ -1066,8 +1062,8 @@ Uri: https://www.beneinst.it/images/Invio.png
 File Name: C:\Downloaded Web Sites\www.beneinst.it\images\Invio.png
 Content Type: image/png
 
-Uri: https://www.beneinst.it/images/Logo23_d7.png
-File Name: C:\Downloaded Web Sites\www.beneinst.it\images\Logo23_d7.png
+Uri: https://www.beneinst.it/images/Logo23_beneinst2.png
+File Name: C:\Downloaded Web Sites\www.beneinst.it\images\Logo23_beneinst2.png
 Content Type: image/png
 
 Uri: https://www.beneinst.it/images/prima4.png
@@ -2122,820 +2118,816 @@ Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/images/eb_darkmoode-4
 File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\images\eb_darkmoode-4.png
 Content Type: image/png
 
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=100026147
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-32.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1018448099
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-28.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=102117362
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-97.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1047748808
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-143.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1048835300
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-86.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1050014741
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-31.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1068033513
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-78.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1073458989
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-69.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1078080935
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-121.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1083211307
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-152.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1086211980
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-5.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1089113629
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-203.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1096462169
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-187.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1113838606
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-108.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1116905179
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-41.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1123141736
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-196.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1137165407
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-177.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1139157941
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-134.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1142352710
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-200.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1146304760
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-104.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1150946010
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-2.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1172617236
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-168.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1200700685
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-60.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1216660273
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-34.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1251890685
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-26.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1256515430
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-126.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1261008031
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=126729305
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-91.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1274999154
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-192.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=128097298
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-66.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1292113888
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-50.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=129421965
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-6.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1301606726
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-70.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1312915601
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-99.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1315442968
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-151.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1333076077
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-140.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1344939766
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-35.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1352423851
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-19.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1357343031
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-18.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1364446931
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-36.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1381583056
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-161.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=140220479
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-33.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1408222961
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-190.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1422025675
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-20.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1432423494
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-62.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1435709126
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-148.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1448938421
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-136.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1469351774
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-173.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1482379416
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-115.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1488229025
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-158.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1497442999
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-160.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=150598025
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-4.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1520907964
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-116.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1526752846
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-195.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1551232501
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-157.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1551364374
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-114.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1554027809
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-72.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=159008737
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-165.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1597103522
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-171.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1610539093
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-175.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=161231025
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1005264708
 File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-59.js
 Content Type: application/javascript
 
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1623491456
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-58.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1626090792
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-122.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1632661137
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-23.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=163550020
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-51.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1646218238
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-146.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1652054741
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-87.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1662015886
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-8.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=166777395
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-93.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1674235771
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-150.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1693016792
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-42.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1693764166
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-101.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1697562650
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-96.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1735364264
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-82.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1744425356
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-12.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1756930385
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-98.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1777382111
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-163.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1787349425
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-29.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1788367835
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-164.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1789446718
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-38.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1812609121
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-141.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1818740811
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-71.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1819808624
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-3.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1838586118
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-85.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1845707
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-176.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1847644583
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-21.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1850152979
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-154.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1881845976
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-24.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1896618083
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-7.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1906132666
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-119.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1906529958
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-180.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1940150713
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-84.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1955190692
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-17.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=196961941
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-54.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1980395455
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-109.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1982784062
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-124.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1994300498
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-57.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=199884016
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-166.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=2018331093
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-129.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=2028275064
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1009845310
 File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-145.js
 Content Type: application/javascript
 
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=2034946450
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-159.js
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1013822995
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-165.js
 Content Type: application/javascript
 
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=2044391545
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-77.js
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1021744596
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-85.js
 Content Type: application/javascript
 
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=2044952118
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-202.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=2069428081
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-63.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=2077483437
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-55.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=2082165287
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-14.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=2088676903
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-100.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=2093984
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-182.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=2105620247
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-110.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=2116894636
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-135.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=2118526597
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-92.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=2142925659
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-131.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=2142959379
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-67.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=233820111
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-52.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=234954776
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-102.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=239062644
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-45.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=245090295
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-181.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=253077443
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-113.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=262682204
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-201.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=273051850
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-153.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=275686956
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-139.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=277304677
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-118.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=311544091
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-132.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=321747279
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-120.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=355038661
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-88.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=356661799
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-179.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=35779510
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-178.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=361949804
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-162.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=372097502
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-142.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=388388279
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1021767140
 File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-48.js
 Content Type: application/javascript
 
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=395427234
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-81.js
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1028913223
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-67.js
 Content Type: application/javascript
 
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=397791041
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-188.js
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1071706091
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-179.js
 Content Type: application/javascript
 
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=413735578
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-193.js
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1082072868
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-57.js
 Content Type: application/javascript
 
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=45174280
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-68.js
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1096587678
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-87.js
 Content Type: application/javascript
 
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=457025452
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-74.js
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1100676162
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-63.js
 Content Type: application/javascript
 
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=462892303
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-170.js
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1101420726
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-109.js
 Content Type: application/javascript
 
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=484824143
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-1.js
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1116495502
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-163.js
 Content Type: application/javascript
 
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=489912786
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-127.js
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1122529733
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-192.js
 Content Type: application/javascript
 
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=50108682
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-80.js
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1122874376
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-187.js
 Content Type: application/javascript
 
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=502950118
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-37.js
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1125934118
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-33.js
 Content Type: application/javascript
 
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=515938060
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-185.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=538696672
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-144.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=548600133
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-174.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=549160823
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-103.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=549783468
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-30.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=55181937
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-9.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=597506817
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-111.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=629440564
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-155.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=636629071
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-25.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=639505056
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-10.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=64327618
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-169.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=658321068
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-56.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=660667246
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-79.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=661814380
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-64.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=661819859
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-112.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=665668380
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-40.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=674864373
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-44.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=690645280
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-53.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=695148357
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-117.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=696611811
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-105.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=706857297
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-133.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=717789433
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-138.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=731837423
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-107.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=734599527
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1135837921
 File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-184.js
 Content Type: application/javascript
 
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=736594263
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-76.js
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1137578634
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-103.js
 Content Type: application/javascript
 
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=737374764
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-128.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=737446633
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-194.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=738883436
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-22.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=744183213
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-46.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=74632454
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-183.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=749836540
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-16.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=757775780
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-47.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=758859119
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-73.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=763672900
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-106.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=788422326
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-39.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=810263396
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-90.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=819625928
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-186.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=820798345
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-156.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=844578799
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-13.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=848601247
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-61.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=864139313
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-95.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=864883642
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-43.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=865657749
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-125.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=869195551
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-147.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=87179270
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-65.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=873919551
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-94.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=884915156
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-89.js
-Content Type: application/javascript
-
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=885974003
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1144785624
 File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-75.js
 Content Type: application/javascript
 
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=887728388
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-199.js
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1156657649
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-196.js
 Content Type: application/javascript
 
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=912078790
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-189.js
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1165214486
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-193.js
 Content Type: application/javascript
 
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=913309395
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-137.js
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1177118111
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-173.js
 Content Type: application/javascript
 
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=918238479
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-11.js
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1181350863
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-82.js
 Content Type: application/javascript
 
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=918889940
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-191.js
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1181717674
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-19.js
 Content Type: application/javascript
 
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=948733366
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-197.js
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1206268126
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-186.js
 Content Type: application/javascript
 
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=951456619
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-15.js
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1230362162
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-120.js
 Content Type: application/javascript
 
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=96087141
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-149.js
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1234172957
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-178.js
 Content Type: application/javascript
 
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=967565121
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-167.js
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1238781976
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-22.js
 Content Type: application/javascript
 
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=977748451
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-49.js
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1240477217
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-32.js
 Content Type: application/javascript
 
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=983707771
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1246438586
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-131.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1252555929
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-52.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1253261322
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-7.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1256914169
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-94.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=126017833
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-50.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1270532407
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-44.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1293081068
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-195.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1297093807
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-76.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1300606621
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-166.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1303582802
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-8.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1303923827
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-141.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1311215736
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-106.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1328846327
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-201.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1338985994
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-150.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1346521294
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-138.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=134738394
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-60.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1354371881
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-202.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=13559810
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-99.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1356962355
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-16.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1357213430
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-147.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1358771078
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-20.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1379839980
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-134.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1382119998
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-128.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1385128894
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-133.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1388179213
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-169.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1398353279
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-157.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1398841440
 File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-123.js
 Content Type: application/javascript
 
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=984009226
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1424683883
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-168.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1428614789
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-35.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1465035719
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-69.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1467289553
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-180.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=148173897
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-93.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1495934886
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-29.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1497462962
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-175.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1497896642
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-41.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1503117483
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-89.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1504771282
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-10.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1513018035
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-30.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1515448313
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-53.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1520379455
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-183.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1520473696
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-86.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1520669323
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-118.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1528993663
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-119.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1539269032
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-71.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1554222748
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-77.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1556341664
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-46.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1566724248
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-73.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1583233565
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-91.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1593233232
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-104.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1604570081
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-110.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1636391342
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-36.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1638636728
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-197.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1644484511
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-70.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1645899861
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-164.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=165401559
 File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-198.js
 Content Type: application/javascript
 
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=987648526
-File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-130.js
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1659088292
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-153.js
 Content Type: application/javascript
 
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=989839188
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1661011412
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-90.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1689413738
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-17.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1690291583
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-4.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1711996226
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-54.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1758773434
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-199.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1766307607
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-58.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1777661202
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1780835169
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-116.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1790769973
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-80.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1794194326
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-38.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1806634733
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-108.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=181279720
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-1.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1813557564
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-113.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1829145168
 File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-83.js
 Content Type: application/javascript
 
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=99142125
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1833237269
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-61.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1833958824
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-194.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=183474748
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-158.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1861686944
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-11.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1861711649
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-31.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1876646408
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-112.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1876704494
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-42.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1905073090
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-66.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1913393792
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-171.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1923999753
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-105.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1944062813
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-97.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1946877500
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-55.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1948896165
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-170.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1950257227
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-124.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1955322372
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-68.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1964793232
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-6.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1976925925
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-98.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=1997568111
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-174.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=2005733212
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-101.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=201698410
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-136.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=2019304118
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-2.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=202167497
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-49.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=2046772207
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-148.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=2054597633
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-100.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=2055701946
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-191.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=2074935254
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-111.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=2087388091
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-162.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=2088403435
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-117.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=2104832622
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-43.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=2120473257
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-62.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=271895427
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-65.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=277591251
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-190.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=2796858
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-28.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=279690673
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-142.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=290584115
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-143.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=329717276
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-149.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=329728041
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-18.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=349390823
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-25.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=349736862
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-130.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=35519337
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-115.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=369672164
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-121.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=373654597
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-81.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=381305188
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-13.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=381589808
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-161.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=399341974
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-181.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=421577505
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-126.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=423640071
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-102.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=436612874
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-107.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=44006941
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-135.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=456428936
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-26.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=500385961
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-114.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=50370267
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-56.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=534111370
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-185.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=541508909
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-21.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=54540610
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-14.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=550545982
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-151.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=564748779
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-140.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=576683105
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-137.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=578924236
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-84.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=609766790
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-40.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=610326200
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-167.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=614439307
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-12.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=629853288
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-64.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=642008938
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-79.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=646945442
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-146.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=650355734
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-125.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=650663029
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-34.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=671428164
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-159.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=682991706
 File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-27.js
 Content Type: application/javascript
 
-Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=997585123
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=687053013
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-45.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=692338839
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-23.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=69618811
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-3.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=699775108
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-177.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=70752379
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-152.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=708624912
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-78.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=727291560
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-154.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=733864213
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-127.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=734366747
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-5.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=745873287
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-39.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=746442524
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-176.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=746616253
 File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-172.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=752169548
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-188.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=753217068
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-156.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=757877889
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-132.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=79403575
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-189.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=796457934
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-160.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=79982206
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-37.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=80116938
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-51.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=818338621
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-72.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=829021306
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-200.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=833071611
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-47.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=841888255
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-182.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=843442444
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-129.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=856388324
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-155.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=882079571
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-144.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=882384973
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-139.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=892080872
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-74.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=909872208
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-122.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=91366502
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-92.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=920912055
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-88.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=922816400
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-15.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=942046386
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-24.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=95229320
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-96.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=962119064
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-95.js
+Content Type: application/javascript
+
+Uri: https://www.beneinst.it/modules/mod_ebdarkmode/assets/js/ebdarkmode.js?v=990917640
+File Name: C:\Downloaded Web Sites\www.beneinst.it\modules\mod_ebdarkmode\assets\js\ebdarkmode-9.js
 Content Type: application/javascript
 
 Uri: https://www.beneinst.it/modules/mod_favshowcase/theme/css/favshowcase.css
