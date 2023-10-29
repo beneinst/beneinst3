@@ -5,7 +5,7 @@
 		<title>Mappa di Beneinst</title>
 		<description><![CDATA[]]></description>
 		<link>https://www.beneinst.it/mappa-beneinst.html</link>
-		<lastBuildDate>Thu, 26 Oct 2023 17:36:28 +0000</lastBuildDate>
+		<lastBuildDate>Sun, 29 Oct 2023 07:52:59 +0000</lastBuildDate>
 		<generator>Joomla! - Open Source Content Management</generator>
 		<atom:link rel="self" type="application/rss+xml" href="https://www.beneinst.it/mappa-beneinst.feed?type=rss"/>
 		<language>it-it</language>
@@ -48,7 +48,7 @@
 <p><span style="font-family: 'andale mono', monospace;"><a href="https://www.beneinst.it/index.php/di-felice-gualtieri">Di Felice Gualtieri</a></span></p>
 <p><span style="font-family: 'andale mono', monospace;"><a href="https://www.beneinst.it/index.php/salvatoretonnara">Di Salvatore Tonnara</a></span></p>
 <p><span style="font-family: 'andale mono', monospace;">SED ETIAM</span></p>
-<p><span style="font-family: 'andale mono', monospace;"><a href="https://www.beneinst.it/index.php/joomla/invia-sed-etiam">Invio Sed Etiam</a></span>{loadposition darkmode}</p>]]></description>
+<p><span style="font-family: 'andale mono', monospace;"><a href="https://www.beneinst.it/invio-sed-etiam">Invio Sed Etiam</a></span>{loadposition darkmode}</p>]]></description>
 			<author>gerardo.dorrico1@gmail.com (Gerardo D'Orrico)</author>
 			<category>mappas</category>
 			<pubDate>Wed, 10 Jun 2020 10:10:22 +0000</pubDate>
